@@ -1,0 +1,4 @@
+check
+
+            "emissiveFactor" : [
+in gltf
