@@ -6,7 +6,6 @@ __pycache__
 *.blend[1-9]
 *.bak
 *.psd
-*.jpg
 
 
 .References/*
