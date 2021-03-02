@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml><GroundOverlay><name>oerktower.png</name><color>88ffffff</color><Icon>
-<href>oerktower.png</href>
-<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
-<north>24.9644860625267</north>
-<south>24.9539798498154</south>
-<east>46.7056193947792</east>
-<west>46.6946089267731</west>
-</LatLonBox></GroundOverlay></kml>
