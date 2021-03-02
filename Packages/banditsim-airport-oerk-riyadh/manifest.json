@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "Riyadh - King Khaled Intl.",
+  "manufacturer": "",
+  "creator": "BanditSim",
+  "package_version": "0.1.0",
+  "minimum_game_version": "1.13.17",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
