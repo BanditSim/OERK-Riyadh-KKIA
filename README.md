@@ -22,6 +22,7 @@ You can find the latest built scenery inside the ```Packages/``` folder
 
 - Tower, firestation and mosque are currently untextured
 - Traffic drives on taxiway bridges
+- Terminal 5 has multiple modelling and UV errors
 
 ## Screenshots 
 
