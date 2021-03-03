@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<Rectangle width="3542.999512" falloff="2000.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.98312221489697" longitude="46.68021019644173" altitude="627.80587957147509" latitude2="24.98564048222372" longitude2="46.68495981572271" altitude2="627.83300265483558">
+	<Rectangle width="3542.999512" falloff="2000.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.98312217707264" longitude="46.68021022064148" altitude="627.80587553419173" latitude2="24.98564052004869" longitude2="46.68495979152392" altitude2="627.83300668932498">
 		<RunwayDeformation alt="619.858032" ratio="0.000000"/>
 		<RunwayDeformation alt="618.778931" ratio="0.142727"/>
 		<RunwayDeformation alt="617.476074" ratio="0.213636"/>
@@ -223,11 +223,11 @@
 		<LibraryObject name="{B3B39632-CA17-4594-BF6C-FF76A86B39C2}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: ConstructionDumpster_Green_Full-->
-	<SceneryObject displayName=" (copy)" lat="24.95910195832991" lon="46.70415284192186" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="91.831634" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95910195832991" lon="46.70415284192186" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="91.831634" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{77DB2891-1C77-4060-8830-B5A3A3A7ABDF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: ConstructionDumpster_White_Full-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95910089634510" lon="46.70418344170749" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="91.831634" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95910089634510" lon="46.70418344170749" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="91.831634" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7B4BE4B8-2355-49A3-BCD9-8F4662978638}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: ConstructionPipeGroup02-->
@@ -247,7 +247,7 @@
 		<LibraryObject name="{12260546-FDA7-480E-ADA6-098670A1C210}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Cable_Reel_01-->
-	<SceneryObject displayName=" (copy)" lat="24.95916065873384" lon="46.70499738251364" alt="0.00000000000000" pitch="0.000294" bank="-0.000294" heading="-141.138045" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95916065873384" lon="46.70499738251364" alt="0.00000000000000" pitch="0.000294" bank="-0.000294" heading="-141.138045" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B64F6943-A59F-403E-8A49-33CEF622F4F9}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Cable_Reel_01-->
@@ -255,7 +255,7 @@
 		<LibraryObject name="{B64F6943-A59F-403E-8A49-33CEF622F4F9}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Cable_Reel_02-->
-	<SceneryObject displayName=" (copy)" lat="24.95917275439069" lon="46.70501119740046" alt="0.00000000000000" pitch="0.000294" bank="-0.000294" heading="-141.138045" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95917275439069" lon="46.70501119740046" alt="0.00000000000000" pitch="0.000294" bank="-0.000294" heading="-141.138045" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C590FF9A-B16C-47FD-BA65-3D12CFB0C6E9}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Cable_Reel_02-->
@@ -267,7 +267,7 @@
 		<LibraryObject name="{AD03FB75-D97A-4A2F-A4AB-A54EDD9B6F5E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_CheeryPicker-->
-	<SceneryObject displayName=" (copy)" lat="24.95908413001646" lon="46.70510468183378" alt="0.00000000000000" pitch="0.000949" bank="-0.000949" heading="149.909511" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95908413001646" lon="46.70510468183378" alt="0.00000000000000" pitch="0.000949" bank="-0.000949" heading="149.909511" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{E7F2D8C9-5150-40F2-A623-FB167A5F868B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_CheeryPicker-->
@@ -287,43 +287,43 @@
 		<LibraryObject name="{5FDF1B9A-D641-4D3E-A97E-6B9BC6F055DF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy)" lat="24.95911325397446" lon="46.70370263725417" alt="0.00000000000000" pitch="0.002411" bank="-0.003408" heading="-91.640443" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95911325397446" lon="46.70370263725417" alt="0.00000000000000" pitch="0.002411" bank="-0.003408" heading="-91.640443" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="24.95911951924443" lon="46.70365460327937" alt="0.00000000000000" pitch="0.001939" bank="-0.001939" heading="92.814806" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95911951924443" lon="46.70365460327937" alt="0.00000000000000" pitch="0.001939" bank="-0.001939" heading="92.814806" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95913998596608" lon="46.70449065343367" alt="0.00000000000000" pitch="0.002083" bank="-0.002083" heading="89.769607" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95913998596608" lon="46.70449065343367" alt="0.00000000000000" pitch="0.002083" bank="-0.002083" heading="89.769607" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="24.95948545714362" lon="46.70418314796066" alt="0.00000000000000" pitch="0.002411" bank="-0.003408" heading="-91.640443" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95948545714362" lon="46.70418314796066" alt="0.00000000000000" pitch="0.002411" bank="-0.003408" heading="-91.640443" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95948641660826" lon="46.70435348550307" alt="0.00000000000000" pitch="0.002411" bank="-0.003408" heading="-91.640443" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95948641660826" lon="46.70435348550307" alt="0.00000000000000" pitch="0.002411" bank="-0.003408" heading="-91.640443" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95948910833279" lon="46.70426345139671" alt="0.00000000000000" pitch="0.000867" bank="-0.000867" heading="176.925751" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95948910833279" lon="46.70426345139671" alt="0.00000000000000" pitch="0.000867" bank="-0.000867" heading="176.925751" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy)" lat="24.95949006779743" lon="46.70443378893912" alt="0.00000000000000" pitch="0.000867" bank="-0.000867" heading="176.925751" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949006779743" lon="46.70443378893912" alt="0.00000000000000" pitch="0.000867" bank="-0.000867" heading="176.925751" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95949172241359" lon="46.70413511398586" alt="0.00000000000000" pitch="0.001939" bank="-0.001939" heading="92.814806" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949172241359" lon="46.70413511398586" alt="0.00000000000000" pitch="0.001939" bank="-0.001939" heading="92.814806" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95949268187823" lon="46.70430545152828" alt="0.00000000000000" pitch="0.001939" bank="-0.001939" heading="92.814806" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949268187823" lon="46.70430545152828" alt="0.00000000000000" pitch="0.001939" bank="-0.001939" heading="92.814806" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95949761182027" lon="46.70422019593025" alt="0.00000000000000" pitch="0.002083" bank="-0.002083" heading="89.769607" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949761182027" lon="46.70422019593025" alt="0.00000000000000" pitch="0.002083" bank="-0.002083" heading="89.769607" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
@@ -331,23 +331,23 @@
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95949857128491" lon="46.70439053347267" alt="0.00000000000000" pitch="0.002083" bank="-0.002083" heading="89.769607" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949857128491" lon="46.70439053347267" alt="0.00000000000000" pitch="0.002083" bank="-0.002083" heading="89.769607" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95949857319401" lon="46.70476360017586" alt="0.00000000000000" pitch="0.001544" bank="-0.002541" heading="-88.566189" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949857319401" lon="46.70476360017586" alt="0.00000000000000" pitch="0.001544" bank="-0.002541" heading="-88.566189" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy)" lat="24.95950717786446" lon="46.70471600390056" alt="0.00000000000000" pitch="0.001072" bank="-0.001072" heading="95.889060" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95950717786446" lon="46.70471600390056" alt="0.00000000000000" pitch="0.001072" bank="-0.001072" heading="95.889060" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Crate_Pack02-->
-	<SceneryObject displayName=" (copy)" lat="24.95950889907807" lon="46.70480130988057" alt="0.00000000000000" pitch="0.001216" bank="-0.001216" heading="92.843861" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95950889907807" lon="46.70480130988057" alt="0.00000000000000" pitch="0.001216" bank="-0.001216" heading="92.843861" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C1444E5E-8EBD-48AE-8B27-48433F661B7E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_PalletTruck_01-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95910679217206" lon="46.70450776644714" alt="0.00000000000000" pitch="0.000840" bank="-0.000874" heading="-103.039687" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95910679217206" lon="46.70450776644714" alt="0.00000000000000" pitch="0.000840" bank="-0.000874" heading="-103.039687" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{88572A65-D96B-4B0A-9867-E7FBCA1FAD38}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_PalletTruck_01-->
@@ -355,7 +355,7 @@
 		<LibraryObject name="{88572A65-D96B-4B0A-9867-E7FBCA1FAD38}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_PalletTruck_01-->
-	<SceneryObject displayName=" (copy)" lat="24.95947652592038" lon="46.70484082021554" alt="0.00000000000000" pitch="0.000840" bank="-0.000874" heading="-103.039687" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95947652592038" lon="46.70484082021554" alt="0.00000000000000" pitch="0.000840" bank="-0.000874" heading="-103.039687" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{88572A65-D96B-4B0A-9867-E7FBCA1FAD38}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Pallet_LinePack01-->
@@ -375,31 +375,31 @@
 		<LibraryObject name="{6B392EC2-1A28-47C3-BB1E-79341FD5E951}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing01-->
-	<SceneryObject displayName=" (copy)" lat="24.95947541432435" lon="46.70357651803272" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95947541432435" lon="46.70357651803272" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{6B392EC2-1A28-47C3-BB1E-79341FD5E951}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95947542325020" lon="46.70363210189725" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95947542325020" lon="46.70363210189725" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95947553732118" lon="46.70361371111179" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95947553732118" lon="46.70361371111179" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95947602063290" lon="46.70359534185734" alt="0.00000000000000" pitch="0.001400" bank="-0.001400" heading="0.004535" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95947602063290" lon="46.70359534185734" alt="0.00000000000000" pitch="0.001400" bank="-0.001400" heading="0.004535" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95947610859723" lon="46.70355809024016" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95947610859723" lon="46.70355809024016" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="24.95947622266821" lon="46.70353969945471" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95947622266821" lon="46.70353969945471" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="24.95947670597993" lon="46.70352133020025" alt="0.00000000000000" pitch="0.001400" bank="-0.001400" heading="0.004535" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95947670597993" lon="46.70352133020025" alt="0.00000000000000" pitch="0.001400" bank="-0.001400" heading="0.004535" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
@@ -407,31 +407,31 @@
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy)" lat="24.95949514878566" lon="46.70363210926981" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949514878566" lon="46.70363210926981" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95949526285664" lon="46.70361371848435" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949526285664" lon="46.70361371848435" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy)" lat="24.95949556499067" lon="46.70357682878867" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949556499067" lon="46.70357682878867" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="24.95949574617067" lon="46.70359535094077" alt="0.00000000000000" pitch="0.001400" bank="-0.001400" heading="0.004535" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949574617067" lon="46.70359535094077" alt="0.00000000000000" pitch="0.001400" bank="-0.001400" heading="0.004535" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95949583413269" lon="46.70355809761273" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949583413269" lon="46.70355809761273" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95949594820367" lon="46.70353970682726" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949594820367" lon="46.70353970682726" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Parpaing02-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy)" lat="24.95949643151770" lon="46.70352133928369" alt="0.00000000000000" pitch="0.001400" bank="-0.001400" heading="0.004535" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95949643151770" lon="46.70352133928369" alt="0.00000000000000" pitch="0.001400" bank="-0.001400" heading="0.004535" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{34580227-E804-4DAB-88EC-882EDD99F372}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
@@ -463,11 +463,11 @@
 		<LibraryObject name="{691518B4-16BD-4E09-AC6A-6EA678666577}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Toilet_Blue-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95865663164417" lon="46.70518317125774" alt="0.00000000000000" pitch="0.000792" bank="-0.000792" heading="152.695928" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95865663164417" lon="46.70518317125774" alt="0.00000000000000" pitch="0.000792" bank="-0.000792" heading="152.695928" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{A39932DE-05BE-46AC-A3D0-010913B361F0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Toilet_Blue-->
-	<SceneryObject displayName=" (copy)" lat="24.95866402792962" lon="46.70519989169620" alt="0.00000000000000" pitch="0.000792" bank="-0.000792" heading="152.695928" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95866402792962" lon="46.70519989169620" alt="0.00000000000000" pitch="0.000792" bank="-0.000792" heading="152.695928" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{A39932DE-05BE-46AC-A3D0-010913B361F0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Toilet_Blue-->
@@ -479,15 +479,15 @@
 		<LibraryObject name="{FC92DDFF-17B2-4541-9E06-C5605C06056C}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Wooden_Pallet02-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95909423134996" lon="46.70373546210384" alt="0.00000000000000" pitch="0.000867" bank="-0.000867" heading="176.925751" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95909423134996" lon="46.70373546210384" alt="0.00000000000000" pitch="0.000867" bank="-0.000867" heading="176.925751" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{A5FC9DF3-DC42-4B53-BD85-95707D80F69C}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Wooden_Pallet02-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95946643451912" lon="46.70421597281034" alt="0.00000000000000" pitch="0.000867" bank="-0.000867" heading="176.925751" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95946643451912" lon="46.70421597281034" alt="0.00000000000000" pitch="0.000867" bank="-0.000867" heading="176.925751" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{A5FC9DF3-DC42-4B53-BD85-95707D80F69C}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Wooden_Pallet02-->
-	<SceneryObject displayName=" (copy)" lat="24.95946739398376" lon="46.70438631035275" alt="0.00000000000000" pitch="0.000867" bank="-0.000867" heading="176.925751" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95946739398376" lon="46.70438631035275" alt="0.00000000000000" pitch="0.000867" bank="-0.000867" heading="176.925751" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{A5FC9DF3-DC42-4B53-BD85-95707D80F69C}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_Wooden_Pallet02-->
@@ -515,159 +515,159 @@
 		<LibraryObject name="{1063DAFF-9997-4084-A6E3-0F38ECB8B679}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95494616954451" lon="46.70646605201256" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-150.344130" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95494616954451" lon="46.70646605201256" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-150.344130" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95513779526939" lon="46.70658571088916" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-150.344130" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95513779526939" lon="46.70658571088916" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-150.344130" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95532785081977" lon="46.70670533856266" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-150.344130" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95532785081977" lon="46.70670533856266" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-150.344130" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy)" lat="24.95551947654339" lon="46.70682499742801" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-150.344130" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95551947654339" lon="46.70682499742801" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-150.344130" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy)" lat="24.95571077981191" lon="46.70694458344424" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-150.344130" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95571077981191" lon="46.70694458344424" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-150.344130" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="24.95590240553609" lon="46.70706424229834" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-150.344130" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95590240553609" lon="46.70706424229834" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-150.344130" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95609421414357" lon="46.70706411843094" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.388480" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95609421414357" lon="46.70706411843094" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.388480" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95628633059277" lon="46.70694541028523" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.388480" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95628633059277" lon="46.70694541028523" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.388480" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95647822437202" lon="46.70682696791580" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.388480" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95647822437202" lon="46.70682696791580" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.388480" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95667034110593" lon="46.70670825961109" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.388480" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95667034110593" lon="46.70670825961109" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.388480" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95678435224987" lon="46.70663734227486" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.388480" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95678435224987" lon="46.70663734227486" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.388480" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy)" lat="24.95687708116006" lon="46.70645507004213" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.317865" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95687708116006" lon="46.70645507004213" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.317865" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95687968971698" lon="46.70621321733540" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.317865" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95687968971698" lon="46.70621321733540" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.317865" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95688239633360" lon="46.70597170925594" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.317865" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95688239633360" lon="46.70597170925594" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.317865" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95688500480364" lon="46.70572985635856" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.317865" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95688500480364" lon="46.70572985635856" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.317865" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95688834895484" lon="46.70548952525740" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.317865" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95688834895484" lon="46.70548952525740" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.317865" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95689021595514" lon="46.70529588661920" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.317865" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95689021595514" lon="46.70529588661920" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.317865" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95698706153480" lon="46.70511511171988" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.729409" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95698706153480" lon="46.70511511171988" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.729409" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95717756784555" lon="46.70499567866688" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.729409" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95717756784555" lon="46.70499567866688" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.729409" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95736786670173" lon="46.70487589396102" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.729409" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95736786670173" lon="46.70487589396102" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.729409" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95744482425875" lon="46.70482767648336" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.729409" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95744482425875" lon="46.70482767648336" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.729409" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95765347369881" lon="46.70483819245420" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95765347369881" lon="46.70483819245420" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95773027852823" lon="46.70488763713963" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95773027852823" lon="46.70488763713963" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy)" lat="24.95792076194556" lon="46.70500947069281" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95792076194556" lon="46.70500947069281" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy)" lat="24.95810967556925" lon="46.70513125517802" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95810967556925" lon="46.70513125517802" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="24.95830015898657" lon="46.70525308873120" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95830015898657" lon="46.70525308873120" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="24.95849032065472" lon="46.70537484577464" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95849032065472" lon="46.70537484577464" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95868080407204" lon="46.70549667932782" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95868080407204" lon="46.70549667932782" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-149.749575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95886935541271" lon="46.70549605456281" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="149.525805" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95886935541271" lon="46.70549605456281" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="149.525805" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95905855033204" lon="46.70537365182171" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="149.393531" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95905855033204" lon="46.70537365182171" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="149.393531" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95924760901110" lon="46.70525013295688" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="149.393531" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95924760901110" lon="46.70525013295688" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="149.393531" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy)" lat="24.95943684009579" lon="46.70512766831733" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="149.393531" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95943684009579" lon="46.70512766831733" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="149.393531" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95951104657923" lon="46.70363753686257" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="89.711967" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95951104657923" lon="46.70363753686257" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="89.711967" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy)" lat="24.95951358070525" lon="46.70339705912378" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="91.889793" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95951358070525" lon="46.70339705912378" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="91.889793" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95951512917616" lon="46.70387847636471" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="88.076546" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95951512917616" lon="46.70387847636471" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="88.076546" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95951923375730" lon="46.70411968824245" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="89.711967" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95951923375730" lon="46.70411968824245" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="89.711967" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="24.95952331635423" lon="46.70436062774458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="88.076546" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95952331635423" lon="46.70436062774458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="88.076546" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="24.95953069520871" lon="46.70460218237798" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="88.076546" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953069520871" lon="46.70460218237798" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="88.076546" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="24.95953479978969" lon="46.70484339428507" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="89.711967" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953479978969" lon="46.70484339428507" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="89.711967" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
@@ -675,11 +675,11 @@
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
-	<SceneryObject displayName=" (copy)" lat="24.95965372704840" lon="46.70305235152622" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-120.373847" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95965372704840" lon="46.70305235152622" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-120.373847" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_Little-->
-	<SceneryObject displayName=" (copy)" lat="24.95953043532569" lon="46.70503479916332" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="91.332955" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953043532569" lon="46.70503479916332" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="91.332955" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{12F6A256-C219-444C-8111-7465A431FC54}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_Little-->
@@ -1095,19 +1095,19 @@
 		<LibraryObject name="{9549F1E7-F148-4C64-312E-9F1281493BF7}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: OERKoldterminalmast2-->
-	<SceneryObject displayName=" (copy)" lat="24.96524475509495" lon="46.69969572375033" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="60.007542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.96524475509495" lon="46.69969572375033" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="60.007542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{9549F1E7-F148-4C64-312E-9F1281493BF7}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: OERKoldterminalmast2-->
-	<SceneryObject displayName=" (copy)" lat="24.96577203601604" lon="46.69935860074901" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="60.007542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.96577203601604" lon="46.69935860074901" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="60.007542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{9549F1E7-F148-4C64-312E-9F1281493BF7}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: OERKoldterminalmast2-->
-	<SceneryObject displayName=" (copy)" lat="24.96628858721595" lon="46.69902431150296" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="60.007542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.96628858721595" lon="46.69902431150296" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="60.007542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{9549F1E7-F148-4C64-312E-9F1281493BF7}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: OERKoldterminalmast2-->
-	<SceneryObject displayName=" (copy)" lat="24.96675813639686" lon="46.69871396075694" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="60.007542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.96675813639686" lon="46.69871396075694" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="60.007542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{9549F1E7-F148-4C64-312E-9F1281493BF7}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: OERKt2-->
@@ -1194,475 +1194,475 @@
 		<LibraryObject name="{4C36FDBA-3100-4086-3279-169A7BF5FDC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95463747394303" lon="46.70635967886686" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-14.335959" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95463747394303" lon="46.70635967886686" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-14.335959" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95471066818089" lon="46.70634559182930" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95471066818089" lon="46.70634559182930" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95477468374979" lon="46.70638663854341" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95477468374979" lon="46.70638663854341" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95484110802015" lon="46.70642755279478" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95484110802015" lon="46.70642755279478" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95490512633824" lon="46.70646800537266" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95490512633824" lon="46.70646800537266" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95496914190714" lon="46.70650905208677" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95496914190714" lon="46.70650905208677" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95503590651143" lon="46.70654922083675" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95503590651143" lon="46.70654922083675" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95509992482952" lon="46.70658967341463" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95509992482952" lon="46.70658967341463" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95516394039842" lon="46.70663072012874" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95516394039842" lon="46.70663072012874" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95522943438966" lon="46.70667115595406" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95522943438966" lon="46.70667115595406" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95529345270775" lon="46.70671160853195" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95529345270775" lon="46.70671160853195" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95535746827665" lon="46.70675265524605" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95535746827665" lon="46.70675265524605" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95542423288094" lon="46.70679282399603" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95542423288094" lon="46.70679282399603" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95548825119903" lon="46.70683327657392" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95548825119903" lon="46.70683327657392" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95555226676793" lon="46.70687432328803" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95555226676793" lon="46.70687432328803" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95561752059849" lon="46.70691427682575" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95561752059849" lon="46.70691427682575" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95568153891658" lon="46.70695472940365" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95568153891658" lon="46.70695472940365" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95574555448548" lon="46.70699577611774" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95574555448548" lon="46.70699577611774" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95581231908977" lon="46.70703594486773" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95581231908977" lon="46.70703594486773" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95587633740786" lon="46.70707639744562" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95587633740786" lon="46.70707639744562" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95594035297676" lon="46.70711744415972" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95594035297676" lon="46.70711744415972" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95600580184922" lon="46.70715344344307" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95600580184922" lon="46.70715344344307" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95607001652737" lon="46.70711230275697" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95607001652737" lon="46.70711230275697" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95613450537797" lon="46.70707220689757" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95613450537797" lon="46.70707220689757" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95619872005549" lon="46.70703106621368" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95619872005549" lon="46.70703106621368" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95626368895621" lon="46.70699063456587" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95626368895621" lon="46.70699063456587" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95632790363355" lon="46.70694949388263" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95632790363355" lon="46.70694949388263" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95639121077649" lon="46.70690942416650" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95639121077649" lon="46.70690942416650" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95645590058523" lon="46.70686918907892" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95645590058523" lon="46.70686918907892" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95652133627657" lon="46.70682967356713" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95652133627657" lon="46.70682967356713" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95658602608543" lon="46.70678943848134" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95658602608543" lon="46.70678943848134" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95665074977279" lon="46.70674975046445" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.401582" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95665074977279" lon="46.70674975046445" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.401582" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95671446768871" lon="46.70670870787566" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.453517" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95671446768871" lon="46.70670870787566" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.453517" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95677872605503" lon="46.70666871590752" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95677872605503" lon="46.70666871590752" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95684344974239" lon="46.70662902789064" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.401582" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95684344974239" lon="46.70662902789064" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.401582" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95690467212769" lon="46.70657809410516" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-87.673169" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95690467212769" lon="46.70657809410516" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-87.673169" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95690527869856" lon="46.70616319119938" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95690527869856" lon="46.70616319119938" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95690570589765" lon="46.70624672305458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.240664" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95690570589765" lon="46.70624672305458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.240664" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95690575996777" lon="46.70633052027927" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.235740" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95690575996777" lon="46.70633052027927" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.235740" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95690697438893" lon="46.70649507281442" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.687214" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95690697438893" lon="46.70649507281442" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.687214" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy)" lat="24.95690739571156" lon="46.70607931832147" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95690739571156" lon="46.70607931832147" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95690743705629" lon="46.70641354596457" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95690743705629" lon="46.70641354596457" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95690813554125" lon="46.70582893415213" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.240664" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95690813554125" lon="46.70582893415213" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.240664" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95690814025170" lon="46.70574548070131" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.242050" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95690814025170" lon="46.70574548070131" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.242050" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95690921161228" lon="46.70566259288633" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95690921161228" lon="46.70566259288633" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95690921492479" lon="46.70599560331843" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.246967" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95690921492479" lon="46.70599560331843" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.246967" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95690981563778" lon="46.70591143949574" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95690981563778" lon="46.70591143949574" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95691077336676" lon="46.70557821788568" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95691077336676" lon="46.70557821788568" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95691191346389" lon="46.70549480766083" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.311014" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95691191346389" lon="46.70549480766083" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-89.311014" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95691262648959" lon="46.70541135116628" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.704876" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95691262648959" lon="46.70541135116628" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.704876" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95691361538088" lon="46.70532471874152" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.237393" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95691361538088" lon="46.70532471874152" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.237393" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95691887215643" lon="46.70523707472115" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95691887215643" lon="46.70523707472115" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95698308683458" lon="46.70519593403505" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95698308683458" lon="46.70519593403505" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95704757568518" lon="46.70515583817566" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95704757568518" lon="46.70515583817566" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95711179036270" lon="46.70511469749177" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95711179036270" lon="46.70511469749177" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95717675926342" lon="46.70507426584395" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95717675926342" lon="46.70507426584395" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95724097394076" lon="46.70503312516072" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95724097394076" lon="46.70503312516072" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.903832" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95730428108370" lon="46.70499305544458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95730428108370" lon="46.70499305544458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95736897089244" lon="46.70495282035701" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95736897089244" lon="46.70495282035701" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95743531874020" lon="46.70491076876502" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95743531874020" lon="46.70491076876502" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95750000854893" lon="46.70487053367744" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95750000854893" lon="46.70487053367744" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-29.169935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95757487726690" lon="46.70483325899861" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.609492" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95757487726690" lon="46.70483325899861" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.609492" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95763977628121" lon="46.70487308667414" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.609492" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95763977628121" lon="46.70487308667414" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.609492" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95770399353709" lon="46.70491370367478" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.609492" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95770399353709" lon="46.70491370367478" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.609492" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95776889247224" lon="46.70495353150028" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.609492" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95776889247224" lon="46.70495353150028" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.609492" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95783361699511" lon="46.70499443206749" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.609492" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95783361699511" lon="46.70499443206749" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.609492" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95789851585111" lon="46.70503426004347" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.609492" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95789851585111" lon="46.70503426004347" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.609492" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95796211288796" lon="46.70507377356924" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95796211288796" lon="46.70507377356924" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95802654128223" lon="46.70511451026378" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95802654128223" lon="46.70511451026378" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95809078275098" lon="46.70515631716493" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95809078275098" lon="46.70515631716493" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95815521106516" lon="46.70519705401036" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95815521106516" lon="46.70519705401036" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95821922675045" lon="46.70523810050314" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95821922675045" lon="46.70523810050314" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95828379628719" lon="46.70527750911535" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95828379628719" lon="46.70527750911535" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95834781460528" lon="46.70531796169325" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95834781460528" lon="46.70531796169325" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95841183017418" lon="46.70535900840734" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95841183017418" lon="46.70535900840734" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95847859477847" lon="46.70539917715733" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95847859477847" lon="46.70539917715733" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95854261309656" lon="46.70543962973522" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95854261309656" lon="46.70543962973522" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95860662866546" lon="46.70548067644932" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95860662866546" lon="46.70548067644932" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="29.111742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95866930132917" lon="46.70551974367668" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95866930132917" lon="46.70551974367668" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.059807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95872324536944" lon="46.70555402387451" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95872324536944" lon="46.70555402387451" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="30.343389" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95878868268416" lon="46.70558404560951" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.802439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95878868268416" lon="46.70558404560951" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.802439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95884344112397" lon="46.70554809407990" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.802439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95884344112397" lon="46.70554809407990" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.802439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95890734880190" lon="46.70550689374576" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.802439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95890734880190" lon="46.70550689374576" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.802439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95897096740160" lon="46.70546465343111" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.802439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95897096740160" lon="46.70546465343111" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.802439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95903535026939" lon="46.70542310908974" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.802439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95903535026939" lon="46.70542310908974" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.802439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95909896886932" lon="46.70538086877362" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.802439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95909896886932" lon="46.70538086877362" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.802439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) " lat="24.95916169535745" lon="46.70533971490505" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.068542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95916169535745" lon="46.70533971490505" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.068542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95922580197789" lon="46.70529837189795" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.068542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95922580197789" lon="46.70529837189795" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.068542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95929066467741" lon="46.70525773554642" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.068542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95929066467741" lon="46.70525773554642" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.068542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95935477129785" lon="46.70521639253932" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.068542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95935477129785" lon="46.70521639253932" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.068542" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95942040777024" lon="46.70517250370648" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-34.313559" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95942040777024" lon="46.70517250370648" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-34.313559" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95948251824724" lon="46.70512451012816" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-31.150539" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95948251824724" lon="46.70512451012816" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-31.150539" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95952577944126" lon="46.70360548577548" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95952577944126" lon="46.70360548577548" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95952757001647" lon="46.70352407262231" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95952757001647" lon="46.70352407262231" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95952780761348" lon="46.70368606350748" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95952780761348" lon="46.70368606350748" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy)" lat="24.95952887584348" lon="46.70344215931932" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95952887584348" lon="46.70344215931932" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953016716500" lon="46.70376671337846" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953016716500" lon="46.70376671337846" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="24.95953060208931" lon="46.70336069637076" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953060208931" lon="46.70336069637076" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy)" lat="24.95953081903739" lon="46.70392970514447" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953081903739" lon="46.70392970514447" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953211004952" lon="46.70384875372424" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953211004952" lon="46.70384875372424" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953277495616" lon="46.70401145669139" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953277495616" lon="46.70401145669139" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953342682855" lon="46.70417444845740" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953342682855" lon="46.70417444845740" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953471784068" lon="46.70409349703717" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953471784068" lon="46.70409349703717" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953533220574" lon="46.70425626490935" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953533220574" lon="46.70425626490935" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953540026081" lon="46.70474604795151" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953540026081" lon="46.70474604795151" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953598407813" lon="46.70441925667536" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953598407813" lon="46.70441925667536" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953641182885" lon="46.70499249179043" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953641182885" lon="46.70499249179043" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953676138476" lon="46.70482841977816" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953676138476" lon="46.70482841977816" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953727509026" lon="46.70433830525513" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953727509026" lon="46.70433830525513" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953734529176" lon="46.70450162837362" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953734529176" lon="46.70450162837362" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953777304248" lon="46.70507486348870" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953777304248" lon="46.70507486348870" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953799716415" lon="46.70466462013963" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953799716415" lon="46.70466462013963" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.573852" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953870435896" lon="46.70491045999555" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953870435896" lon="46.70491045999555" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="24.95953928817628" lon="46.70458366871940" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95953928817628" lon="46.70458366871940" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.539138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy) (copy)" lat="24.95954043254054" lon="46.70328187798432" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.187817" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95954043254054" lon="46.70328187798432" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.187817" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy) (copy)" lat="24.95960497109582" lon="46.70324124816462" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.187817" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95960497109582" lon="46.70324124816462" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.187817" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy)" lat="24.95966785380808" lon="46.70320092450058" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.187817" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95966785380808" lon="46.70320092450058" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-30.187817" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
-	<SceneryObject displayName=" (copy)" lat="24.95968735744092" lon="46.70308347789639" alt="0.00000000000000" pitch="0.002896" bank="-0.001544" heading="-119.400709" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="24.95968735744092" lon="46.70308347789639" alt="0.00000000000000" pitch="0.002896" bank="-0.001544" heading="-119.400709" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D458A71C-7BB9-42D7-BB64-002E0E6EAAC0}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: oerk-barrier-->
@@ -1677,28 +1677,28 @@
 	<SceneryObject lat="24.95777620689128" lon="46.69862550244961" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-28.374573" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7605EA11-9743-4378-B5BB-D31A77C6C974}" scale="1.000000"/>
 	</SceneryObject>
-	<Rectangle width="287.239380" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.94508443578135" longitude="46.70940088621982" altitude="620.08477786928415" latitude2="24.93957428185877" longitude2="46.71289539513926" altitude2="620.09656828735024"/>
-	<Rectangle width="820.355713" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.95849024284190" longitude="46.69796148179962" altitude="619.98485719505697" latitude2="24.95647801654495" longitude2="46.69926244391968" altitude2="619.98923992458731"/>
-	<Rectangle width="287.239380" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.96522338423487" longitude="46.70044975290526" altitude="620.54125310666859" latitude2="24.95534187275113" longitude2="46.70672468534156" altitude2="620.56227094773203"/>
-	<Rectangle width="81.630409" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95165999847142" longitude="46.71263665447903" altitude="618.00063663814217" latitude2="24.95151110826314" longitude2="46.71235439420036" altitude2="617.99902069289237"/>
-	<Rectangle width="557.295715" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95618133914502" longitude="46.70956574578135" altitude="617.37428793869913" latitude2="24.95611457851123" longitude2="46.70943919812456" altitude2="617.37356345262378"/>
-	<Rectangle width="7416.373047" falloff="2000.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="24.99531008610303" longitude="46.68582207175228" altitude="619.97905094642192" latitude2="24.92662829174740" longitude2="46.72937426582961" altitude2="620.12600173708051"/>
-	<Rectangle width="569.001831" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96140824326427" longitude="46.70628947541861" altitude="617.32800410874188" latitude2="24.96134148290452" longitude2="46.70616292262033" altitude2="617.32728098705411"/>
-	<Rectangle width="569.001831" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96662742956462" longitude="46.70303304591024" altitude="617.28231681697071" latitude2="24.96656066899734" longitude2="46.70290648750532" altitude2="617.28159419819713"/>
-	<Rectangle width="169.905273" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.97023699059643" longitude="46.70073101182949" altitude="617.30581116396934" latitude2="24.97017023023729" longitude2="46.70060444990517" altitude2="617.30508868023753"/>
-	<Rectangle width="160.433975" falloff="500.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="24.94190267322263" longitude="46.71689320387217" altitude="620.01726773567498" latitude2="24.93958296348760" longitude2="46.71838817631159" altitude2="620.02239177282900">
+	<Rectangle width="287.239380" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.94508441532530" longitude="46.70940084743359" altitude="620.08477338217199" latitude2="24.93957430231382" longitude2="46.71289543392434" altitude2="620.09657276794314"/>
+	<Rectangle width="820.355713" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.95849023990955" longitude="46.69796147638642" altitude="619.98485157079995" latitude2="24.95647801947716" longitude2="46.69926244933281" altitude2="619.98924554605037"/>
+	<Rectangle width="287.239380" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.96522331743711" longitude="46.70044962803179" altitude="620.54123674333096" latitude2="24.95534193954362" longitude2="46.70672481020843" altitude2="620.56228776741773"/>
+	<Rectangle width="81.630409" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95165999834477" longitude="46.71263665454448" altitude="618.00063670240343" latitude2="24.95151110838970" longitude2="46.71235439413493" altitude2="617.99902062304318"/>
+	<Rectangle width="557.295715" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95618133910638" longitude="46.70956574579448" altitude="617.37428768351674" latitude2="24.95611457854976" longitude2="46.70943919811144" altitude2="617.37356370687485"/>
+	<Rectangle width="7416.373047" falloff="2000.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="24.99530690187759" longitude="46.68581602725033" altitude="619.97925622574985" latitude2="24.92663147423199" longitude2="46.72938030810013" altitude2="620.12579438555986"/>
+	<Rectangle width="569.001831" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96140824323031" longitude="46.70628947542735" altitude="617.32800420001149" latitude2="24.96134148293837" longitude2="46.70616292261160" altitude2="617.32728089764714"/>
+	<Rectangle width="569.001831" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96662742953267" longitude="46.70303304592485" altitude="617.28231703117490" latitude2="24.96656066902920" longitude2="46.70290648749072" altitude2="617.28159397933632"/>
+	<Rectangle width="169.905273" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.97023699057474" longitude="46.70073101185060" altitude="617.30581150669605" latitude2="24.97017023025888" longitude2="46.70060444988406" altitude2="617.30508833285421"/>
+	<Rectangle width="160.433975" falloff="500.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="24.94190266929630" longitude="46.71689319688213" altitude="620.01726529095322" latitude2="24.93958296741375" longitude2="46.71838818330156" altitude2="620.02239421661943">
 		<RunwayDeformation alt="620.022156" ratio="0.000000"/>
 		<RunwayDeformation alt="618.978516" ratio="0.180909"/>
 		<RunwayDeformation alt="617.925903" ratio="0.399091"/>
 		<RunwayDeformation alt="617.976013" ratio="0.795455"/>
 		<RunwayDeformation alt="620.023010" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="374.473053" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.94590235294882" longitude="46.71762041324199" altitude="619.00076352339238" latitude2="24.94577464390554" longitude2="46.71737833628388" altitude2="618.99937534239143">
+	<Rectangle width="374.473053" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.94590235283732" longitude="46.71762041331456" altitude="619.00076369382441" latitude2="24.94577464401694" longitude2="46.71737833621131" altitude2="618.99937516637146">
 		<RunwayDeformation alt="618.889404" ratio="0.000000"/>
 		<RunwayDeformation alt="617.778381" ratio="0.558629"/>
 		<RunwayDeformation alt="618.888000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="95.662704" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.94540535345758" longitude="46.69576469258291" altitude="627.20159737020731" latitude2="24.95207458556783" longitude2="46.70831102080182" altitude2="627.27363251056522">
+	<Rectangle width="95.662704" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.94540508932876" longitude="46.69576486150081" altitude="627.20161641109735" latitude2="24.95207484971056" longitude2="46.70831085190164" altitude2="627.27361348737031">
 		<RunwayDeformation alt="619.858032" ratio="0.000000"/>
 		<RunwayDeformation alt="620.105164" ratio="0.108182"/>
 		<RunwayDeformation alt="620.510193" ratio="0.228182"/>
@@ -1712,36 +1712,36 @@
 		<RunwayDeformation alt="620.369995" ratio="0.917273"/>
 		<RunwayDeformation alt="620.061279" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="88.271530" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95036160847381" longitude="46.71014585772615" altitude="617.99244652967900" latitude2="24.95033183930166" longitude2="46.71008943264221" altitude2="617.99212307576090">
+	<Rectangle width="88.271530" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95036160847484" longitude="46.71014585772821" altitude="617.99244652874768" latitude2="24.95033183930053" longitude2="46.71008943264017" altitude2="617.99212307296693">
 		<RunwayDeformation alt="617.992432" ratio="0.000000"/>
 		<RunwayDeformation alt="617.992126" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="540.205933" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95048105085782" longitude="46.71472820566599" altitude="618.95449257269502" latitude2="24.95035334304347" longitude2="46.71448612049391" altitude2="618.95310588460416">
+	<Rectangle width="540.205933" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95048105076582" longitude="46.71472820571785" altitude="618.95449274405837" latitude2="24.95035334313537" longitude2="46.71448612044205" altitude2="618.95310571137816">
 		<RunwayDeformation alt="618.889404" ratio="0.000000"/>
 		<RunwayDeformation alt="617.778381" ratio="0.558629"/>
 		<RunwayDeformation alt="618.888000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="125.365028" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95158862935850" longitude="46.70968197391599" altitude="618.71620164439082" latitude2="24.95147934723999" longitude2="46.70942849318301" altitude2="618.71477800700814">
+	<Rectangle width="125.365028" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95158862921799" longitude="46.70968197397070" altitude="618.71620239038020" latitude2="24.95147934738040" longitude2="46.70942849312831" altitude2="618.71477725729346">
 		<RunwayDeformation alt="618.723999" ratio="0.000000"/>
 		<RunwayDeformation alt="615.215515" ratio="0.528182"/>
 		<RunwayDeformation alt="618.722839" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="125.365028" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95253128596200" longitude="46.71140740618865" altitude="618.72176493611187" latitude2="24.95171061264500" longitude2="46.70985041652964" altitude2="618.71283270604908">
+	<Rectangle width="125.365028" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95253128190475" longitude="46.71140740886257" altitude="618.72176347766072" latitude2="24.95171061670211" longitude2="46.70985041385568" altitude2="618.71283415891230">
 		<RunwayDeformation alt="618.723999" ratio="0.000000"/>
 		<RunwayDeformation alt="617.733398" ratio="0.593993"/>
 		<RunwayDeformation alt="618.722839" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="125.365028" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95271452069664" longitude="46.71182587174832" altitude="618.72384733054787" latitude2="24.95260596693735" longitude2="46.71162009887331" altitude2="618.72266972810030">
+	<Rectangle width="125.365028" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95271452062210" longitude="46.71182587179936" altitude="618.72384747676551" latitude2="24.95260596701179" longitude2="46.71162009882229" altitude2="618.72266958002001">
 		<RunwayDeformation alt="618.723999" ratio="0.000000"/>
 		<RunwayDeformation alt="618.121399" ratio="0.573636"/>
 		<RunwayDeformation alt="618.722839" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95677816534256" longitude="46.71070186796568" altitude="618.88938753958791" latitude2="24.95665045726362" longitude2="46.71045977028468" altitude2="618.88800085615367">
+	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95677816524143" longitude="46.71070186802557" altitude="618.88938704878092" latitude2="24.95665045736464" longitude2="46.71045977022479" altitude2="618.88800134323537">
 		<RunwayDeformation alt="618.889404" ratio="0.000000"/>
 		<RunwayDeformation alt="617.778381" ratio="0.558629"/>
 		<RunwayDeformation alt="618.888000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="1890.578369" falloff="60.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95661925307827" longitude="46.69728631476808" altitude="627.50107629597187" latitude2="24.95919407776640" longitude2="46.70214143909109" altitude2="627.52888859529048">
+	<Rectangle width="1890.578369" falloff="60.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95661921378394" longitude="46.69728634001920" altitude="627.50107621494681" latitude2="24.95919411706145" longitude2="46.70214141384098" altitude2="627.52888867445290">
 		<RunwayDeformation alt="619.858032" ratio="0.000000"/>
 		<RunwayDeformation alt="617.105347" ratio="0.079091"/>
 		<RunwayDeformation alt="615.876953" ratio="0.148182"/>
@@ -1755,12 +1755,12 @@
 		<RunwayDeformation alt="619.165466" ratio="0.902727"/>
 		<RunwayDeformation alt="620.171692" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96207123727589" longitude="46.70736788662190" altitude="618.91420232225209" latitude2="24.96194352905389" longitude2="46.70712577851891" altitude2="618.91281705815345">
+	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96207123716417" longitude="46.70736788667217" altitude="618.91420237720013" latitude2="24.96194352916552" longitude2="46.70712577846864" altitude2="618.91281699854881">
 		<RunwayDeformation alt="618.889404" ratio="0.000000"/>
 		<RunwayDeformation alt="617.778381" ratio="0.558629"/>
 		<RunwayDeformation alt="618.888000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="95.662704" falloff="100.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96094048124533" longitude="46.68572117860398" altitude="627.48405423853546" latitude2="24.96790202625280" longitude2="46.69881193825481" altitude2="627.55903350934386">
+	<Rectangle width="95.662704" falloff="100.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96094019347170" longitude="46.68572136265338" altitude="627.48406299762428" latitude2="24.96790231404225" longitude2="46.69881175422551" altitude2="627.55902429390699">
 		<RunwayDeformation alt="619.858032" ratio="0.000000"/>
 		<RunwayDeformation alt="620.564392" ratio="0.084836"/>
 		<RunwayDeformation alt="621.817200" ratio="0.170000"/>
@@ -1774,12 +1774,12 @@
 		<RunwayDeformation alt="620.876038" ratio="0.948182"/>
 		<RunwayDeformation alt="620.171692" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96724178509360" longitude="46.70411104317505" altitude="618.93769607879221" latitude2="24.96711407707181" longitude2="46.70386892478648" altitude2="618.93631206639111">
+	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96724178499248" longitude="46.70411104323495" altitude="618.93769558705389" latitude2="24.96711407717284" longitude2="46.70386892472659" altitude2="618.93631255161017">
 		<RunwayDeformation alt="618.889404" ratio="0.000000"/>
 		<RunwayDeformation alt="617.778381" ratio="0.558629"/>
 		<RunwayDeformation alt="618.888000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="588.040222" falloff="50.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="24.96706599226635" longitude="46.69044359258089" altitude="627.78813074622303" latitude2="24.96958425923498" longitude2="46.69519260723241" altitude2="627.81532156374305">
+	<Rectangle width="588.040222" falloff="50.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="24.96706595456864" longitude="46.69044361653570" altitude="627.78812521230429" latitude2="24.96958429693332" longitude2="46.69519258327857" altitude2="627.81532757636160">
 		<RunwayDeformation alt="619.858032" ratio="0.000000"/>
 		<RunwayDeformation alt="618.544800" ratio="0.120909"/>
 		<RunwayDeformation alt="616.661011" ratio="0.206364"/>
@@ -1793,7 +1793,7 @@
 		<RunwayDeformation alt="618.850281" ratio="0.900909"/>
 		<RunwayDeformation alt="620.171692" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.97244395216795" longitude="46.70079389697699" altitude="618.96157226059586" latitude2="24.97231624546778" longitude2="46.70055176939958" altitude2="618.96018977090716">
+	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.97244395205148" longitude="46.70079389703263" altitude="618.96157152671367" latitude2="24.97231624558414" longitude2="46.70055176934395" altitude2="618.96019050478935">
 		<RunwayDeformation alt="618.889404" ratio="0.000000"/>
 		<RunwayDeformation alt="617.778381" ratio="0.558629"/>
 		<RunwayDeformation alt="618.888000" ratio="1.000000"/>
