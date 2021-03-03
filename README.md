@@ -18,6 +18,11 @@ You can find the latest built scenery inside the ```Packages/``` folder
 - Functional jetways
 - Functional roadway between Royal Terminal/Tower & Mosque
 
+## Known Issues
+
+- Tower, firestation and mosque are currently untextured
+- Traffic drives on taxiway bridges
+
 ## Screenshots 
 
 ![20210303101618_1](https://user-images.githubusercontent.com/20840437/109768093-869e4000-7c09-11eb-996d-639534522441.jpg)
