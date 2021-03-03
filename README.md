@@ -1,4 +1,4 @@
-# MSFS - King Khaled International Airport, Riyadh, SA [OERK]
+# MSFS - King Khaled International Airport, SA [OERK]
 
 ## Installation
 
