@@ -12,8 +12,8 @@
         "ASOBO_normal_map_convention",
         "ASOBO_material_day_night_switch",
         "ASOBO_material_draw_order",
-        "ASOBO_material_shadow_options",
-        "ASOBO_material_glass"
+        "ASOBO_material_glass",
+        "ASOBO_macro_light"
     ],
     "scene" : 0,
     "scenes" : [
@@ -136,7 +136,15 @@
                 83,
                 84,
                 85,
-                86
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94
             ]
         }
     ],
@@ -2649,6 +2657,406 @@
                 15.744317054748535,
                 111.7162857055664
             ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 360,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Point.024",
+            "rotation" : [
+                0.35132643580436707,
+                -0.6136528253555298,
+                0.613652765750885,
+                0.35132646560668945
+            ],
+            "translation" : [
+                -59.866180419921875,
+                15.328080177307129,
+                33.890663146972656
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 360,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Point.025",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                86.8451919555664,
+                15.256609916687012,
+                33.37407684326172
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 360,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Point.026",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                63.11251449584961,
+                15.256457328796387,
+                75.24885559082031
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 360,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Point.032",
+            "rotation" : [
+                0.35132643580436707,
+                -0.6136528253555298,
+                0.613652765750885,
+                0.35132646560668945
+            ],
+            "translation" : [
+                -35.69207763671875,
+                15.32823371887207,
+                75.53173828125
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 200,
+                    "cone_angle" : 130.00000134084985,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Spot.024",
+            "rotation" : [
+                0.5453653335571289,
+                0.17072075605392456,
+                0.22318677604198456,
+                0.7896953821182251
+            ],
+            "translation" : [
+                86.8451919555664,
+                15.00451374053955,
+                33.37407684326172
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 200,
+                    "cone_angle" : 130.00000134084985,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Spot.025",
+            "rotation" : [
+                0.5453653335571289,
+                0.17072075605392456,
+                0.22318677604198456,
+                0.7896953821182251
+            ],
+            "translation" : [
+                63.11251449584961,
+                15.004361152648926,
+                75.24885559082031
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 200,
+                    "cone_angle" : 130.00000134084985,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Spot.032",
+            "rotation" : [
+                0.1804882436990738,
+                -0.5359854102134705,
+                0.5114244222640991,
+                0.6469843983650208
+            ],
+            "translation" : [
+                -59.866180419921875,
+                15.328080177307129,
+                33.890663146972656
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 200,
+                    "cone_angle" : 130.00000134084985,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Spot.047",
+            "rotation" : [
+                0.1804882436990738,
+                -0.5359854102134705,
+                0.5114244222640991,
+                0.6469843983650208
+            ],
+            "translation" : [
+                -35.69207763671875,
+                15.32823371887207,
+                75.53173828125
+            ]
         }
     ],
     "materials" : [
@@ -2846,188 +3254,6 @@
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.7369999885559082
-            }
-        },
-        {
-            "doubleSided" : true,
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extras" : {
-                "msfs_material_mode" : 1,
-                "msfs_albedo_texture" : {
-                    "name" : "t2roof_a.dds.071",
-                    "type" : "Image"
-                },
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 0,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 1,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 1,
-                "msfs_show_blend_threshold" : 1,
-                "msfs_double_sided" : 1
-            },
-            "name" : "T2.Roof.001",
-            "pbrMetallicRoughness" : {
-                "baseColorTexture" : {
-                    "index" : 4,
-                    "texCoord" : 0
-                },
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "alphaMode" : "BLEND",
-            "doubleSided" : true,
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extensions" : {
-                "ASOBO_material_day_night_switch" : {
-                    "enabled" : true
-                },
-                "ASOBO_material_shadow_options" : {
-                    "noCastShadow" : true
-                }
-            },
-            "extras" : {
-                "msfs_material_mode" : 1,
-                "msfs_blend_mode" : 2,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 0,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 1,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 1,
-                "msfs_show_blend_threshold" : 1,
-                "msfs_color_albedo_mix" : [
-                    0.8688859939575195,
-                    0.8688859939575195,
-                    0.8688859939575195
-                ],
-                "msfs_color_emissive_mix" : [
-                    0.8576117157936096,
-                    0.5296032428741455,
-                    0.12894055247306824
-                ],
-                "msfs_color_alpha_mix" : 0.10999999940395355,
-                "msfs_double_sided" : 1,
-                "msfs_no_cast_shadow" : 1,
-                "msfs_day_night_cycle" : 1
-            },
-            "name" : "Light Bulb Yellow.003",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.10999999940395355
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extras" : {
-                "msfs_material_mode" : 1,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 0,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 1,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 1,
-                "msfs_show_blend_threshold" : 1
-            },
-            "name" : "Lightbulb main inside.003",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.18446916341781616,
-                    0.18446916341781616,
-                    0.18446916341781616,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
             }
         },
         {
@@ -4312,34 +4538,7 @@
                         "TEXCOORD_0" : 325
                     },
                     "indices" : 326,
-                    "material" : 2
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 327,
-                        "NORMAL" : 328,
-                        "TEXCOORD_0" : 329
-                    },
-                    "indices" : 330,
-                    "material" : 3
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 331,
-                        "NORMAL" : 332,
-                        "TEXCOORD_0" : 333
-                    },
-                    "indices" : 334,
-                    "material" : 4
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 335,
-                        "NORMAL" : 336,
-                        "TEXCOORD_0" : 337
-                    },
-                    "indices" : 338,
-                    "material" : 5
+                    "material" : 0
                 }
             ]
         },
@@ -4348,11 +4547,11 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 339,
-                        "NORMAL" : 340,
-                        "TEXCOORD_0" : 341
+                        "POSITION" : 327,
+                        "NORMAL" : 328,
+                        "TEXCOORD_0" : 329
                     },
-                    "indices" : 342,
+                    "indices" : 330,
                     "material" : 0
                 }
             ]
@@ -4362,11 +4561,11 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 343,
-                        "NORMAL" : 344,
-                        "TEXCOORD_0" : 345
+                        "POSITION" : 331,
+                        "NORMAL" : 332,
+                        "TEXCOORD_0" : 333
                     },
-                    "indices" : 346,
+                    "indices" : 334,
                     "material" : 0
                 }
             ]
@@ -4376,12 +4575,12 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 347,
-                        "NORMAL" : 348,
-                        "TEXCOORD_0" : 349
+                        "POSITION" : 335,
+                        "NORMAL" : 336,
+                        "TEXCOORD_0" : 337
                     },
-                    "indices" : 350,
-                    "material" : 6
+                    "indices" : 338,
+                    "material" : 3
                 }
             ]
         },
@@ -4390,12 +4589,12 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 351,
-                        "NORMAL" : 352,
-                        "TEXCOORD_0" : 353
+                        "POSITION" : 339,
+                        "NORMAL" : 340,
+                        "TEXCOORD_0" : 341
                     },
-                    "indices" : 354,
-                    "material" : 6
+                    "indices" : 342,
+                    "material" : 3
                 }
             ]
         },
@@ -4404,12 +4603,12 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 355,
-                        "NORMAL" : 356,
-                        "TEXCOORD_0" : 357
+                        "POSITION" : 343,
+                        "NORMAL" : 344,
+                        "TEXCOORD_0" : 345
                     },
-                    "indices" : 358,
-                    "material" : 7
+                    "indices" : 346,
+                    "material" : 4
                 }
             ]
         }
@@ -4423,9 +4622,6 @@
         },
         {
             "source" : 2
-        },
-        {
-            "source" : 3
         },
         {
             "source" : 3
@@ -7225,10 +7421,10 @@
         {
             "bufferView" : 323,
             "componentType" : 5126,
-            "count" : 1410,
+            "count" : 2340,
             "max" : [
                 12.346999168395996,
-                3.2185146808624268,
+                4.009908676147461,
                 4.739902973175049
             ],
             "min" : [
@@ -7241,125 +7437,23 @@
         {
             "bufferView" : 324,
             "componentType" : 5126,
-            "count" : 1410,
+            "count" : 2340,
             "type" : "VEC3"
         },
         {
             "bufferView" : 325,
             "componentType" : 5126,
-            "count" : 1410,
+            "count" : 2340,
             "type" : "VEC2"
         },
         {
             "bufferView" : 326,
             "componentType" : 5123,
-            "count" : 4932,
+            "count" : 8298,
             "type" : "SCALAR"
         },
         {
             "bufferView" : 327,
-            "componentType" : 5126,
-            "count" : 642,
-            "max" : [
-                12.346999168395996,
-                4.009908676147461,
-                4.457646369934082
-            ],
-            "min" : [
-                -132.40760803222656,
-                2.7644100189208984,
-                -6.231926441192627
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 328,
-            "componentType" : 5126,
-            "count" : 642,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 329,
-            "componentType" : 5126,
-            "count" : 642,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 330,
-            "componentType" : 5123,
-            "count" : 2862,
-            "type" : "SCALAR"
-        },
-        {
-            "bufferView" : 331,
-            "componentType" : 5126,
-            "count" : 96,
-            "max" : [
-                3.6290230751037598,
-                1.7029142379760742,
-                -5.632444381713867
-            ],
-            "min" : [
-                -124.0135498046875,
-                1.5140292644500732,
-                -5.759672164916992
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 332,
-            "componentType" : 5126,
-            "count" : 96,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 333,
-            "componentType" : 5126,
-            "count" : 96,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 334,
-            "componentType" : 5123,
-            "count" : 216,
-            "type" : "SCALAR"
-        },
-        {
-            "bufferView" : 335,
-            "componentType" : 5126,
-            "count" : 192,
-            "max" : [
-                3.629101514816284,
-                1.8163734674453735,
-                -5.440373420715332
-            ],
-            "min" : [
-                -124.01773834228516,
-                1.3415428400039673,
-                -5.905803680419922
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 336,
-            "componentType" : 5126,
-            "count" : 192,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 337,
-            "componentType" : 5126,
-            "count" : 192,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 338,
-            "componentType" : 5123,
-            "count" : 288,
-            "type" : "SCALAR"
-        },
-        {
-            "bufferView" : 339,
             "componentType" : 5126,
             "count" : 2340,
             "max" : [
@@ -7375,25 +7469,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 340,
+            "bufferView" : 328,
             "componentType" : 5126,
             "count" : 2340,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 341,
+            "bufferView" : 329,
             "componentType" : 5126,
             "count" : 2340,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 342,
+            "bufferView" : 330,
             "componentType" : 5123,
             "count" : 8298,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 343,
+            "bufferView" : 331,
             "componentType" : 5126,
             "count" : 390,
             "max" : [
@@ -7409,25 +7503,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 344,
+            "bufferView" : 332,
             "componentType" : 5126,
             "count" : 390,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 345,
+            "bufferView" : 333,
             "componentType" : 5126,
             "count" : 390,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 346,
+            "bufferView" : 334,
             "componentType" : 5123,
             "count" : 1383,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 347,
+            "bufferView" : 335,
             "componentType" : 5126,
             "count" : 58,
             "max" : [
@@ -7443,25 +7537,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 348,
+            "bufferView" : 336,
             "componentType" : 5126,
             "count" : 58,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 349,
+            "bufferView" : 337,
             "componentType" : 5126,
             "count" : 58,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 350,
+            "bufferView" : 338,
             "componentType" : 5123,
             "count" : 114,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 351,
+            "bufferView" : 339,
             "componentType" : 5126,
             "count" : 14,
             "max" : [
@@ -7477,25 +7571,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 352,
+            "bufferView" : 340,
             "componentType" : 5126,
             "count" : 14,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 353,
+            "bufferView" : 341,
             "componentType" : 5126,
             "count" : 14,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 354,
+            "bufferView" : 342,
             "componentType" : 5123,
             "count" : 36,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 355,
+            "bufferView" : 343,
             "componentType" : 5126,
             "count" : 47,
             "max" : [
@@ -7511,19 +7605,19 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 356,
+            "bufferView" : 344,
             "componentType" : 5126,
             "count" : 47,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 357,
+            "bufferView" : 345,
             "componentType" : 5126,
             "count" : 47,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 358,
+            "bufferView" : 346,
             "componentType" : 5123,
             "count" : 108,
             "type" : "SCALAR"
@@ -9147,83 +9241,23 @@
         },
         {
             "buffer" : 0,
-            "byteLength" : 16920,
+            "byteLength" : 28080,
             "byteOffset" : 1749160
         },
         {
             "buffer" : 0,
-            "byteLength" : 16920,
-            "byteOffset" : 1766080
+            "byteLength" : 28080,
+            "byteOffset" : 1777240
         },
         {
             "buffer" : 0,
-            "byteLength" : 11280,
-            "byteOffset" : 1783000
+            "byteLength" : 18720,
+            "byteOffset" : 1805320
         },
         {
             "buffer" : 0,
-            "byteLength" : 9864,
-            "byteOffset" : 1794280
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 7704,
-            "byteOffset" : 1804144
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 7704,
-            "byteOffset" : 1811848
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 5136,
-            "byteOffset" : 1819552
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 5724,
-            "byteOffset" : 1824688
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1152,
-            "byteOffset" : 1830412
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1152,
-            "byteOffset" : 1831564
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 768,
-            "byteOffset" : 1832716
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 432,
-            "byteOffset" : 1833484
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 2304,
-            "byteOffset" : 1833916
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 2304,
-            "byteOffset" : 1836220
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1536,
-            "byteOffset" : 1838524
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 576,
-            "byteOffset" : 1840060
+            "byteLength" : 16596,
+            "byteOffset" : 1824040
         },
         {
             "buffer" : 0,

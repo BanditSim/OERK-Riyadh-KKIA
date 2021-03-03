@@ -138,7 +138,13 @@
                 85,
                 86,
                 87,
-                88
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94
             ]
         }
     ],
@@ -2698,7 +2704,7 @@
             ],
             "translation" : [
                 -59.866180419921875,
-                15.328080177307129,
+                15.859010696411133,
                 33.890663146972656
             ]
         },
@@ -2710,7 +2716,7 @@
                         1,
                         0.9734452962875366
                     ],
-                    "intensity" : 175,
+                    "intensity" : 200,
                     "cone_angle" : 130.00000134084985,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -2750,6 +2756,306 @@
                 -59.866180419921875,
                 15.328080177307129,
                 33.890663146972656
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 360,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Point.032",
+            "rotation" : [
+                0.35132643580436707,
+                -0.6136528253555298,
+                0.613652765750885,
+                0.35132646560668945
+            ],
+            "translation" : [
+                -35.69207763671875,
+                15.859164237976074,
+                75.53173828125
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 200,
+                    "cone_angle" : 130.00000134084985,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Spot.047",
+            "rotation" : [
+                0.1804882436990738,
+                -0.5359854102134705,
+                0.5114244222640991,
+                0.6469843983650208
+            ],
+            "translation" : [
+                -35.69207763671875,
+                15.32823371887207,
+                75.53173828125
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 200,
+                    "cone_angle" : 130.00000134084985,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Spot.004",
+            "rotation" : [
+                0.5453653335571289,
+                0.17072075605392456,
+                0.22318677604198456,
+                0.7896953821182251
+            ],
+            "translation" : [
+                63.11251449584961,
+                15.145970344543457,
+                75.24885559082031
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 360,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Point.004",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                63.11251449584961,
+                15.439656257629395,
+                75.24885559082031
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 200,
+                    "cone_angle" : 130.00000134084985,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Spot.008",
+            "rotation" : [
+                0.5453653335571289,
+                0.17072075605392456,
+                0.22318677604198456,
+                0.7896953821182251
+            ],
+            "translation" : [
+                86.8451919555664,
+                15.146122932434082,
+                33.37407684326172
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9301111102104187,
+                        1,
+                        0.9734452962875366
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 360,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "Point.008",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                86.8451919555664,
+                15.376486778259277,
+                33.37407684326172
             ]
         }
     ],
