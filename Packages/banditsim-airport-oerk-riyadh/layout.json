@@ -317,8 +317,8 @@
     },
     {
       "path": "scenery/global/scenery/oerk-airport.bgl",
-      "size": 244028,
-      "date": 132593223380251370
+      "size": 245152,
+      "date": 132593261313345543
     },
     {
       "path": "scenery/global/scenery/oerk-gc.BGL",
@@ -347,8 +347,8 @@
     },
     {
       "path": "scenery/global/scenery/oerk-tower.BGL",
-      "size": 1270050,
-      "date": 132593224680491583
+      "size": 1376170,
+      "date": 132593261349787456
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BARRIER.PNG.DDS",
@@ -383,82 +383,82 @@
     {
       "path": "scenery/global/scenery/TEXTURE/MOSQUE-DOME.PNG.DDS",
       "size": 699192,
-      "date": 132593224679218256
+      "date": 132593256621625622
     },
     {
       "path": "scenery/global/scenery/TEXTURE/MOSQUE-DOME.PNG.DDS.json",
       "size": 102,
-      "date": 132593224679208299
+      "date": 132593256621605672
     },
     {
       "path": "scenery/global/scenery/TEXTURE/RT-TOWER-MISC.PNG.DDS",
       "size": 2796344,
-      "date": 132593224677779925
+      "date": 132593256620259273
     },
     {
       "path": "scenery/global/scenery/TEXTURE/RT-TOWER-MISC.PNG.DDS.json",
       "size": 102,
-      "date": 132593224677749834
+      "date": 132593256620219376
     },
     {
       "path": "scenery/global/scenery/TEXTURE/RT-TOWER-MISC_N.PNG.DDS",
       "size": 5592560,
-      "date": 132593224670059178
+      "date": 132593256612440177
     },
     {
       "path": "scenery/global/scenery/TEXTURE/RT-TOWER-MISC_N.PNG.DDS.json",
       "size": 160,
-      "date": 132593224670009312
+      "date": 132593256612380341
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A.PNG.DDS",
       "size": 5592560,
-      "date": 132593224658226759
+      "date": 132593261339698289
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A.PNG.DDS.json",
       "size": 119,
-      "date": 132593224658176889
+      "date": 132593261339648498
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_DDS.PNG.DDS",
       "size": 5592560,
-      "date": 132593224668102875
+      "date": 132593261345904201
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_DDS.PNG.DDS.json",
       "size": 119,
-      "date": 132593224668062982
+      "date": 132593261345854329
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_L.PNG.DDS",
       "size": 2796344,
-      "date": 132593224673453428
+      "date": 132593261349357899
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_L.PNG.DDS.json",
       "size": 102,
-      "date": 132593224673433489
+      "date": 132593261349327805
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_L_DDS.PNG.DDS",
       "size": 2796344,
-      "date": 132593224663906749
+      "date": 132593256606286640
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_L_DDS.PNG.DDS.json",
       "size": 102,
-      "date": 132593224663876833
+      "date": 132593256606256718
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_DIFF_BW_2K.PNG.DDS",
       "size": 2796344,
-      "date": 132593224654157241
+      "date": 132593261335675932
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_DIFF_BW_2K.PNG.DDS.json",
       "size": 102,
-      "date": 132593224654117344
+      "date": 132593261335646013
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_DIFF_BW_2K_PNG.PNG.DDS",
@@ -473,12 +473,12 @@
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_NOR_2K.PNG.DDS",
       "size": 5592560,
-      "date": 132593224660371146
+      "date": 132593261341765270
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_NOR_2K.PNG.DDS.json",
       "size": 160,
-      "date": 132593224660321276
+      "date": 132593261341715402
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_NOR_2K_PNG.PNG.DDS",
