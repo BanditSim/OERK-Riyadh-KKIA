@@ -1,4 +1,4 @@
-<AssetPackage Name="banditsim-airport-oerk-riyadh" Version="0.1.0">
+<AssetPackage Name="banditsim-airport-oerk-riyadh" Version="0.2.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Riyadh - King Khaled Intl.</Title>
@@ -15,8 +15,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\banditsim-airport-oerk-riyadh\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\banditsim-airport-oerk-riyadh</OutputDir>
+			<AssetDir>PackageDefinitions\banditsim-airport-oerk-riyadh\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\banditsim-airport-oerk-riyadh\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="aa-airport-oerk-riyadh">
 			<Type>BGL</Type>
