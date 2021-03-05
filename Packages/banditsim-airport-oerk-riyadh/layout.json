@@ -7,8 +7,8 @@
     },
     {
       "path": "MaterialLibs/oerk-materials/Library.xml",
-      "size": 17664,
-      "date": 132591948110936588
+      "size": 36106,
+      "date": 132594146645555768
     },
     {
       "path": "MaterialLibs/oerk-materials/Textures/10E.PNG.DDS",
@@ -41,6 +41,21 @@
       "date": 132591948205211980
     },
     {
+      "path": "MaterialLibs/oerk-materials/Textures/11_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146674804479
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/11_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594138981188625
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/11_.PNG.DDS.json",
+      "size": 232,
+      "date": 132594146674764580
+    },
+    {
       "path": "MaterialLibs/oerk-materials/Textures/12E.PNG.DDS",
       "size": 349700,
       "date": 132591948208184036
@@ -56,6 +71,21 @@
       "date": 132591948208144142
     },
     {
+      "path": "MaterialLibs/oerk-materials/Textures/12_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146682978597
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/12_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594138898750559
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/12_.PNG.DDS.json",
+      "size": 230,
+      "date": 132594146682938703
+    },
+    {
       "path": "MaterialLibs/oerk-materials/Textures/13E.PNG.DDS",
       "size": 349700,
       "date": 132591948142831895
@@ -69,6 +99,21 @@
       "path": "MaterialLibs/oerk-materials/Textures/13E.PNG.DDS.json",
       "size": 249,
       "date": 132591948142792001
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/13_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146688214724
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/13_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594138795068128
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/13_.PNG.DDS.json",
+      "size": 232,
+      "date": 132594146688174829
     },
     {
       "path": "MaterialLibs/oerk-materials/Textures/14.PNG.DDS",
@@ -101,6 +146,51 @@
       "date": 132591948153762787
     },
     {
+      "path": "MaterialLibs/oerk-materials/Textures/16_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146698776883
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/16_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594138532458523
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/16_.PNG.DDS.json",
+      "size": 231,
+      "date": 132594146698736989
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/17_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146661453761
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/17_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594138410240217
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/17_.PNG.DDS.json",
+      "size": 231,
+      "date": 132594146661413862
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/18_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146650936549
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/18_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594138301261505
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/18_.PNG.DDS.json",
+      "size": 232,
+      "date": 132594146650896684
+    },
+    {
       "path": "MaterialLibs/oerk-materials/Textures/1E.PNG.DDS",
       "size": 349700,
       "date": 132591948199696544
@@ -131,6 +221,51 @@
       "date": 132591948194365739
     },
     {
+      "path": "MaterialLibs/oerk-materials/Textures/21_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146666804623
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/21_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594138152602690
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/21_.PNG.DDS.json",
+      "size": 232,
+      "date": 132594146666764725
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/22_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146672206356
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/22_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594138038028716
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/22_.PNG.DDS.json",
+      "size": 229,
+      "date": 132594146672166461
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/23_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146696083948
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/23_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594137863278633
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/23_.PNG.DDS.json",
+      "size": 231,
+      "date": 132594146696044053
+    },
+    {
       "path": "MaterialLibs/oerk-materials/Textures/24.PNG.DDS",
       "size": 349700,
       "date": 132591948202419265
@@ -159,6 +294,51 @@
       "path": "MaterialLibs/oerk-materials/Textures/25.PNG.DDS.json",
       "size": 249,
       "date": 132591948148187692
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/26_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146693415989
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/26_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594137737588930
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/26_.PNG.DDS.json",
+      "size": 231,
+      "date": 132594146693376096
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/27_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146680395365
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/27_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594137613709507
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/27_.PNG.DDS.json",
+      "size": 232,
+      "date": 132594146680355470
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/28_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146655933331
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/28_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594137473741693
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/28_.PNG.DDS.json",
+      "size": 229,
+      "date": 132594146655893433
     },
     {
       "path": "MaterialLibs/oerk-materials/Textures/2E.PNG.DDS",
@@ -236,6 +416,81 @@
       "date": 132591948159806631
     },
     {
+      "path": "MaterialLibs/oerk-materials/Textures/4W_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146663877388
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/4W_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594140177187235
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/4W_.PNG.DDS.json",
+      "size": 232,
+      "date": 132594146663837492
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/5E_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146648373297
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/5E_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594140066887298
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/5E_.PNG.DDS.json",
+      "size": 231,
+      "date": 132594146648333404
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/5W_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146669378636
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/5W_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594139864529830
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/5W_.PNG.DDS.json",
+      "size": 232,
+      "date": 132594146669338741
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/6E_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146653414992
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/6E_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594139769510065
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/6E_.PNG.DDS.json",
+      "size": 232,
+      "date": 132594146653375091
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/6W_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146685556784
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/6W_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594139670919431
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/6W_.PNG.DDS.json",
+      "size": 231,
+      "date": 132594146685516888
+    },
+    {
       "path": "MaterialLibs/oerk-materials/Textures/7774STOP.PNG.DDS",
       "size": 349700,
       "date": 132591948191997022
@@ -249,6 +504,66 @@
       "path": "MaterialLibs/oerk-materials/Textures/7774STOP.PNG.DDS.json",
       "size": 247,
       "date": 132591948191957122
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/7E_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146658905492
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/7E_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594139509249290
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/7E_.PNG.DDS.json",
+      "size": 232,
+      "date": 132594146658865596
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/7W_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146677737405
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/7W_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594139374817859
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/7W_.PNG.DDS.json",
+      "size": 231,
+      "date": 132594146677697512
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/8E_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146690752990
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/8E_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594139278650555
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/8E_.PNG.DDS.json",
+      "size": 230,
+      "date": 132594146690723084
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/8W_.PNG.DDS",
+      "size": 349700,
+      "date": 132594146701404920
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/8W_.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132594139130640235
+    },
+    {
+      "path": "MaterialLibs/oerk-materials/Textures/8W_.PNG.DDS.json",
+      "size": 230,
+      "date": 132594146701365029
     },
     {
       "path": "MaterialLibs/oerk-materials/Textures/BLACK1.PNG.DDS",
@@ -317,8 +632,8 @@
     },
     {
       "path": "scenery/global/scenery/oerk-airport.bgl",
-      "size": 280788,
-      "date": 132594107774854738
+      "size": 283273,
+      "date": 132594148381064380
     },
     {
       "path": "scenery/global/scenery/oerk-gc.BGL",
@@ -413,32 +728,32 @@
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A.PNG.DDS",
       "size": 5592560,
-      "date": 132594107801933197
+      "date": 132594148853413082
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A.PNG.DDS.json",
       "size": 119,
-      "date": 132594107801883334
+      "date": 132594148853373234
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_DDS.PNG.DDS",
       "size": 5592560,
-      "date": 132594107808306408
+      "date": 132594148859632690
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_DDS.PNG.DDS.json",
       "size": 119,
-      "date": 132594107808266518
+      "date": 132594148859582821
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_L.PNG.DDS",
       "size": 2796344,
-      "date": 132594107811652509
+      "date": 132594148862898999
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_L.PNG.DDS.json",
       "size": 102,
-      "date": 132594107811622592
+      "date": 132594148862869078
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_L_DDS.PNG.DDS",
@@ -453,12 +768,12 @@
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_DIFF_BW_2K.PNG.DDS",
       "size": 2796344,
-      "date": 132594107797634569
+      "date": 132594148849242924
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_DIFF_BW_2K.PNG.DDS.json",
       "size": 102,
-      "date": 132594107797604651
+      "date": 132594148849213003
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_DIFF_BW_2K_PNG.PNG.DDS",
@@ -473,12 +788,12 @@
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_NOR_2K.PNG.DDS",
       "size": 5592560,
-      "date": 132594107803912984
+      "date": 132594148855541222
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_NOR_2K.PNG.DDS.json",
       "size": 160,
-      "date": 132594107803863129
+      "date": 132594148855491360
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_NOR_2K_PNG.PNG.DDS",
