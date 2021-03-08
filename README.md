@@ -2,7 +2,11 @@
 
 ## Installation
 
-You can find the latest built scenery inside the ```Packages/``` folder
+**For Latest Release**
+Navigate to the packages section and download the latest version
+
+**For Latest Development Build**
+You can find the latest built scenery in the ```Packages/``` folder in the ```development``` branch
 
 ## Features
 
