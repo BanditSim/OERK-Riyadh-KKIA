@@ -1,4 +1,498 @@
 <Library Version="1.1.0">
+	<Material Version="1.4.0" Name="508LR" Guid="{2B16B8C4-9EFB-43F5-84E9-1179FD27D7E4}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\508LR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="504L" Guid="{79D2B224-DD0B-44EE-88A5-31F9290BBED7}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\504L.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="508L" Guid="{AFA2D314-5008-45ED-9329-4C4A8698625E}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\508L.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="506RR" Guid="{23D35753-4FCD-4249-BCAE-729F3360DC12}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\506RR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-28" Guid="{192F2548-B17E-496A-940C-E8F7C5B25CBE}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\28_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E34RL" Guid="{44ADB891-8666-4DD1-A2CA-B831476FDF3A}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E34R_5EL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="510RR" Guid="{72502B81-D540-4BCB-ACC1-F0972D83A4FF}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\510RR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="505LL" Guid="{907BBEC3-F7B9-4626-8466-001CB0826362}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\505LL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="509LR" Guid="{C3128037-6BD0-4EA2-B01B-26AED414010D}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\509LR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E34LR" Guid="{F61FA706-875F-4D31-82A6-D3BFB4FEE1D9}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E34L_5ER.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-26" Guid="{7EE2F060-DB58-4CC2-B7E4-29E19341F4F6}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\26_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="508R" Guid="{46A442C2-BE8F-48AE-8CD0-EC82F9B80874}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\508R.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-27" Guid="{6B6E913F-115B-4850-8A2A-404D5A68D32D}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\27_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="507RL" Guid="{79603A31-A646-4BA0-8419-C7CFA1C230DE}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\507RL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="506LL" Guid="{4472DBF3-E504-4414-B027-192926576F4D}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\506LL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E34RR" Guid="{235FFDEB-0945-4D94-A35E-1EBB9BE12FF7}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E34R_5ER.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="507RR" Guid="{8C1066E0-2926-48C6-91F8-9E93D96583E0}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\507RR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="509R" Guid="{7F6503F3-4D8E-441F-A5C4-27411372E56E}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\509R.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="511RR" Guid="{326A77DC-078B-4970-B4C9-E47B4EB39DA1}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\511RR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E31RR" Guid="{38317C0C-F478-41F0-B0C2-76184A592110}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E31R_5ER.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-6e" Guid="{501E1318-AC9E-477D-A091-9E849E700704}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\6E_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-7e" Guid="{ACFE284C-43FE-414B-95D8-E461BEA15FEC}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\7E_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E31LR" Guid="{7232F44B-D985-46A6-B69F-D04C925B090F}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E31L_5ER.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="508RR" Guid="{DB4FA725-FC29-4661-B54C-7043C0B42D8D}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\508RR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="511RL" Guid="{13279D52-772D-4452-A6B0-78F4FAC370F0}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\511RL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E30LR" Guid="{83679D20-D320-4850-9877-23FA1C2A7C8E}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E30L_5ER.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="oerk-gate-4e" Guid="{EB4605CB-3973-4159-BC1D-14BAED3F428E}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
@@ -23,6 +517,82 @@
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TEXTURES\3E.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="505RR" Guid="{CE4B25CA-0D3B-4812-99E1-82CE6242B369}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\505RR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E34LL" Guid="{65AE7B7E-B26F-4E87-A3D3-CC63EF2A765F}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E34L_5EL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E30RL" Guid="{B812A382-D6C7-4FAF-A1CD-B2AF97175758}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E30R_5EL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-16" Guid="{CC404A8F-8861-47DF-95C4-B0B5B72C91D9}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\16_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -75,11 +645,239 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="509RL" Guid="{129CEE12-532B-4ACC-96C4-E287A7838377}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\509RL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="505LR" Guid="{B591ADC0-08BD-48A4-9FD0-3F8D25EA9726}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\505LR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E33LL" Guid="{71AA9A01-9D2A-48CD-9015-D066BCF7DF3B}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E33L_5EL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-12" Guid="{87A3A38A-49A0-45FA-B1CB-7076F9660ED8}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\12_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-23" Guid="{91E4374B-EDA2-4624-94F9-90627AB242BF}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\23_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="506R" Guid="{5DE62530-FBDF-4080-8D41-0F3DE72A675D}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\506R.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="oerk-gate-24" Guid="{CEAA1B7B-F5B9-4B4E-A978-AE43305EA137}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TEXTURES\24.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-5w" Guid="{D149B971-739E-4B7A-AE85-BC6945F218B3}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\5W_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-4w" Guid="{F1AB4EAC-3183-403B-B4EF-8A02E2DB0291}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\4W_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E30LL" Guid="{78FDB511-9BE2-4AB0-AEF5-C87DB1613B54}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E30L_5EL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E30RR" Guid="{BCFE05D2-BB85-4EF6-885D-58A2444749CE}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E30R_5ER.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="511LR" Guid="{48304093-3FBD-4382-9BF8-396EDFEFB976}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\511LR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="506L" Guid="{28F4780D-59C1-4C51-B19D-E3E6D47B904D}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\506L.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -132,11 +930,144 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-18" Guid="{E2F2020F-02F8-4D36-8916-910ABA6B8782}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\18_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="oerk-ground-a" Guid="{43D9F7A2-0EC4-40A4-B93D-48B722305711}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TEXTURES\OERK-GROUND-A.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="504R" Guid="{545BDA31-237F-4412-9948-E18FDC654888}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\504R.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E33RR" Guid="{43B9E5C9-90D9-4919-B78F-5AD81996CCF4}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E33R_5ER.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-5e" Guid="{7D07D099-9279-42A3-BA09-40B7E5A3CF9A}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\5E_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="504LL" Guid="{11B27102-341E-48B1-A80F-8B878B05E0AE}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\504LL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="509LL" Guid="{D6DADE67-112B-4A65-B2AC-7D9416AB9EA3}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\509LL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="511LL" Guid="{72853804-A6EA-4C6C-AAAE-00FD02C8F92E}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\511LL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -175,6 +1106,44 @@
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TEXTURES\2E.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="505R" Guid="{CDCC72F7-22A0-4AA1-99B5-83E858439331}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\505R.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="505L" Guid="{D6467ED9-EA63-406A-A2A9-C67BE6080DAE}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\505L.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -265,11 +1234,49 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="E31RL" Guid="{7CAA35A3-2C6E-44B4-8B1A-546E6C76651E}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E31R_5EL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="oerk-gate-1w" Guid="{D436B2FD-611C-4D28-985F-D06086C7BCF3}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TEXTURES\1W.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="510L" Guid="{2CD341B4-90E8-4F63-9E53-6B2BD9F697F6}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\510L.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -303,11 +1310,315 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="E31LL" Guid="{A40423DB-070B-47A9-BF2B-268CF3DDAD5D}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E31L_5EL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E32LR" Guid="{8670393B-A27D-4618-B9E2-17F2FEE9B5D5}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E32L_5ER.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-13" Guid="{1644FA07-8929-4F0F-9ED1-17D6B420EDA0}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\13_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-21" Guid="{39E05D2D-A02C-46BE-9A77-F80382015953}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\21_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="504RL" Guid="{C01DF3A5-B3E7-408F-9803-C04E47E9B777}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\504RL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="504LR" Guid="{F49F8406-63E7-475B-8326-769AD61B1EC6}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\504LR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="oerk-gate-3w" Guid="{D6C82C93-F0DC-45E3-8942-70C4A421DFE6}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TEXTURES\3W.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="507L" Guid="{DB190C7E-F6BF-4B10-9930-290809EEFA59}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\507L.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="507LL" Guid="{CABD9A95-C9A3-48C9-BB91-CE878E55E882}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\507LL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="506LR" Guid="{8A6A5DBF-160D-45C8-97A6-B0B0F4CCC86E}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\506LR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-17" Guid="{271F6564-9133-4761-936E-0A009CBD553E}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\17_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-6w" Guid="{075B3D8D-65CB-46DE-8BBC-2FF1C78FB942}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\6W_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="508LL" Guid="{67C0F1CA-BBDE-44C0-9874-7D261720CD81}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\508LL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="509RR" Guid="{BF3B52AF-B830-43F6-A635-0AAC8DFE75E1}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\509RR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="510LR" Guid="{441270CC-DC29-44BB-9D4A-3720B6B4C0B6}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\510LR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="506RL" Guid="{6A9C4870-6965-44C8-9786-E467E04A5A3E}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\506RL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="510LL" Guid="{6E6553C1-0146-47F3-BF15-D2B79B751B79}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\510LL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -341,6 +1652,158 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="E32LL" Guid="{A8978DF0-A3A5-4200-B559-0698D56A5AE4}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E32L_5EL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="505RL" Guid="{D59B4E88-3B3B-4E40-BC75-FA199FE94FA9}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\505RL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-8w" Guid="{FD7A6842-6991-4BE1-8872-165B67D185EF}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\8W_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="508RL" Guid="{89403A20-1F0E-4E39-9DF5-748AC2E7D960}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\508RL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="509L" Guid="{44D05126-E599-461D-9E1D-0B4288568C15}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\509L.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="507LR" Guid="{F0B64259-A487-409E-A707-391345D10CC4}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\507LR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-8e" Guid="{E46BD089-13C5-487F-8218-C2A07B1DCFCE}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\8E_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-7w" Guid="{9AEA56FE-C407-459E-80B5-A23E3D89D892}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\7W_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="oerk-gate-15" Guid="{EB7BE632-DA62-42C8-979E-492143E1C4F8}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
@@ -360,11 +1823,258 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-11" Guid="{35054E18-8B37-4C33-8DED-CCC49AAE595E}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\11_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="510R" Guid="{F27F0171-3554-4ACA-B2CD-6E8B96DDC8AC}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\510R.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="oerk-gate-14" Guid="{3A343A8C-3FF6-4E02-BE9E-91F7DD2DA5E0}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TEXTURES\14.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking1test" Guid="{51E27B59-C726-4122-9463-A715B994CB85}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\PARKING1TEST.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="507R" Guid="{08D989A5-1113-4912-9C23-32CB853CAC89}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\507R.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="511L" Guid="{59B238AE-71E2-4B1B-AD30-2C27D31424AF}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\511L.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E33RL" Guid="{321318C7-10CE-47C1-8A42-2DD075FC5816}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E33R_5EL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E32RR" Guid="{8E581697-B47E-42DD-831E-229667D90553}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E32R_5ER.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="oerk-gate-22" Guid="{012AF6D1-B60F-4520-869E-8AC390B8717F}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\22_.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="510RL" Guid="{DECF2E7A-70C7-4E9F-B8EA-F1C573FF63E8}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\510RL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E33LR" Guid="{A2C2F4DD-3105-4C7F-A426-BF1F5143C15C}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E33L_5ER.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="E32RL" Guid="{3C9A83D4-B79B-4341-9489-5FDE3F1959B0}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\E32R_5EL.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="504RR" Guid="{72884EA4-0C63-4D53-9B05-A06012C3DB88}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\504RR.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+				<Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="511R" Guid="{41CE2CC8-9D08-41C0-BB34-2F8564ACD54F}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\511R.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
