@@ -43,4 +43,5 @@ You can find the latest built scenery in the ```Packages/``` folder in the ```de
 ## License
 
 © 2021 Abdulrahman Abdullatif
+
 Artistic assets included in this work (including but not limited to images, sound banks, 3D models, and textures) are licensed under [Creative Commons CC BY-NC-SA 4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
