@@ -4,11 +4,12 @@
 
 ## Installation
 
-**For Latest Release**
-Navigate to the packages section and download the latest version
+*1.* Click [here](https://github.com/BanditSim/OERK-Riyadh-KKIA/releases) to download the latest release version
 
-**For Latest Development Build**
-You can find the latest built scenery in the ```Packages/``` folder in the ```development``` branch
+*2.* Uncompress the ```banditsim-airport-oerk-riyadh.rar```
+
+*3.* Copy the folder ```banditsim-oerk-riyadh``` to your MSFS Community folder
+
 
 ## Features
 
