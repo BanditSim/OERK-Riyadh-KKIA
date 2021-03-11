@@ -43,6 +43,6 @@
 
 ## License
 
-© 2021 BanditSim
+© 2021 BanditSim and its contributors
 
 Artistic assets included in this work (including but not limited to images, sound banks, 3D models, and textures) are licensed under [Creative Commons CC BY-NC-SA 4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
