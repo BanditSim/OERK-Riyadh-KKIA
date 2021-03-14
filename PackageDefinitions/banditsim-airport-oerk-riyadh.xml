@@ -1,4 +1,4 @@
-<AssetPackage Name="banditsim-airport-oerk-riyadh" Version="0.3.0">
+<AssetPackage Name="banditsim-airport-oerk-riyadh" Version="0.4.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Riyadh - King Khaled Intl.</Title>
@@ -32,6 +32,14 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\oerk-gc\</AssetDir>
+			<OutputDir>scenery/global/scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="oerk-hangars">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\oerk-hangars\</AssetDir>
 			<OutputDir>scenery/global/scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="oerk-lights">

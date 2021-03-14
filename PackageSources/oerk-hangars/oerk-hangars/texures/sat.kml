@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml><GroundOverlay><name>sat.png</name><color>88ffffff</color><Icon>
+<href>sat.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north>24.9750593304634</north>
+<south>24.9545162916183</south>
+<east>46.7436879873276</east>
+<west>46.7196540534496</west>
+</LatLonBox></GroundOverlay></kml>
