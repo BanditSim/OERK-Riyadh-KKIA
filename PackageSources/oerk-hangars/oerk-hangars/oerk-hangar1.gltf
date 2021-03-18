@@ -1378,7 +1378,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1387,7 +1387,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.018",
             "rotation" : [
                 0.7071067690849304,
@@ -1402,7 +1419,7 @@
             ],
             "translation" : [
                 69.52230834960938,
-                11.015892028808594,
+                19.20060157775879,
                 -0.25772202014923096
             ]
         },
@@ -1415,7 +1432,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1424,7 +1441,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.019",
             "rotation" : [
                 0.7071067690849304,
@@ -1439,7 +1473,7 @@
             ],
             "translation" : [
                 55.902549743652344,
-                11.73046875,
+                19.915178298950195,
                 -0.25772202014923096
             ]
         },
@@ -1452,7 +1486,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1461,7 +1495,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.020",
             "rotation" : [
                 0.7071067690849304,
@@ -1476,7 +1527,7 @@
             ],
             "translation" : [
                 42.28279113769531,
-                12.25195026397705,
+                20.43665885925293,
                 -0.25772202014923096
             ]
         },
@@ -1489,7 +1540,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1498,7 +1549,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.021",
             "rotation" : [
                 0.7071067690849304,
@@ -1513,7 +1581,7 @@
             ],
             "translation" : [
                 28.66303253173828,
-                12.25195026397705,
+                20.43665885925293,
                 -0.25772202014923096
             ]
         },
@@ -1526,7 +1594,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1535,7 +1603,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.022",
             "rotation" : [
                 0.7071067690849304,
@@ -1550,7 +1635,7 @@
             ],
             "translation" : [
                 14.76812744140625,
-                12.25195026397705,
+                20.43665885925293,
                 -0.25772202014923096
             ]
         },
@@ -1563,7 +1648,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1572,7 +1657,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.024",
             "rotation" : [
                 0.7071067690849304,
@@ -1587,7 +1689,7 @@
             ],
             "translation" : [
                 28.66303253173828,
-                9.277664184570312,
+                17.462373733520508,
                 18.864967346191406
             ]
         },
@@ -1600,7 +1702,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1609,7 +1711,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.023",
             "rotation" : [
                 0.7071067690849304,
@@ -1624,7 +1743,7 @@
             ],
             "translation" : [
                 14.76812744140625,
-                9.277664184570312,
+                17.462373733520508,
                 18.864967346191406
             ]
         },
@@ -1637,7 +1756,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1646,7 +1765,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.030",
             "rotation" : [
                 0.7071067690849304,
@@ -1661,7 +1797,7 @@
             ],
             "translation" : [
                 14.76812744140625,
-                9.277664184570312,
+                17.462373733520508,
                 -18.417396545410156
             ]
         },
@@ -1674,7 +1810,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1683,7 +1819,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.029",
             "rotation" : [
                 0.7071067690849304,
@@ -1698,7 +1851,7 @@
             ],
             "translation" : [
                 28.66303253173828,
-                9.277664184570312,
+                17.462373733520508,
                 -18.417396545410156
             ]
         },
@@ -1711,7 +1864,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1720,7 +1873,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.031",
             "rotation" : [
                 0.6644629836082458,
@@ -1735,7 +1905,7 @@
             ],
             "translation" : [
                 83.23356628417969,
-                11.015892028808594,
+                19.20060157775879,
                 37.41363525390625
             ]
         },
@@ -1748,7 +1918,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1757,7 +1927,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.032",
             "rotation" : [
                 0.6644629836082458,
@@ -1772,7 +1959,7 @@
             ],
             "translation" : [
                 72.80021667480469,
-                11.73046875,
+                19.915178298950195,
                 46.16824722290039
             ]
         },
@@ -1785,7 +1972,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1794,7 +1981,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.033",
             "rotation" : [
                 0.6644629836082458,
@@ -1809,7 +2013,7 @@
             ],
             "translation" : [
                 62.36688232421875,
-                12.25195026397705,
+                20.43665885925293,
                 54.92285919189453
             ]
         },
@@ -1822,7 +2026,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1831,7 +2035,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.034",
             "rotation" : [
                 0.6644629836082458,
@@ -1846,7 +2067,7 @@
             ],
             "translation" : [
                 51.93354034423828,
-                12.25195026397705,
+                20.43665885925293,
                 63.67747116088867
             ]
         },
@@ -1859,7 +2080,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1868,7 +2089,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.035",
             "rotation" : [
                 0.6644629836082458,
@@ -1883,7 +2121,7 @@
             ],
             "translation" : [
                 41.2894287109375,
-                12.25195026397705,
+                20.43665885925293,
                 72.60894012451172
             ]
         },
@@ -1896,7 +2134,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1905,7 +2143,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.038",
             "rotation" : [
                 0.6644629836082458,
@@ -1920,7 +2175,7 @@
             ],
             "translation" : [
                 64.22537231445312,
-                9.277664184570312,
+                17.462373733520508,
                 78.32630157470703
             ]
         },
@@ -1933,7 +2188,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1942,7 +2197,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.039",
             "rotation" : [
                 0.6644629836082458,
@@ -1957,7 +2229,7 @@
             ],
             "translation" : [
                 53.58125305175781,
-                9.277664184570312,
+                17.462373733520508,
                 87.25776672363281
             ]
         },
@@ -1970,7 +2242,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -1979,7 +2251,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.040",
             "rotation" : [
                 0.6644629836082458,
@@ -1994,7 +2283,7 @@
             ],
             "translation" : [
                 29.616615295410156,
-                9.277664184570312,
+                17.462373733520508,
                 58.69782257080078
             ]
         },
@@ -2007,7 +2296,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -2016,7 +2305,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.041",
             "rotation" : [
                 0.6644629836082458,
@@ -2031,7 +2337,7 @@
             ],
             "translation" : [
                 40.26072692871094,
-                9.277664184570312,
+                17.462373733520508,
                 49.76634979248047
             ]
         },
@@ -2044,7 +2350,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -2053,7 +2359,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.044",
             "rotation" : [
                 0.6644629836082458,
@@ -2068,7 +2391,7 @@
             ],
             "translation" : [
                 83.23356628417969,
-                11.015892028808594,
+                19.20060157775879,
                 -37.9290771484375
             ]
         },
@@ -2081,7 +2404,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -2090,7 +2413,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.045",
             "rotation" : [
                 0.6644629836082458,
@@ -2105,7 +2445,7 @@
             ],
             "translation" : [
                 72.80021667480469,
-                11.73046875,
+                19.915178298950195,
                 -46.68369674682617
             ]
         },
@@ -2118,7 +2458,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -2127,7 +2467,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.046",
             "rotation" : [
                 0.6644629836082458,
@@ -2142,7 +2499,7 @@
             ],
             "translation" : [
                 62.36688232421875,
-                12.25195026397705,
+                20.43665885925293,
                 -55.43830108642578
             ]
         },
@@ -2155,7 +2512,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -2164,7 +2521,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.047",
             "rotation" : [
                 0.6644629836082458,
@@ -2179,7 +2553,7 @@
             ],
             "translation" : [
                 51.93354034423828,
-                12.25195026397705,
+                20.43665885925293,
                 -64.19290161132812
             ]
         },
@@ -2192,7 +2566,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -2201,7 +2575,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.051",
             "rotation" : [
                 0.6644629836082458,
@@ -2216,7 +2607,7 @@
             ],
             "translation" : [
                 39.64171600341797,
-                9.277664184570312,
+                17.462373733520508,
                 -49.54407501220703
             ]
         },
@@ -2229,7 +2620,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -2238,7 +2629,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.052",
             "rotation" : [
                 0.6644629836082458,
@@ -2253,7 +2661,7 @@
             ],
             "translation" : [
                 28.997604370117188,
-                9.277664184570312,
+                17.462373733520508,
                 -58.475555419921875
             ]
         },
@@ -2266,7 +2674,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -2275,7 +2683,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.053",
             "rotation" : [
                 0.6644629836082458,
@@ -2290,7 +2715,7 @@
             ],
             "translation" : [
                 52.962242126464844,
-                9.277664184570312,
+                17.462373733520508,
                 -87.0354995727539
             ]
         },
@@ -2303,7 +2728,7 @@
                         1
                     ],
                     "intensity" : 100,
-                    "cone_angle" : 360,
+                    "cone_angle" : 159.99999534548672,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
@@ -2312,7 +2737,24 @@
                     "day_night_cycle" : false
                 }
             },
-            "extras" : {},
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "name" : "Point.054",
             "rotation" : [
                 0.6644629836082458,
@@ -2327,7 +2769,7 @@
             ],
             "translation" : [
                 63.606361389160156,
-                9.277664184570312,
+                17.462373733520508,
                 -78.1040267944336
             ]
         },
@@ -2350,7 +2792,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot",
@@ -2390,6 +2847,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point",
@@ -2429,6 +2902,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.001",
@@ -2468,7 +2957,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.001",
@@ -2508,6 +3012,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.002",
@@ -2547,7 +3067,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.002",
@@ -2587,6 +3122,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.003",
@@ -2626,7 +3177,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.003",
@@ -2666,6 +3232,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.004",
@@ -2705,7 +3287,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.004",
@@ -2745,6 +3342,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.005",
@@ -2784,7 +3397,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.005",
@@ -2824,7 +3452,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.012",
@@ -2864,6 +3507,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.012",
@@ -2903,6 +3562,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.013",
@@ -2942,7 +3617,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.013",
@@ -2982,6 +3672,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.014",
@@ -3021,7 +3727,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.014",
@@ -3061,6 +3782,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.015",
@@ -3100,7 +3837,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.015",
@@ -3140,6 +3892,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.016",
@@ -3179,7 +3947,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.016",
@@ -3219,6 +4002,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.017",
@@ -3258,7 +4057,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.017",
@@ -3298,7 +4112,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.006",
@@ -3338,6 +4167,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.006",
@@ -3377,6 +4222,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.007",
@@ -3416,7 +4277,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.007",
@@ -3456,6 +4332,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.008",
@@ -3495,7 +4387,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.008",
@@ -3535,6 +4442,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.009",
@@ -3574,7 +4497,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.009",
@@ -3614,6 +4552,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.010",
@@ -3653,7 +4607,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.010",
@@ -3693,6 +4662,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.011",
@@ -3732,7 +4717,22 @@
                 }
             },
             "extras" : {
-                "xplane" : {},
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Spot.011",

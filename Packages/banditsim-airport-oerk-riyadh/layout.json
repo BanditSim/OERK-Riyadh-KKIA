@@ -1667,8 +1667,8 @@
     },
     {
       "path": "scenery/global/scenery/oerk-airport.bgl",
-      "size": 335896,
-      "date": 132602770097528636
+      "size": 336740,
+      "date": 132605586983369228
     },
     {
       "path": "scenery/global/scenery/oerk-gc.BGL",
@@ -1677,8 +1677,8 @@
     },
     {
       "path": "scenery/global/scenery/oerk-hangars.BGL",
-      "size": 715514,
-      "date": 132602360482277124
+      "size": 818502,
+      "date": 132605603082691091
     },
     {
       "path": "scenery/global/scenery/oerk-lights.BGL",
@@ -1688,7 +1688,7 @@
     {
       "path": "scenery/global/scenery/oerk-misc.BGL",
       "size": 1000360,
-      "date": 132602770100520758
+      "date": 132605517101510319
     },
     {
       "path": "scenery/global/scenery/oerk-model.BGL",
@@ -1704,26 +1704,6 @@
       "path": "scenery/global/scenery/oerk-tower.BGL",
       "size": 1376170,
       "date": 132593261349787456
-    },
-    {
-      "path": "scenery/global/scenery/TEXTURE/B744_SYR.PNG.DDS",
-      "size": 699192,
-      "date": 132602472673707971
-    },
-    {
-      "path": "scenery/global/scenery/TEXTURE/B744_SYR.PNG.DDS.json",
-      "size": 102,
-      "date": 132602472673688029
-    },
-    {
-      "path": "scenery/global/scenery/TEXTURE/B744_SYR_DDS.PNG.DDS",
-      "size": 699192,
-      "date": 132602471274849932
-    },
-    {
-      "path": "scenery/global/scenery/TEXTURE/B744_SYR_DDS.PNG.DDS.json",
-      "size": 102,
-      "date": 132602471274829984
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BARRIER.PNG.DDS",
@@ -1796,6 +1776,16 @@
       "date": 132602424636228185
     },
     {
+      "path": "scenery/global/scenery/TEXTURE/PT_MISC.PNG.DDS",
+      "size": 22369776,
+      "date": 132605603081982984
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/PT_MISC.PNG.DDS.json",
+      "size": 119,
+      "date": 132605603081823413
+    },
+    {
       "path": "scenery/global/scenery/TEXTURE/RT-TOWER-MISC.PNG.DDS",
       "size": 2796344,
       "date": 132593256620259273
@@ -1818,32 +1808,32 @@
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A.PNG.DDS",
       "size": 5592560,
-      "date": 132602770126777469
+      "date": 132605603109118340
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A.PNG.DDS.json",
       "size": 119,
-      "date": 132602770126737583
+      "date": 132605603109008632
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_DDS.PNG.DDS",
       "size": 5592560,
-      "date": 132602770132961201
+      "date": 132605603115341958
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_DDS.PNG.DDS.json",
       "size": 119,
-      "date": 132602770132911337
+      "date": 132605603115292093
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_L.PNG.DDS",
       "size": 2796344,
-      "date": 132602770136267411
+      "date": 132605603118638203
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_L.PNG.DDS.json",
       "size": 102,
-      "date": 132602770136237491
+      "date": 132605603118598308
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2ROOF_A_L_DDS.PNG.DDS",
@@ -1858,12 +1848,12 @@
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_DIFF_BW_2K.PNG.DDS",
       "size": 2796344,
-      "date": 132602770122803074
+      "date": 132605603104909473
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_DIFF_BW_2K.PNG.DDS.json",
       "size": 102,
-      "date": 132602770122768086
+      "date": 132605603104879553
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_DIFF_BW_2K_PNG.PNG.DDS",
@@ -1878,12 +1868,12 @@
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_NOR_2K.PNG.DDS",
       "size": 5592560,
-      "date": 132602770128876933
+      "date": 132605603111237741
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_NOR_2K.PNG.DDS.json",
       "size": 160,
-      "date": 132602770128827070
+      "date": 132605603111177904
     },
     {
       "path": "scenery/global/scenery/TEXTURE/T2_CONCRETE_FLOOR_01_NOR_2K_PNG.PNG.DDS",
