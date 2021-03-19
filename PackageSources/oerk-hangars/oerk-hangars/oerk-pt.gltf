@@ -88,20 +88,56 @@
     ],
     "nodes" : [
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 0,
             "name" : "Cube",
             "scale" : [
                 18.600000381469727,
-                1.75,
+                1.5406156778335571,
                 73
             ],
             "translation" : [
                 -2.9499869346618652,
-                5.634555816650391,
+                5.190732002258301,
                 0
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 1,
             "name" : "Cube.001",
             "scale" : [
@@ -116,6 +152,24 @@
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 2,
             "name" : "Cube.002",
             "scale" : [
@@ -124,26 +178,62 @@
                 0.5
             ],
             "translation" : [
-                -20.870214462280273,
+                -20.923383712768555,
                 1.974100112915039,
-                72.4002914428711
+                72.50001525878906
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 3,
             "name" : "Cube.003",
             "scale" : [
                 5.5,
-                1.600000023841858,
+                1.516824722290039,
                 73
             ],
             "translation" : [
                 21.59981346130371,
-                8.975443840026855,
+                8.245744705200195,
                 0
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 4,
             "name" : "Cube.004",
             "scale" : [
@@ -158,6 +248,24 @@
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 5,
             "name" : "Cube.005",
             "scale" : [
@@ -172,6 +280,24 @@
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 6,
             "name" : "Cube.007",
             "scale" : [
@@ -181,67 +307,157 @@
             ],
             "translation" : [
                 -2.9499869346618652,
-                5.634555816650391,
+                5.110367774963379,
                 0
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 7,
             "name" : "Cube.006",
             "scale" : [
                 18.75,
-                1.75,
-                85.65132141113281
+                1.6043375730514526,
+                78.5220718383789
             ],
             "translation" : [
                 15.70001220703125,
-                5.634555816650391,
+                5.281493186950684,
                 -16.51386070251465
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 8,
             "name" : "Cube.008",
             "scale" : [
                 18.649999618530273,
-                1.75,
-                85.65132141113281
+                1.6043375730514526,
+                78.5220718383789
             ],
             "translation" : [
                 15.70001220703125,
-                5.634555816650391,
+                5.281493186950684,
                 -37.08795928955078
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 9,
             "name" : "Cube.009",
             "scale" : [
                 18.700000762939453,
-                1.75,
-                49.742881774902344
+                1.6043375730514526,
+                45.60249710083008
             ],
             "translation" : [
                 15.70001220703125,
-                5.3291802406311035,
+                4.9761176109313965,
                 -0.3563086986541748
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 10,
             "name" : "Cube.010",
             "scale" : [
                 18.649999618530273,
-                1.75,
-                49.742881774902344
+                1.6043375730514526,
+                45.60249710083008
             ],
             "translation" : [
                 15.70001220703125,
-                5.426840782165527,
-                10.242942810058594
+                5.07377815246582,
+                8.038275718688965
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 11,
             "name" : "Cube.011",
             "scale" : [
@@ -274,6 +490,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point",
@@ -285,7 +517,7 @@
             ],
             "translation" : [
                 20.799524307250977,
-                7.18098783493042,
+                6.685342788696289,
                 -60.44781494140625
             ]
         },
@@ -308,6 +540,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.001",
@@ -319,7 +567,7 @@
             ],
             "translation" : [
                 20.799524307250977,
-                7.18098783493042,
+                6.685342788696289,
                 -39.31361770629883
             ]
         },
@@ -342,6 +590,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.003",
@@ -353,7 +617,7 @@
             ],
             "translation" : [
                 20.799524307250977,
-                7.18098783493042,
+                6.685342788696289,
                 -15.515449523925781
             ]
         },
@@ -376,6 +640,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.002",
@@ -387,7 +667,7 @@
             ],
             "translation" : [
                 20.799524307250977,
-                7.18098783493042,
+                6.685342788696289,
                 5.618747711181641
             ]
         },
@@ -410,6 +690,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.005",
@@ -421,7 +717,7 @@
             ],
             "translation" : [
                 20.799524307250977,
-                7.18098783493042,
+                6.685342788696289,
                 50.424678802490234
             ]
         },
@@ -444,6 +740,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.004",
@@ -455,7 +767,7 @@
             ],
             "translation" : [
                 20.799524307250977,
-                7.18098783493042,
+                6.685342788696289,
                 29.290481567382812
             ]
         },
@@ -478,6 +790,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.011",
@@ -489,7 +817,7 @@
             ],
             "translation" : [
                 20.799524307250977,
-                7.18098783493042,
+                6.685342788696289,
                 -49.714385986328125
             ]
         },
@@ -512,6 +840,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.010",
@@ -523,7 +867,7 @@
             ],
             "translation" : [
                 20.799524307250977,
-                7.18098783493042,
+                6.685342788696289,
                 -28.580190658569336
             ]
         },
@@ -546,6 +890,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.009",
@@ -557,7 +917,7 @@
             ],
             "translation" : [
                 20.799524307250977,
-                7.18098783493042,
+                6.685342788696289,
                 16.352174758911133
             ]
         },
@@ -580,6 +940,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.008",
@@ -591,7 +967,7 @@
             ],
             "translation" : [
                 20.799524307250977,
-                7.18098783493042,
+                6.685342788696289,
                 -4.782022476196289
             ]
         },
@@ -614,6 +990,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.007",
@@ -625,7 +1017,7 @@
             ],
             "translation" : [
                 20.799524307250977,
-                7.18098783493042,
+                6.685342788696289,
                 40.02391052246094
             ]
         },
@@ -648,6 +1040,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.006",
@@ -659,7 +1067,7 @@
             ],
             "translation" : [
                 20.799524307250977,
-                7.18098783493042,
+                6.685342788696289,
                 61.158103942871094
             ]
         },
@@ -682,6 +1090,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.012",
@@ -693,7 +1117,7 @@
             ],
             "translation" : [
                 -17.125146865844727,
-                3.8466150760650635,
+                3.639127016067505,
                 -49.714385986328125
             ]
         },
@@ -716,6 +1140,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.013",
@@ -727,7 +1167,7 @@
             ],
             "translation" : [
                 -17.125146865844727,
-                3.8466150760650635,
+                3.639127016067505,
                 -28.580190658569336
             ]
         },
@@ -750,6 +1190,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.014",
@@ -761,7 +1217,7 @@
             ],
             "translation" : [
                 -17.125146865844727,
-                3.8466150760650635,
+                3.639127016067505,
                 16.352174758911133
             ]
         },
@@ -784,6 +1240,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.015",
@@ -795,7 +1267,7 @@
             ],
             "translation" : [
                 -17.125146865844727,
-                3.8466150760650635,
+                3.639127016067505,
                 -4.782022476196289
             ]
         },
@@ -818,6 +1290,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.016",
@@ -829,7 +1317,7 @@
             ],
             "translation" : [
                 -17.125146865844727,
-                3.8466150760650635,
+                3.639127016067505,
                 40.02391052246094
             ]
         },
@@ -852,6 +1340,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.017",
@@ -863,7 +1367,7 @@
             ],
             "translation" : [
                 -17.125146865844727,
-                3.8466150760650635,
+                3.639127016067505,
                 61.158103942871094
             ]
         },
@@ -886,6 +1390,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.018",
@@ -897,7 +1417,7 @@
             ],
             "translation" : [
                 -17.125146865844727,
-                3.8466150760650635,
+                3.639127016067505,
                 50.424678802490234
             ]
         },
@@ -920,6 +1440,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.019",
@@ -931,7 +1467,7 @@
             ],
             "translation" : [
                 -17.125146865844727,
-                3.8466150760650635,
+                3.639127016067505,
                 29.290481567382812
             ]
         },
@@ -954,6 +1490,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.020",
@@ -965,7 +1517,7 @@
             ],
             "translation" : [
                 -17.125146865844727,
-                3.8466150760650635,
+                3.639127016067505,
                 -15.515449523925781
             ]
         },
@@ -988,6 +1540,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.021",
@@ -999,7 +1567,7 @@
             ],
             "translation" : [
                 -17.125146865844727,
-                3.8466150760650635,
+                3.639127016067505,
                 5.618747711181641
             ]
         },
@@ -1022,6 +1590,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.022",
@@ -1033,7 +1617,7 @@
             ],
             "translation" : [
                 -17.125146865844727,
-                3.8466150760650635,
+                3.639127016067505,
                 -39.31361770629883
             ]
         },
@@ -1056,6 +1640,22 @@
                 }
             },
             "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                },
                 "msfs_light_day_night_cycle" : 1
             },
             "name" : "Point.023",
@@ -1067,7 +1667,7 @@
             ],
             "translation" : [
                 -17.125146865844727,
-                3.8466150760650635,
+                3.639127016067505,
                 -60.44781494140625
             ]
         }
@@ -1274,6 +1874,59 @@
             }
         },
         {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {
+                "msfs_material_mode" : 1,
+                "msfs_albedo_texture" : {
+                    "name" : "pt_misc.png",
+                    "type" : "Image"
+                },
+                "msfs_show_tint" : 1,
+                "msfs_show_sss_color" : 0,
+                "msfs_show_glass_parameters" : 0,
+                "msfs_show_decal_parameters" : 0,
+                "msfs_show_fresnel_parameters" : 0,
+                "msfs_show_parallax_parameters" : 0,
+                "msfs_show_geo_decal_parameters" : 0,
+                "msfs_show_albedo" : 1,
+                "msfs_show_metallic" : 1,
+                "msfs_show_normal" : 1,
+                "msfs_show_emissive" : 1,
+                "msfs_show_detail_albedo" : 1,
+                "msfs_show_detail_metallic" : 1,
+                "msfs_show_detail_normal" : 1,
+                "msfs_show_blend_mask" : 1,
+                "msfs_show_anisotropic_direction" : 0,
+                "msfs_show_clearcoat" : 0,
+                "msfs_show_behind_glass" : 0,
+                "msfs_show_blend_mode" : 1,
+                "msfs_show_draworder" : 1,
+                "msfs_show_no_cast_shadow" : 1,
+                "msfs_show_double_sided" : 1,
+                "msfs_show_responsive_aa" : 0,
+                "msfs_show_day_night_cycle" : 1,
+                "msfs_show_collision_material" : 1,
+                "msfs_show_road_material" : 1,
+                "msfs_show_ao_use_uv2" : 1,
+                "msfs_show_uv_clamp" : 1,
+                "msfs_show_alpha_cutoff" : 1,
+                "msfs_show_blend_threshold" : 1
+            },
+            "name" : "pt_misc.pavement",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0,
+                    "texCoord" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.949999988079071
+            }
+        },
+        {
             "alphaMode" : "BLEND",
             "emissiveFactor" : [
                 0,
@@ -1321,7 +1974,7 @@
             "name" : "Signs_pt",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 0,
+                    "index" : 1,
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0,
@@ -1378,6 +2031,15 @@
                     },
                     "indices" : 15,
                     "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 16,
+                        "NORMAL" : 17,
+                        "TEXCOORD_0" : 18
+                    },
+                    "indices" : 19,
+                    "material" : 2
                 }
             ]
         },
@@ -1386,27 +2048,13 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 16,
-                        "NORMAL" : 17,
-                        "TEXCOORD_0" : 18
-                    },
-                    "indices" : 19,
-                    "material" : 0
-                },
-                {
-                    "attributes" : {
                         "POSITION" : 20,
                         "NORMAL" : 21,
                         "TEXCOORD_0" : 22
                     },
                     "indices" : 23,
-                    "material" : 1
-                }
-            ]
-        },
-        {
-            "name" : "Cube.018",
-            "primitives" : [
+                    "material" : 0
+                },
                 {
                     "attributes" : {
                         "POSITION" : 24,
@@ -1414,12 +2062,12 @@
                         "TEXCOORD_0" : 26
                     },
                     "indices" : 27,
-                    "material" : 0
+                    "material" : 1
                 }
             ]
         },
         {
-            "name" : "Cube.019",
+            "name" : "Cube.018",
             "primitives" : [
                 {
                     "attributes" : {
@@ -1433,7 +2081,7 @@
             ]
         },
         {
-            "name" : "Cube.021",
+            "name" : "Cube.019",
             "primitives" : [
                 {
                     "attributes" : {
@@ -1442,12 +2090,12 @@
                         "TEXCOORD_0" : 34
                     },
                     "indices" : 35,
-                    "material" : 2
+                    "material" : 0
                 }
             ]
         },
         {
-            "name" : "Cube.022",
+            "name" : "Cube.021",
             "primitives" : [
                 {
                     "attributes" : {
@@ -1456,7 +2104,21 @@
                         "TEXCOORD_0" : 38
                     },
                     "indices" : 39,
-                    "material" : 2
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cube.022",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 40,
+                        "NORMAL" : 41,
+                        "TEXCOORD_0" : 42
+                    },
+                    "indices" : 43,
+                    "material" : 3
                 }
             ]
         },
@@ -1465,12 +2127,12 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 40,
-                        "NORMAL" : 41,
-                        "TEXCOORD_0" : 42
+                        "POSITION" : 44,
+                        "NORMAL" : 45,
+                        "TEXCOORD_0" : 46
                     },
-                    "indices" : 39,
-                    "material" : 2
+                    "indices" : 43,
+                    "material" : 3
                 }
             ]
         },
@@ -1479,12 +2141,12 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 43,
-                        "NORMAL" : 44,
-                        "TEXCOORD_0" : 45
+                        "POSITION" : 47,
+                        "NORMAL" : 48,
+                        "TEXCOORD_0" : 49
                     },
-                    "indices" : 39,
-                    "material" : 2
+                    "indices" : 43,
+                    "material" : 3
                 }
             ]
         },
@@ -1493,12 +2155,12 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 46,
-                        "NORMAL" : 47,
-                        "TEXCOORD_0" : 48
+                        "POSITION" : 50,
+                        "NORMAL" : 51,
+                        "TEXCOORD_0" : 52
                     },
-                    "indices" : 39,
-                    "material" : 2
+                    "indices" : 43,
+                    "material" : 3
                 }
             ]
         },
@@ -1507,17 +2169,20 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 49,
-                        "NORMAL" : 50,
-                        "TEXCOORD_0" : 51
+                        "POSITION" : 53,
+                        "NORMAL" : 54,
+                        "TEXCOORD_0" : 55
                     },
-                    "indices" : 52,
+                    "indices" : 56,
                     "material" : 0
                 }
             ]
         }
     ],
     "textures" : [
+        {
+            "source" : 0
+        },
         {
             "source" : 0
         }
@@ -1533,35 +2198,35 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 28,
+            "count" : 4179,
             "max" : [
-                1.5963644981384277,
-                1.5963643789291382,
-                1
+                1.5965843200683594,
+                1.5965840816497803,
+                1.000749945640564
             ],
             "min" : [
-                -1,
-                -1,
-                -1
+                -1.000749945640564,
+                -1.000749945640564,
+                -1.000749945640564
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 28,
+            "count" : 4179,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 28,
+            "count" : 4179,
             "type" : "VEC2"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 42,
+            "count" : 6654,
             "type" : "SCALAR"
         },
         {
@@ -1635,39 +2300,73 @@
         {
             "bufferView" : 12,
             "componentType" : 5126,
-            "count" : 312,
+            "count" : 338,
             "max" : [
                 1,
-                1,
+                0.8395514488220215,
                 1
             ],
             "min" : [
                 -1,
-                -1,
-                -290.5600280761719
+                -0.8688393235206604,
+                -290.99365234375
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 13,
             "componentType" : 5126,
-            "count" : 312,
+            "count" : 338,
             "type" : "VEC3"
         },
         {
             "bufferView" : 14,
             "componentType" : 5126,
-            "count" : 312,
+            "count" : 338,
             "type" : "VEC2"
         },
         {
             "bufferView" : 15,
             "componentType" : 5123,
-            "count" : 468,
+            "count" : 702,
             "type" : "SCALAR"
         },
         {
             "bufferView" : 16,
+            "componentType" : 5126,
+            "count" : 676,
+            "max" : [
+                1.3450310230255127,
+                -0.8688393235206604,
+                1.4415496587753296
+            ],
+            "min" : [
+                -1.3450310230255127,
+                -1.015578031539917,
+                -291.4352111816406
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 17,
+            "componentType" : 5126,
+            "count" : 676,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 18,
+            "componentType" : 5126,
+            "count" : 676,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 19,
+            "componentType" : 5123,
+            "count" : 1248,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 20,
             "componentType" : 5126,
             "count" : 628,
             "max" : [
@@ -1683,25 +2382,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 17,
+            "bufferView" : 21,
             "componentType" : 5126,
             "count" : 628,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 18,
+            "bufferView" : 22,
             "componentType" : 5126,
             "count" : 628,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 19,
+            "bufferView" : 23,
             "componentType" : 5123,
             "count" : 1044,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 20,
+            "bufferView" : 24,
             "componentType" : 5126,
             "count" : 16,
             "max" : [
@@ -1717,25 +2416,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 21,
+            "bufferView" : 25,
             "componentType" : 5126,
             "count" : 16,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 22,
+            "bufferView" : 26,
             "componentType" : 5126,
             "count" : 16,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 23,
+            "bufferView" : 27,
             "componentType" : 5123,
             "count" : 24,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 24,
+            "bufferView" : 28,
             "componentType" : 5126,
             "count" : 72,
             "max" : [
@@ -1751,25 +2450,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 25,
+            "bufferView" : 29,
             "componentType" : 5126,
             "count" : 72,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 26,
+            "bufferView" : 30,
             "componentType" : 5126,
             "count" : 72,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 27,
+            "bufferView" : 31,
             "componentType" : 5123,
             "count" : 108,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 28,
+            "bufferView" : 32,
             "componentType" : 5126,
             "count" : 192,
             "max" : [
@@ -1785,25 +2484,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 29,
+            "bufferView" : 33,
             "componentType" : 5126,
             "count" : 192,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 30,
+            "bufferView" : 34,
             "componentType" : 5126,
             "count" : 192,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 31,
+            "bufferView" : 35,
             "componentType" : 5123,
             "count" : 288,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 32,
+            "bufferView" : 36,
             "componentType" : 5126,
             "count" : 8,
             "max" : [
@@ -1819,55 +2518,21 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 33,
-            "componentType" : 5126,
-            "count" : 8,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 34,
-            "componentType" : 5126,
-            "count" : 8,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 35,
-            "componentType" : 5123,
-            "count" : 12,
-            "type" : "SCALAR"
-        },
-        {
-            "bufferView" : 36,
-            "componentType" : 5126,
-            "count" : 4,
-            "max" : [
-                0,
-                1,
-                0.08763659000396729
-            ],
-            "min" : [
-                0,
-                -1,
-                -0.08763650059700012
-            ],
-            "type" : "VEC3"
-        },
-        {
             "bufferView" : 37,
             "componentType" : 5126,
-            "count" : 4,
+            "count" : 8,
             "type" : "VEC3"
         },
         {
             "bufferView" : 38,
             "componentType" : 5126,
-            "count" : 4,
+            "count" : 8,
             "type" : "VEC2"
         },
         {
             "bufferView" : 39,
             "componentType" : 5123,
-            "count" : 6,
+            "count" : 12,
             "type" : "SCALAR"
         },
         {
@@ -1900,6 +2565,12 @@
         },
         {
             "bufferView" : 43,
+            "componentType" : 5123,
+            "count" : 6,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 44,
             "componentType" : 5126,
             "count" : 4,
             "max" : [
@@ -1912,22 +2583,22 @@
                 -1,
                 -0.08763650059700012
             ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 44,
-            "componentType" : 5126,
-            "count" : 4,
             "type" : "VEC3"
         },
         {
             "bufferView" : 45,
             "componentType" : 5126,
             "count" : 4,
-            "type" : "VEC2"
+            "type" : "VEC3"
         },
         {
             "bufferView" : 46,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 47,
             "componentType" : 5126,
             "count" : 4,
             "max" : [
@@ -1943,19 +2614,47 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 47,
+            "bufferView" : 48,
             "componentType" : 5126,
             "count" : 4,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 48,
+            "bufferView" : 49,
             "componentType" : 5126,
             "count" : 4,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 49,
+            "bufferView" : 50,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                0,
+                1,
+                0.08763659000396729
+            ],
+            "min" : [
+                0,
+                -1,
+                -0.08763650059700012
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 51,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 52,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 53,
             "componentType" : 5126,
             "count" : 24,
             "max" : [
@@ -1971,19 +2670,19 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 50,
+            "bufferView" : 54,
             "componentType" : 5126,
             "count" : 24,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 51,
+            "bufferView" : 55,
             "componentType" : 5126,
             "count" : 24,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 52,
+            "bufferView" : 56,
             "componentType" : 5123,
             "count" : 36,
             "type" : "SCALAR"
@@ -1992,273 +2691,293 @@
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 336,
+            "byteLength" : 50148,
             "byteOffset" : 0
         },
         {
             "buffer" : 0,
-            "byteLength" : 336,
-            "byteOffset" : 336
+            "byteLength" : 50148,
+            "byteOffset" : 50148
         },
         {
             "buffer" : 0,
-            "byteLength" : 224,
-            "byteOffset" : 672
+            "byteLength" : 33432,
+            "byteOffset" : 100296
         },
         {
             "buffer" : 0,
-            "byteLength" : 84,
-            "byteOffset" : 896
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 5664,
-            "byteOffset" : 980
+            "byteLength" : 13308,
+            "byteOffset" : 133728
         },
         {
             "buffer" : 0,
             "byteLength" : 5664,
-            "byteOffset" : 6644
+            "byteOffset" : 147036
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 5664,
+            "byteOffset" : 152700
         },
         {
             "buffer" : 0,
             "byteLength" : 3776,
-            "byteOffset" : 12308
+            "byteOffset" : 158364
         },
         {
             "buffer" : 0,
             "byteLength" : 1716,
-            "byteOffset" : 16084
+            "byteOffset" : 162140
         },
         {
             "buffer" : 0,
             "byteLength" : 624,
-            "byteOffset" : 17800
+            "byteOffset" : 163856
         },
         {
             "buffer" : 0,
             "byteLength" : 624,
-            "byteOffset" : 18424
+            "byteOffset" : 164480
         },
         {
             "buffer" : 0,
             "byteLength" : 416,
-            "byteOffset" : 19048
+            "byteOffset" : 165104
         },
         {
             "buffer" : 0,
             "byteLength" : 156,
-            "byteOffset" : 19464
+            "byteOffset" : 165520
         },
         {
             "buffer" : 0,
-            "byteLength" : 3744,
-            "byteOffset" : 19620
+            "byteLength" : 4056,
+            "byteOffset" : 165676
         },
         {
             "buffer" : 0,
-            "byteLength" : 3744,
-            "byteOffset" : 23364
+            "byteLength" : 4056,
+            "byteOffset" : 169732
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2704,
+            "byteOffset" : 173788
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1404,
+            "byteOffset" : 176492
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 8112,
+            "byteOffset" : 177896
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 8112,
+            "byteOffset" : 186008
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 5408,
+            "byteOffset" : 194120
         },
         {
             "buffer" : 0,
             "byteLength" : 2496,
-            "byteOffset" : 27108
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 936,
-            "byteOffset" : 29604
+            "byteOffset" : 199528
         },
         {
             "buffer" : 0,
             "byteLength" : 7536,
-            "byteOffset" : 30540
+            "byteOffset" : 202024
         },
         {
             "buffer" : 0,
             "byteLength" : 7536,
-            "byteOffset" : 38076
+            "byteOffset" : 209560
         },
         {
             "buffer" : 0,
             "byteLength" : 5024,
-            "byteOffset" : 45612
+            "byteOffset" : 217096
         },
         {
             "buffer" : 0,
             "byteLength" : 2088,
-            "byteOffset" : 50636
+            "byteOffset" : 222120
         },
         {
             "buffer" : 0,
             "byteLength" : 192,
-            "byteOffset" : 52724
+            "byteOffset" : 224208
         },
         {
             "buffer" : 0,
             "byteLength" : 192,
-            "byteOffset" : 52916
+            "byteOffset" : 224400
         },
         {
             "buffer" : 0,
             "byteLength" : 128,
-            "byteOffset" : 53108
+            "byteOffset" : 224592
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 53236
+            "byteOffset" : 224720
         },
         {
             "buffer" : 0,
             "byteLength" : 864,
-            "byteOffset" : 53284
+            "byteOffset" : 224768
         },
         {
             "buffer" : 0,
             "byteLength" : 864,
-            "byteOffset" : 54148
+            "byteOffset" : 225632
         },
         {
             "buffer" : 0,
             "byteLength" : 576,
-            "byteOffset" : 55012
+            "byteOffset" : 226496
         },
         {
             "buffer" : 0,
             "byteLength" : 216,
-            "byteOffset" : 55588
+            "byteOffset" : 227072
         },
         {
             "buffer" : 0,
             "byteLength" : 2304,
-            "byteOffset" : 55804
+            "byteOffset" : 227288
         },
         {
             "buffer" : 0,
             "byteLength" : 2304,
-            "byteOffset" : 58108
+            "byteOffset" : 229592
         },
         {
             "buffer" : 0,
             "byteLength" : 1536,
-            "byteOffset" : 60412
+            "byteOffset" : 231896
         },
         {
             "buffer" : 0,
             "byteLength" : 576,
-            "byteOffset" : 61948
+            "byteOffset" : 233432
         },
         {
             "buffer" : 0,
             "byteLength" : 96,
-            "byteOffset" : 62524
+            "byteOffset" : 234008
         },
         {
             "buffer" : 0,
             "byteLength" : 96,
-            "byteOffset" : 62620
+            "byteOffset" : 234104
         },
         {
             "buffer" : 0,
             "byteLength" : 64,
-            "byteOffset" : 62716
+            "byteOffset" : 234200
         },
         {
             "buffer" : 0,
             "byteLength" : 24,
-            "byteOffset" : 62780
+            "byteOffset" : 234264
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 62804
+            "byteOffset" : 234288
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 62852
+            "byteOffset" : 234336
         },
         {
             "buffer" : 0,
             "byteLength" : 32,
-            "byteOffset" : 62900
+            "byteOffset" : 234384
         },
         {
             "buffer" : 0,
             "byteLength" : 12,
-            "byteOffset" : 62932
+            "byteOffset" : 234416
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 62944
+            "byteOffset" : 234428
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 62992
+            "byteOffset" : 234476
         },
         {
             "buffer" : 0,
             "byteLength" : 32,
-            "byteOffset" : 63040
+            "byteOffset" : 234524
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 63072
+            "byteOffset" : 234556
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 63120
+            "byteOffset" : 234604
         },
         {
             "buffer" : 0,
             "byteLength" : 32,
-            "byteOffset" : 63168
+            "byteOffset" : 234652
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 63200
+            "byteOffset" : 234684
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 63248
+            "byteOffset" : 234732
         },
         {
             "buffer" : 0,
             "byteLength" : 32,
-            "byteOffset" : 63296
+            "byteOffset" : 234780
         },
         {
             "buffer" : 0,
             "byteLength" : 288,
-            "byteOffset" : 63328
+            "byteOffset" : 234812
         },
         {
             "buffer" : 0,
             "byteLength" : 288,
-            "byteOffset" : 63616
+            "byteOffset" : 235100
         },
         {
             "buffer" : 0,
             "byteLength" : 192,
-            "byteOffset" : 63904
+            "byteOffset" : 235388
         },
         {
             "buffer" : 0,
             "byteLength" : 72,
-            "byteOffset" : 64096
+            "byteOffset" : 235580
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 64168,
+            "byteLength" : 235652,
             "uri" : "oerk-pt.bin"
         }
     ]
