@@ -1463,7 +1463,7 @@
                 "msfs_show_alpha_cutoff" : 1,
                 "msfs_show_blend_threshold" : 1,
                 "msfs_albedo_texture" : {
-                    "name" : "oerk-74s-syr-dis1.dds",
+                    "name" : "oerk-74s-syr-dis1.png",
                     "type" : "Image"
                 },
                 "msfs_color_alpha_mix" : 1
