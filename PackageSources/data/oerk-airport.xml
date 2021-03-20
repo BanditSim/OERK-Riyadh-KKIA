@@ -5694,29 +5694,29 @@
 	<SceneryObject lat="24.95777620689128" lon="46.69862550244961" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-28.374573" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7605EA11-9743-4378-B5BB-D31A77C6C974}" scale="1.000000"/>
 	</SceneryObject>
-	<Rectangle width="287.239380" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.94508352926324" longitude="46.70939917772775" altitude="620.08476886432618" latitude2="24.93957518833289" longitude2="46.71289710358094" altitude2="620.09657703898847"/>
-	<Rectangle width="820.355713" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.95849011564786" longitude="46.69796125083434" altitude="619.98484688624740" latitude2="24.95647814373245" longitude2="46.69926267488253" altitude2="619.98924957867712"/>
-	<Rectangle width="287.239380" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.96522046506792" longitude="46.70044424322273" altitude="620.54120855592191" latitude2="24.95534479168507" longitude2="46.70673019473254" altitude2="620.56231536343694"/>
-	<Rectangle width="287.239380" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.96868143422767" longitude="46.72906660773728" altitude="620.85316776577383" latitude2="24.96317310602070" longitude2="46.73256520333815" altitude2="620.86503191292286"/>
-	<Rectangle width="81.630409" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95165999317665" longitude="46.71263665807862" altitude="618.00057768449187" latitude2="24.95152151346806" longitude2="46.71237410732379" altitude2="617.99907378759235"/>
-	<Rectangle width="557.295715" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95618133790998" longitude="46.70956574651068" altitude="617.37428814359009" latitude2="24.95611457974197" longitude2="46.70943919739521" altitude2="617.37356308102608"/>
-	<Rectangle width="7416.373047" falloff="2000.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="24.99516809300211" longitude="46.68555495605544" altitude="619.97780277021229" latitude2="24.92677020757078" longitude2="46.72964128389425" altitude2="620.12713634315878"/>
-	<Rectangle width="569.001831" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96140824196095" longitude="46.70628947604686" altitude="617.32800420001149" latitude2="24.96134148420322" longitude2="46.70616292199210" altitude2="617.32728076539934"/>
-	<Rectangle width="569.001831" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96662742828563" longitude="46.70303304652823" altitude="617.28231714945287" latitude2="24.96656067027204" longitude2="46.70290648688731" altitude2="617.28159371577203"/>
-	<Rectangle width="169.905273" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.97023698935863" longitude="46.70073101254635" altitude="617.30581095349044" latitude2="24.97017023147051" longitude2="46.70060444918832" altitude2="617.30508874263614"/>
-	<Rectangle width="160.433975" falloff="500.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="24.94190250502665" longitude="46.71689289853177" altitude="620.01726933196187" latitude2="24.93958313167616" longitude2="46.71838848164829" altitude2="620.02239000797272">
+	<Rectangle width="287.239380" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.94508350855539" longitude="46.70939913901917" altitude="620.08474492467940" latitude2="24.93957520903977" longitude2="46.71289714228837" altitude2="620.09660096932203"/>
+	<Rectangle width="820.355713" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.95849011276844" longitude="46.69796124563965" altitude="619.98485279362649" latitude2="24.95647814661170" longitude2="46.69926268007717" altitude2="619.98924366850406"/>
+	<Rectangle width="287.239380" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.96522039890544" longitude="46.70044411773425" altitude="620.54124440904707" latitude2="24.95534485784220" longitude2="46.70673032021440" altitude2="620.56227950099856"/>
+	<Rectangle width="287.239380" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="24.96868141374763" longitude="46.72906656895415" altitude="620.85314677935094" latitude2="24.96317312649976" longitude2="46.73256524212010" altitude2="620.86505241971463"/>
+	<Rectangle width="81.630409" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95165999306143" longitude="46.71263665815186" altitude="618.00057746749371" latitude2="24.95152151358318" longitude2="46.71237410725056" altitude2="617.99907400365919"/>
+	<Rectangle width="557.295715" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95618133787950" longitude="46.70956574653167" altitude="617.37428747396916" latitude2="24.95611457977235" longitude2="46.70943919737421" altitude2="617.37356374785304"/>
+	<Rectangle width="7416.373047" falloff="2000.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="24.99516482285881" longitude="46.68554886595569" altitude="619.97772908769548" latitude2="24.92677347594173" longitude2="46.72964737179368" altitude2="620.12720671296120"/>
+	<Rectangle width="569.001831" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96140824193298" longitude="46.70628947605938" altitude="617.32800387777388" latitude2="24.96134148423108" longitude2="46.70616292197957" altitude2="617.32728108763695"/>
+	<Rectangle width="569.001831" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96662742826340" longitude="46.70303304654438" altitude="617.28231701999903" latitude2="24.96656067029417" longitude2="46.70290648687116" altitude2="617.28159384243190"/>
+	<Rectangle width="169.905273" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.97023698933494" longitude="46.70073101256159" altitude="617.30581116862595" latitude2="24.97017023149408" longitude2="46.70060444917308" altitude2="617.30508852377534"/>
+	<Rectangle width="160.433975" falloff="500.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="24.94190250110907" longitude="46.71689289172174" altitude="620.01727465540171" latitude2="24.93958313559358" longitude2="46.71838848845824" altitude2="620.02238467708230">
 		<RunwayDeformation alt="620.022156" ratio="0.000000"/>
 		<RunwayDeformation alt="618.978516" ratio="0.180909"/>
 		<RunwayDeformation alt="617.925903" ratio="0.399091"/>
 		<RunwayDeformation alt="617.976013" ratio="0.795455"/>
 		<RunwayDeformation alt="620.023010" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="374.473053" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.94590234866823" longitude="46.71762041603358" altitude="619.00076299160719" latitude2="24.94577464818190" longitude2="46.71737833349229" altitude2="618.99937568791211">
+	<Rectangle width="374.473053" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.94590234856754" longitude="46.71762041607993" altitude="619.00076329056174" latitude2="24.94577464828249" longitude2="46.71737833344594" altitude2="618.99937538430095">
 		<RunwayDeformation alt="618.889404" ratio="0.000000"/>
 		<RunwayDeformation alt="617.778381" ratio="0.558629"/>
 		<RunwayDeformation alt="618.888000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="95.662704" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.94539374657788" longitude="46.69577213274886" altitude="627.20162954181433" latitude2="24.95208619305855" longitude2="46.70830358140975" altitude2="627.27360104210675">
+	<Rectangle width="95.662704" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.94539348260553" longitude="46.69577230196078" altitude="627.20164906606078" latitude2="24.95208645704480" longitude2="46.70830341221544" altitude2="627.27358154021204">
 		<RunwayDeformation alt="619.858032" ratio="0.000000"/>
 		<RunwayDeformation alt="620.105164" ratio="0.108182"/>
 		<RunwayDeformation alt="620.510193" ratio="0.228182"/>
@@ -5730,36 +5730,36 @@
 		<RunwayDeformation alt="620.369995" ratio="0.917273"/>
 		<RunwayDeformation alt="620.061279" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="88.271530" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95036160851896" longitude="46.71014585781606" altitude="617.99244646541774" latitude2="24.95033183925196" longitude2="46.71008943255230" altitude2="617.99212301149964">
+	<Rectangle width="88.271530" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95036160851999" longitude="46.71014585781808" altitude="617.99244646355510" latitude2="24.95033183925083" longitude2="46.71008943255026" altitude2="617.99212301056832">
 		<RunwayDeformation alt="617.992432" ratio="0.000000"/>
 		<RunwayDeformation alt="617.992126" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="540.205933" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95048104619987" longitude="46.71472820831698" altitude="618.95449225697666" latitude2="24.95035334769701" longitude2="46.71448611784277" altitude2="618.95310601219535">
+	<Rectangle width="540.205933" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95048104609254" longitude="46.71472820836458" altitude="618.95449218060821" latitude2="24.95035334780427" longitude2="46.71448611779518" altitude2="618.95310607738793">
 		<RunwayDeformation alt="618.889404" ratio="0.000000"/>
 		<RunwayDeformation alt="617.778381" ratio="0.558629"/>
 		<RunwayDeformation alt="618.888000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="125.365028" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95158862443173" longitude="46.70968197628868" altitude="618.71620250027627" latitude2="24.95147935216237" longitude2="46.70942849081041" altitude2="618.71477699466050">
+	<Rectangle width="125.365028" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95158862433251" longitude="46.70968197635229" altitude="618.71620201412588" latitude2="24.95147935226149" longitude2="46.70942849074680" altitude2="618.71477747894824">
 		<RunwayDeformation alt="618.723999" ratio="0.000000"/>
 		<RunwayDeformation alt="615.215515" ratio="0.528182"/>
 		<RunwayDeformation alt="618.722839" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="125.365028" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95253110749378" longitude="46.71140751943593" altitude="618.72176327649504" latitude2="24.95171079110764" longitude2="46.70985030328086" altitude2="618.71283421292901">
+	<Rectangle width="125.365028" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95253110340176" longitude="46.71140752204391" altitude="618.72176181990653" latitude2="24.95171079519952" longitude2="46.70985030067285" altitude2="618.71283566765487">
 		<RunwayDeformation alt="618.723999" ratio="0.000000"/>
 		<RunwayDeformation alt="617.733398" ratio="0.593993"/>
 		<RunwayDeformation alt="618.722839" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="125.365028" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95271451765841" longitude="46.71182587358468" altitude="618.72384667769074" latitude2="24.95260596997113" longitude2="46.71162009703684" altitude2="618.72267024405301">
+	<Rectangle width="125.365028" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95271451759840" longitude="46.71182587361765" altitude="618.72384702973068" latitude2="24.95260597003103" longitude2="46.71162009700386" altitude2="618.72266988921911">
 		<RunwayDeformation alt="618.723999" ratio="0.000000"/>
 		<RunwayDeformation alt="618.121399" ratio="0.573636"/>
 		<RunwayDeformation alt="618.722839" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95677816083391" longitude="46.71070187062023" altitude="618.88938730303198" latitude2="24.95665046176770" longitude2="46.71045976763013" altitude2="618.88800095394254">
+	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95677816072993" longitude="46.71070187068921" altitude="618.88938760105520" latitude2="24.95665046187158" longitude2="46.71045976756116" altitude2="618.88800064940006">
 		<RunwayDeformation alt="618.889404" ratio="0.000000"/>
 		<RunwayDeformation alt="617.778381" ratio="0.558629"/>
 		<RunwayDeformation alt="618.888000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="1890.578369" falloff="60.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95661751302163" longitude="46.69728742768034" altitude="627.50108694192022" latitude2="24.95919581785440" longitude2="46.70214032622389" altitude2="627.52887779381126">
+	<Rectangle width="1890.578369" falloff="60.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.95661747337430" longitude="46.69728745296763" altitude="627.50108245108277" latitude2="24.95919585750244" longitude2="46.70214030093764" altitude2="627.52888228464872">
 		<RunwayDeformation alt="619.858032" ratio="0.000000"/>
 		<RunwayDeformation alt="617.105347" ratio="0.079091"/>
 		<RunwayDeformation alt="615.876953" ratio="0.148182"/>
@@ -5773,12 +5773,12 @@
 		<RunwayDeformation alt="619.165466" ratio="0.902727"/>
 		<RunwayDeformation alt="620.171692" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96207123281581" longitude="46.70736788929313" altitude="618.91420222911984" latitude2="24.96194353350940" longitude2="46.70712577584769" altitude2="618.91281707026064">
+	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96207123271621" longitude="46.70736788935942" altitude="618.91420240048319" latitude2="24.96194353360888" longitude2="46.70712577578138" altitude2="618.91281689796597">
 		<RunwayDeformation alt="618.889404" ratio="0.000000"/>
 		<RunwayDeformation alt="617.778381" ratio="0.558629"/>
 		<RunwayDeformation alt="618.888000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="95.662704" falloff="100.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96092783959314" longitude="46.68572928716347" altitude="627.48407674394548" latitude2="24.96791466860084" longitude2="46.69880383057482" altitude2="627.55901135876775">
+	<Rectangle width="95.662704" falloff="100.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96092755281654" longitude="46.68572947208819" altitude="627.48409787379205" latitude2="24.96791495539332" longitude2="46.69880364567000" altitude2="627.55899023544043">
 		<RunwayDeformation alt="619.858032" ratio="0.000000"/>
 		<RunwayDeformation alt="620.564392" ratio="0.084836"/>
 		<RunwayDeformation alt="621.817200" ratio="0.170000"/>
@@ -5792,12 +5792,12 @@
 		<RunwayDeformation alt="620.876038" ratio="0.948182"/>
 		<RunwayDeformation alt="620.171692" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96724178076029" longitude="46.70411104588223" altitude="618.93769586924464" latitude2="24.96711408140077" longitude2="46.70386892207932" altitude2="618.93631210643798">
+	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.96724178064967" longitude="46.70411104595244" altitude="618.93769579660147" latitude2="24.96711408151129" longitude2="46.70386892200909" altitude2="618.93631217628717">
 		<RunwayDeformation alt="618.889404" ratio="0.000000"/>
 		<RunwayDeformation alt="617.778381" ratio="0.558629"/>
 		<RunwayDeformation alt="618.888000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="588.040222" falloff="50.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="24.96706432876912" longitude="46.69044465512031" altitude="627.78812809288502" latitude2="24.96958592276082" longitude2="46.69519154473515" altitude2="627.81532411836088">
+	<Rectangle width="588.040222" falloff="50.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="24.96706429101789" longitude="46.69044467920924" altitude="627.78813386056572" latitude2="24.96958596051272" longitude2="46.69519152064718" altitude2="627.81531834695488">
 		<RunwayDeformation alt="619.858032" ratio="0.000000"/>
 		<RunwayDeformation alt="618.544800" ratio="0.120909"/>
 		<RunwayDeformation alt="616.661011" ratio="0.206364"/>
@@ -5811,12 +5811,12 @@
 		<RunwayDeformation alt="618.850281" ratio="0.900909"/>
 		<RunwayDeformation alt="620.171692" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.97244394733238" longitude="46.70079389946785" altitude="618.96157204825431" latitude2="24.97231625029868" longitude2="46.70055176690860" altitude2="618.96019037067890">
+	<Rectangle width="542.665039" falloff="20.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.97244394722569" longitude="46.70079389952423" altitude="618.96157287899405" latitude2="24.97231625040526" longitude2="46.70055176685222" altitude2="618.96018953807652">
 		<RunwayDeformation alt="618.889404" ratio="0.000000"/>
 		<RunwayDeformation alt="617.778381" ratio="0.558629"/>
 		<RunwayDeformation alt="618.888000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="3542.999512" falloff="2000.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.98312054646467" longitude="46.68021126355953" altitude="627.80588378570974" latitude2="24.98564215068484" longitude2="46.68495874864720" altitude2="627.83299832511693">
+	<Rectangle width="3542.999512" falloff="2000.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="24.98312050827906" longitude="46.68021128782401" altitude="627.80587915703654" latitude2="24.98564218887109" longitude2="46.68495872438369" altitude2="627.83300295006484">
 		<RunwayDeformation alt="619.858032" ratio="0.000000"/>
 		<RunwayDeformation alt="618.778931" ratio="0.142727"/>
 		<RunwayDeformation alt="617.476074" ratio="0.213636"/>

@@ -12,7 +12,8 @@
         "ASOBO_normal_map_convention",
         "ASOBO_material_glass",
         "ASOBO_macro_light",
-        "ASOBO_material_draw_order"
+        "ASOBO_material_draw_order",
+        "ASOBO_material_day_night_switch"
     ],
     "scene" : 0,
     "scenes" : [
@@ -85,7 +86,8 @@
                 34,
                 35,
                 36,
-                37
+                37,
+                38
             ]
         }
     ],
@@ -1082,7 +1084,7 @@
                         0.9681296348571777,
                         0.8761084079742432
                     ],
-                    "intensity" : 35,
+                    "intensity" : 15,
                     "cone_angle" : 175.00000600818353,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -1132,7 +1134,7 @@
                         0.9681296348571777,
                         0.8761084079742432
                     ],
-                    "intensity" : 35,
+                    "intensity" : 15,
                     "cone_angle" : 175.00000600818353,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -1182,7 +1184,7 @@
                         0.9681296348571777,
                         0.8761084079742432
                     ],
-                    "intensity" : 35,
+                    "intensity" : 15,
                     "cone_angle" : 175.00000600818353,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -1232,7 +1234,7 @@
                         0.9681296348571777,
                         0.8761084079742432
                     ],
-                    "intensity" : 35,
+                    "intensity" : 15,
                     "cone_angle" : 175.00000600818353,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -1282,7 +1284,7 @@
                         0.9681296348571777,
                         0.8761084079742432
                     ],
-                    "intensity" : 35,
+                    "intensity" : 15,
                     "cone_angle" : 175.00000600818353,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -1332,7 +1334,7 @@
                         0.9681296348571777,
                         0.8761084079742432
                     ],
-                    "intensity" : 35,
+                    "intensity" : 15,
                     "cone_angle" : 175.00000600818353,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -1382,7 +1384,7 @@
                         0.9681296348571777,
                         0.8761084079742432
                     ],
-                    "intensity" : 35,
+                    "intensity" : 15,
                     "cone_angle" : 175.00000600818353,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -1432,7 +1434,7 @@
                         0.9681296348571777,
                         0.8761084079742432
                     ],
-                    "intensity" : 35,
+                    "intensity" : 15,
                     "cone_angle" : 175.00000600818353,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -1482,7 +1484,7 @@
                         0.9681296348571777,
                         0.8761084079742432
                     ],
-                    "intensity" : 35,
+                    "intensity" : 15,
                     "cone_angle" : 175.00000600818353,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -1532,7 +1534,7 @@
                         0.9681296348571777,
                         0.8761084079742432
                     ],
-                    "intensity" : 35,
+                    "intensity" : 15,
                     "cone_angle" : 175.00000600818353,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -1582,7 +1584,7 @@
                         0.9681296348571777,
                         0.8761084079742432
                     ],
-                    "intensity" : 35,
+                    "intensity" : 15,
                     "cone_angle" : 175.00000600818353,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -1632,7 +1634,7 @@
                         0.9681296348571777,
                         0.8761084079742432
                     ],
-                    "intensity" : 35,
+                    "intensity" : 15,
                     "cone_angle" : 175.00000600818353,
                     "has_simmetry" : false,
                     "flash_frequency" : 0,
@@ -1675,6 +1677,24 @@
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 12,
             "name" : "Cube.014",
             "scale" : [
@@ -1689,6 +1709,24 @@
             ]
         },
         {
+            "extras" : {
+                "xplane" : {
+                    "layer" : {
+                        "lod" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "cockpit_region" : [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            },
             "mesh" : 13,
             "name" : "Cube.015",
             "scale" : [
@@ -1699,6 +1737,23 @@
             "translation" : [
                 -8.818863868713379,
                 4.250755786895752,
+                145.58944702148438
+            ]
+        },
+        {
+            "extras" : {
+                "xplane" : {}
+            },
+            "mesh" : 14,
+            "name" : "Cube.016",
+            "scale" : [
+                0.9945946335792542,
+                1,
+                0.9982507228851318
+            ],
+            "translation" : [
+                -8.818863868713379,
+                5.134396553039551,
                 145.58944702148438
             ]
         }
@@ -1845,24 +1900,28 @@
             }
         },
         {
-            "alphaMode" : "BLEND",
             "emissiveFactor" : [
-                0,
-                0,
-                0
+                0.17064493894577026,
+                0.17064493894577026,
+                0.17064493894577026
             ],
-            "extensions" : {
-                "ASOBO_material_glass" : {
-                    "glassReflectionMaskFactor" : 1,
-                    "glassDeformationFactor" : 0
-                }
+            "emissiveTexture" : {
+                "index" : 0,
+                "texCoord" : 0
             },
             "extras" : {
-                "msfs_material_mode" : 4,
-                "msfs_blend_mode" : 2,
+                "msfs_material_mode" : 1,
+                "msfs_albedo_texture" : {
+                    "name" : "pt_misc.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {
+                    "name" : "pt_misc_l.png",
+                    "type" : "Image"
+                },
                 "msfs_show_tint" : 1,
                 "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 1,
+                "msfs_show_glass_parameters" : 0,
                 "msfs_show_decal_parameters" : 0,
                 "msfs_show_fresnel_parameters" : 0,
                 "msfs_show_parallax_parameters" : 0,
@@ -1883,23 +1942,25 @@
                 "msfs_show_no_cast_shadow" : 1,
                 "msfs_show_double_sided" : 1,
                 "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 0,
+                "msfs_show_day_night_cycle" : 1,
                 "msfs_show_collision_material" : 1,
                 "msfs_show_road_material" : 1,
                 "msfs_show_ao_use_uv2" : 1,
                 "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 0,
+                "msfs_show_alpha_cutoff" : 1,
                 "msfs_show_blend_threshold" : 1,
-                "msfs_double_sided" : 0
+                "msfs_color_emissive_mix" : [
+                    0.17064493894577026,
+                    0.17064493894577026,
+                    0.17064493894577026
+                ]
             },
-            "name" : "Window.Opaque",
+            "name" : "win.int.opaque.pt",
             "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.021091604605317116,
-                    0.013267888687551022,
-                    0.007263116538524628,
-                    1
-                ],
+                "baseColorTexture" : {
+                    "index" : 1,
+                    "texCoord" : 0
+                },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
             }
@@ -1950,11 +2011,88 @@
             "name" : "pt_misc.pavement",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 0,
+                    "index" : 2,
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.949999988079071
+            }
+        },
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extensions" : {
+                "ASOBO_material_glass" : {
+                    "glassReflectionMaskFactor" : 1,
+                    "glassDeformationFactor" : 0
+                }
+            },
+            "extras" : {
+                "msfs_material_mode" : 4,
+                "msfs_albedo_texture" : {
+                    "name" : "pt_misc.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {
+                    "name" : "pt_misc_l.png",
+                    "type" : "Image"
+                },
+                "msfs_blend_mode" : 0,
+                "msfs_show_tint" : 1,
+                "msfs_show_sss_color" : 0,
+                "msfs_show_glass_parameters" : 1,
+                "msfs_show_decal_parameters" : 0,
+                "msfs_show_fresnel_parameters" : 0,
+                "msfs_show_parallax_parameters" : 0,
+                "msfs_show_geo_decal_parameters" : 0,
+                "msfs_show_albedo" : 1,
+                "msfs_show_metallic" : 1,
+                "msfs_show_normal" : 1,
+                "msfs_show_emissive" : 1,
+                "msfs_show_detail_albedo" : 1,
+                "msfs_show_detail_metallic" : 1,
+                "msfs_show_detail_normal" : 1,
+                "msfs_show_blend_mask" : 1,
+                "msfs_show_anisotropic_direction" : 0,
+                "msfs_show_clearcoat" : 0,
+                "msfs_show_behind_glass" : 0,
+                "msfs_show_blend_mode" : 1,
+                "msfs_show_draworder" : 1,
+                "msfs_show_no_cast_shadow" : 1,
+                "msfs_show_double_sided" : 1,
+                "msfs_show_responsive_aa" : 0,
+                "msfs_show_day_night_cycle" : 0,
+                "msfs_show_collision_material" : 1,
+                "msfs_show_road_material" : 1,
+                "msfs_show_ao_use_uv2" : 1,
+                "msfs_show_uv_clamp" : 1,
+                "msfs_show_alpha_cutoff" : 0,
+                "msfs_show_blend_threshold" : 1,
+                "msfs_double_sided" : 0,
+                "msfs_color_emissive_mix" : [
+                    0,
+                    0,
+                    0
+                ],
+                "msfs_color_albedo_mix" : [
+                    0.019591253250837326,
+                    0.012698565609753132,
+                    0.0071844966150820255
+                ]
+            },
+            "name" : "Window.Opaque",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.019591253250837326,
+                    0.012698565609753132,
+                    0.0071844966150820255,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
             }
         },
         {
@@ -2005,7 +2143,7 @@
             "name" : "Signs_pt",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 1,
+                    "index" : 3,
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0,
@@ -2065,6 +2203,7 @@
         },
         {
             "alphaMode" : "BLEND",
+            "doubleSided" : true,
             "emissiveFactor" : [
                 0,
                 0,
@@ -2075,7 +2214,7 @@
                     "drawOrderOffset" : 1
                 },
                 "ASOBO_material_glass" : {
-                    "glassReflectionMaskFactor" : 1,
+                    "glassReflectionMaskFactor" : 0.5,
                     "glassDeformationFactor" : 0
                 }
             },
@@ -2113,19 +2252,27 @@
                 "msfs_show_blend_threshold" : 1,
                 "msfs_blend_mode" : 2,
                 "msfs_color_albedo_mix" : [
-                    0.006995171308517456,
-                    0.008430957794189453,
-                    0.028826294466853142
+                    0.012558254413306713,
+                    0.015058539807796478,
+                    0.07252848148345947
                 ],
-                "msfs_draw_order" : 1
+                "msfs_draw_order" : 1,
+                "msfs_color_alpha_mix" : 0.0010000000474974513,
+                "msfs_color_emissive_mix" : [
+                    0,
+                    0,
+                    0
+                ],
+                "msfs_glass_reflection_mask_factor" : 0.5,
+                "msfs_double_sided" : 1
             },
             "name" : "PT2.Glass",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.006995408795773983,
-                    0.008568127639591694,
-                    0.0284260381013155,
-                    1
+                    0.012558254413306713,
+                    0.015058539807796478,
+                    0.07252848148345947,
+                    0.0010000000474974513
                 ],
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -2138,6 +2285,11 @@
                 0,
                 0
             ],
+            "extensions" : {
+                "ASOBO_material_draw_order" : {
+                    "drawOrderOffset" : 1
+                }
+            },
             "extras" : {
                 "msfs_material_mode" : 1,
                 "msfs_albedo_texture" : {
@@ -2175,13 +2327,87 @@
                 "msfs_show_alpha_cutoff" : 1,
                 "msfs_show_blend_threshold" : 1,
                 "msfs_blend_mode" : 0,
-                "msfs_draw_order" : 0,
+                "msfs_draw_order" : 1,
                 "msfs_double_sided" : 1
             },
             "name" : "pt2",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 2,
+                    "index" : 4,
+                    "texCoord" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "alphaMode" : "BLEND",
+            "emissiveFactor" : [
+                0.07323896139860153,
+                0.07323896139860153,
+                0.07323896139860153
+            ],
+            "emissiveTexture" : {
+                "index" : 5,
+                "texCoord" : 0
+            },
+            "extensions" : {
+                "ASOBO_material_day_night_switch" : {
+                    "enabled" : true
+                }
+            },
+            "extras" : {
+                "msfs_material_mode" : 1,
+                "msfs_albedo_texture" : {
+                    "name" : "pt_misc.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {
+                    "name" : "pt_misc_l.png",
+                    "type" : "Image"
+                },
+                "msfs_show_tint" : 1,
+                "msfs_show_sss_color" : 0,
+                "msfs_show_glass_parameters" : 0,
+                "msfs_show_decal_parameters" : 0,
+                "msfs_show_fresnel_parameters" : 0,
+                "msfs_show_parallax_parameters" : 0,
+                "msfs_show_geo_decal_parameters" : 0,
+                "msfs_show_albedo" : 1,
+                "msfs_show_metallic" : 1,
+                "msfs_show_normal" : 1,
+                "msfs_show_emissive" : 1,
+                "msfs_show_detail_albedo" : 1,
+                "msfs_show_detail_metallic" : 1,
+                "msfs_show_detail_normal" : 1,
+                "msfs_show_blend_mask" : 1,
+                "msfs_show_anisotropic_direction" : 0,
+                "msfs_show_clearcoat" : 0,
+                "msfs_show_behind_glass" : 0,
+                "msfs_show_blend_mode" : 1,
+                "msfs_show_draworder" : 1,
+                "msfs_show_no_cast_shadow" : 1,
+                "msfs_show_double_sided" : 1,
+                "msfs_show_responsive_aa" : 0,
+                "msfs_show_day_night_cycle" : 1,
+                "msfs_show_collision_material" : 1,
+                "msfs_show_road_material" : 1,
+                "msfs_show_ao_use_uv2" : 1,
+                "msfs_show_uv_clamp" : 1,
+                "msfs_show_alpha_cutoff" : 1,
+                "msfs_show_blend_threshold" : 1,
+                "msfs_day_night_cycle" : 1,
+                "msfs_blend_mode" : 2,
+                "msfs_color_emissive_mix" : [
+                    0.07323896139860153,
+                    0.07323896139860153,
+                    0.07323896139860153
+                ]
+            },
+            "name" : "interior.lit",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 6,
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0,
@@ -2269,7 +2495,7 @@
                         "TEXCOORD_0" : 26
                     },
                     "indices" : 27,
-                    "material" : 1
+                    "material" : 3
                 }
             ]
         },
@@ -2311,7 +2537,7 @@
                         "TEXCOORD_0" : 38
                     },
                     "indices" : 39,
-                    "material" : 3
+                    "material" : 4
                 }
             ]
         },
@@ -2325,7 +2551,7 @@
                         "TEXCOORD_0" : 42
                     },
                     "indices" : 43,
-                    "material" : 3
+                    "material" : 4
                 }
             ]
         },
@@ -2339,7 +2565,7 @@
                         "TEXCOORD_0" : 46
                     },
                     "indices" : 43,
-                    "material" : 3
+                    "material" : 4
                 }
             ]
         },
@@ -2353,7 +2579,7 @@
                         "TEXCOORD_0" : 49
                     },
                     "indices" : 43,
-                    "material" : 3
+                    "material" : 4
                 }
             ]
         },
@@ -2367,7 +2593,7 @@
                         "TEXCOORD_0" : 52
                     },
                     "indices" : 43,
-                    "material" : 3
+                    "material" : 4
                 }
             ]
         },
@@ -2395,7 +2621,7 @@
                         "TEXCOORD_0" : 59
                     },
                     "indices" : 60,
-                    "material" : 4
+                    "material" : 5
                 },
                 {
                     "attributes" : {
@@ -2404,7 +2630,7 @@
                         "TEXCOORD_0" : 63
                     },
                     "indices" : 27,
-                    "material" : 5
+                    "material" : 6
                 }
             ]
         },
@@ -2418,7 +2644,21 @@
                         "TEXCOORD_0" : 66
                     },
                     "indices" : 67,
-                    "material" : 6
+                    "material" : 7
+                }
+            ]
+        },
+        {
+            "name" : "Cube.007",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 68,
+                        "NORMAL" : 69,
+                        "TEXCOORD_0" : 70
+                    },
+                    "indices" : 71,
+                    "material" : 8
                 }
             ]
         }
@@ -2428,6 +2668,18 @@
             "source" : 0
         },
         {
+            "source" : 1
+        },
+        {
+            "source" : 1
+        },
+        {
+            "source" : 1
+        },
+        {
+            "source" : 2
+        },
+        {
             "source" : 0
         },
         {
@@ -2435,6 +2687,11 @@
         }
     ],
     "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "pt_misc_l",
+            "uri" : "pt_misc_l.png"
+        },
         {
             "mimeType" : "image/png",
             "name" : "pt_misc",
@@ -2518,7 +2775,7 @@
         {
             "bufferView" : 8,
             "componentType" : 5126,
-            "count" : 52,
+            "count" : 44,
             "max" : [
                 0.8583699464797974,
                 0.8554714322090149,
@@ -2534,13 +2791,13 @@
         {
             "bufferView" : 9,
             "componentType" : 5126,
-            "count" : 52,
+            "count" : 44,
             "type" : "VEC3"
         },
         {
             "bufferView" : 10,
             "componentType" : 5126,
-            "count" : 52,
+            "count" : 44,
             "type" : "VEC2"
         },
         {
@@ -3034,6 +3291,40 @@
             "componentType" : 5123,
             "count" : 120,
             "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 68,
+            "componentType" : 5126,
+            "count" : 48,
+            "max" : [
+                13.875,
+                5.25,
+                42.875
+            ],
+            "min" : [
+                -13.874999046325684,
+                -5.25,
+                -42.875
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 69,
+            "componentType" : 5126,
+            "count" : 48,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 70,
+            "componentType" : 5126,
+            "count" : 48,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 71,
+            "componentType" : 5123,
+            "count" : 84,
+            "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
@@ -3079,183 +3370,213 @@
         },
         {
             "buffer" : 0,
-            "byteLength" : 624,
+            "byteLength" : 528,
             "byteOffset" : 163856
         },
         {
             "buffer" : 0,
-            "byteLength" : 624,
-            "byteOffset" : 164480
+            "byteLength" : 528,
+            "byteOffset" : 164384
         },
         {
             "buffer" : 0,
-            "byteLength" : 416,
-            "byteOffset" : 165104
+            "byteLength" : 352,
+            "byteOffset" : 164912
         },
         {
             "buffer" : 0,
             "byteLength" : 156,
-            "byteOffset" : 165520
+            "byteOffset" : 165264
         },
         {
             "buffer" : 0,
             "byteLength" : 4056,
-            "byteOffset" : 165676
+            "byteOffset" : 165420
         },
         {
             "buffer" : 0,
             "byteLength" : 4056,
-            "byteOffset" : 169732
+            "byteOffset" : 169476
         },
         {
             "buffer" : 0,
             "byteLength" : 2704,
-            "byteOffset" : 173788
+            "byteOffset" : 173532
         },
         {
             "buffer" : 0,
             "byteLength" : 1404,
-            "byteOffset" : 176492
+            "byteOffset" : 176236
         },
         {
             "buffer" : 0,
             "byteLength" : 8112,
-            "byteOffset" : 177896
+            "byteOffset" : 177640
         },
         {
             "buffer" : 0,
             "byteLength" : 8112,
-            "byteOffset" : 186008
+            "byteOffset" : 185752
         },
         {
             "buffer" : 0,
             "byteLength" : 5408,
-            "byteOffset" : 194120
+            "byteOffset" : 193864
         },
         {
             "buffer" : 0,
             "byteLength" : 2496,
-            "byteOffset" : 199528
+            "byteOffset" : 199272
         },
         {
             "buffer" : 0,
             "byteLength" : 7536,
-            "byteOffset" : 202024
+            "byteOffset" : 201768
         },
         {
             "buffer" : 0,
             "byteLength" : 7536,
-            "byteOffset" : 209560
+            "byteOffset" : 209304
         },
         {
             "buffer" : 0,
             "byteLength" : 5024,
-            "byteOffset" : 217096
+            "byteOffset" : 216840
         },
         {
             "buffer" : 0,
             "byteLength" : 2088,
-            "byteOffset" : 222120
+            "byteOffset" : 221864
         },
         {
             "buffer" : 0,
             "byteLength" : 192,
-            "byteOffset" : 224208
+            "byteOffset" : 223952
         },
         {
             "buffer" : 0,
             "byteLength" : 192,
-            "byteOffset" : 224400
+            "byteOffset" : 224144
         },
         {
             "buffer" : 0,
             "byteLength" : 128,
-            "byteOffset" : 224592
+            "byteOffset" : 224336
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 224720
+            "byteOffset" : 224464
         },
         {
             "buffer" : 0,
             "byteLength" : 864,
-            "byteOffset" : 224768
+            "byteOffset" : 224512
         },
         {
             "buffer" : 0,
             "byteLength" : 864,
-            "byteOffset" : 225632
+            "byteOffset" : 225376
         },
         {
             "buffer" : 0,
             "byteLength" : 576,
-            "byteOffset" : 226496
+            "byteOffset" : 226240
         },
         {
             "buffer" : 0,
             "byteLength" : 216,
-            "byteOffset" : 227072
+            "byteOffset" : 226816
         },
         {
             "buffer" : 0,
             "byteLength" : 2304,
-            "byteOffset" : 227288
+            "byteOffset" : 227032
         },
         {
             "buffer" : 0,
             "byteLength" : 2304,
-            "byteOffset" : 229592
+            "byteOffset" : 229336
         },
         {
             "buffer" : 0,
             "byteLength" : 1536,
-            "byteOffset" : 231896
+            "byteOffset" : 231640
         },
         {
             "buffer" : 0,
             "byteLength" : 576,
-            "byteOffset" : 233432
+            "byteOffset" : 233176
         },
         {
             "buffer" : 0,
             "byteLength" : 96,
-            "byteOffset" : 234008
+            "byteOffset" : 233752
         },
         {
             "buffer" : 0,
             "byteLength" : 96,
-            "byteOffset" : 234104
+            "byteOffset" : 233848
         },
         {
             "buffer" : 0,
             "byteLength" : 64,
-            "byteOffset" : 234200
+            "byteOffset" : 233944
         },
         {
             "buffer" : 0,
             "byteLength" : 24,
-            "byteOffset" : 234264
+            "byteOffset" : 234008
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 234288
+            "byteOffset" : 234032
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 234336
+            "byteOffset" : 234080
         },
         {
             "buffer" : 0,
             "byteLength" : 32,
-            "byteOffset" : 234384
+            "byteOffset" : 234128
         },
         {
             "buffer" : 0,
             "byteLength" : 12,
-            "byteOffset" : 234416
+            "byteOffset" : 234160
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 234172
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 234220
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32,
+            "byteOffset" : 234268
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 234300
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 234348
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32,
+            "byteOffset" : 234396
         },
         {
             "buffer" : 0,
@@ -3274,113 +3595,103 @@
         },
         {
             "buffer" : 0,
-            "byteLength" : 48,
+            "byteLength" : 288,
             "byteOffset" : 234556
         },
         {
             "buffer" : 0,
-            "byteLength" : 48,
-            "byteOffset" : 234604
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 32,
-            "byteOffset" : 234652
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 48,
-            "byteOffset" : 234684
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 48,
-            "byteOffset" : 234732
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 32,
-            "byteOffset" : 234780
-        },
-        {
-            "buffer" : 0,
             "byteLength" : 288,
-            "byteOffset" : 234812
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 288,
-            "byteOffset" : 235100
+            "byteOffset" : 234844
         },
         {
             "buffer" : 0,
             "byteLength" : 192,
-            "byteOffset" : 235388
+            "byteOffset" : 235132
         },
         {
             "buffer" : 0,
             "byteLength" : 72,
-            "byteOffset" : 235580
+            "byteOffset" : 235324
         },
         {
             "buffer" : 0,
             "byteLength" : 1632,
-            "byteOffset" : 235652
+            "byteOffset" : 235396
         },
         {
             "buffer" : 0,
             "byteLength" : 1632,
-            "byteOffset" : 237284
+            "byteOffset" : 237028
         },
         {
             "buffer" : 0,
             "byteLength" : 1088,
-            "byteOffset" : 238916
+            "byteOffset" : 238660
         },
         {
             "buffer" : 0,
             "byteLength" : 408,
-            "byteOffset" : 240004
+            "byteOffset" : 239748
         },
         {
             "buffer" : 0,
             "byteLength" : 192,
-            "byteOffset" : 240412
+            "byteOffset" : 240156
         },
         {
             "buffer" : 0,
             "byteLength" : 192,
-            "byteOffset" : 240604
+            "byteOffset" : 240348
         },
         {
             "buffer" : 0,
             "byteLength" : 128,
-            "byteOffset" : 240796
+            "byteOffset" : 240540
         },
         {
             "buffer" : 0,
             "byteLength" : 768,
-            "byteOffset" : 240924
+            "byteOffset" : 240668
         },
         {
             "buffer" : 0,
             "byteLength" : 768,
-            "byteOffset" : 241692
+            "byteOffset" : 241436
         },
         {
             "buffer" : 0,
             "byteLength" : 512,
-            "byteOffset" : 242460
+            "byteOffset" : 242204
         },
         {
             "buffer" : 0,
             "byteLength" : 240,
-            "byteOffset" : 242972
+            "byteOffset" : 242716
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 576,
+            "byteOffset" : 242956
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 576,
+            "byteOffset" : 243532
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 384,
+            "byteOffset" : 244108
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 168,
+            "byteOffset" : 244492
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 243212,
+            "byteLength" : 244660,
             "uri" : "oerk-pt.bin"
         }
     ]
