@@ -27,7 +27,7 @@
 			<OutputDir>scenery/global/scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="oerk-gc">
-			<Type>ArtProj</Type>
+			<Type>ModelLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
@@ -35,7 +35,7 @@
 			<OutputDir>scenery/global/scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="oerk-hangars">
-			<Type>ArtProj</Type>
+			<Type>ModelLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
@@ -43,7 +43,7 @@
 			<OutputDir>scenery/global/scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="oerk-lights">
-			<Type>ArtProj</Type>
+			<Type>ModelLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
@@ -59,7 +59,7 @@
 			<OutputDir>MaterialLibs\oerk-materials\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="oerk-misc">
-			<Type>ArtProj</Type>
+			<Type>ModelLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
@@ -67,7 +67,7 @@
 			<OutputDir>scenery/global/scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="oerk-model">
-			<Type>ArtProj</Type>
+			<Type>ModelLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
@@ -75,7 +75,7 @@
 			<OutputDir>scenery/global/scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="oerk-t2">
-			<Type>ArtProj</Type>
+			<Type>ModelLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
@@ -83,7 +83,7 @@
 			<OutputDir>scenery/global/scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="oerk-tower">
-			<Type>ArtProj</Type>
+			<Type>ModelLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>

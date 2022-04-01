@@ -1,0 +1,29 @@
+<Material Version="1.4.0" Name="g801_808" Guid="{2F611E1C-4A63-4B97-BF15-CCAD6A0D9A11}" SurfaceType="CEMENT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+	<TagList/>
+	<FlagList/>
+	<TextureList>
+		<Texture FileName="Textures\G801_808.png" Binding="MTL_BITMAP_DECAL0"/>
+	</TextureList>
+	<Attributes>
+		<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+		<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+		<UVOffset U="0.000000" V="0.000000"/>
+		<UVScale U="1.000000" V="1.000000"/>
+		<UVRotate>0.000000</UVRotate>
+		<ExtraParameters>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+		</ExtraParameters>
+	</Attributes>
+</Material>
+
