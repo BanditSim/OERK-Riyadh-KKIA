@@ -1,0 +1,281 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Khronos glTF Blender I/O v1.7.33 and Asobo Studio MSFS Blender I/O v1.1.6",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "msfs_exporter_properties" : {}
+            },
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Cube"
+        },
+        {
+            "mesh" : 1,
+            "name" : "Cube.001",
+            "scale" : [
+                1.0019999742507935,
+                1.0019999742507935,
+                1.0019999742507935
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {},
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.49693119525909424,
+                    0.49693119525909424,
+                    0.49693119525909424,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
+            },
+            "name" : "Concrete",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.49693119525909424,
+                    0.49693119525909424,
+                    0.49693119525909424,
+                    1
+                ]
+            }
+        },
+        {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "yb.dds",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
+            },
+            "name" : "yellow",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.002",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Cube.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "yb",
+            "uri" : "../texture/yb.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 90,
+            "max" : [
+                2.361268997192383,
+                0.9826349020004272,
+                3.7076687812805176
+            ],
+            "min" : [
+                -2.361268997192383,
+                -0.017365068197250366,
+                -3.7076687812805176
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 90,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 90,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 276,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 16,
+            "max" : [
+                2.3516359329223633,
+                0.9060190916061401,
+                3.697566270828247
+            ],
+            "min" : [
+                -2.3516359329223633,
+                0.2527911961078644,
+                -3.697566270828247
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 16,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 16,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 24,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 1080,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1080,
+            "byteOffset" : 1080
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 720,
+            "byteOffset" : 2160
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 552,
+            "byteOffset" : 2880
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 3432
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 3624
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 128,
+            "byteOffset" : 3816
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 3944
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 3992,
+            "uri" : "oerk-lamp-barrier.bin"
+        }
+    ]
+}

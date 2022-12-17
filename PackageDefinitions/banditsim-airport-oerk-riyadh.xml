@@ -1,4 +1,5 @@
-<AssetPackage Name="banditsim-airport-oerk-riyadh" Version="0.4.1">
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.4.1">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Riyadh - King Khaled Intl.</Title>

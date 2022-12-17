@@ -1,0 +1,10 @@
+{
+  "package-name": "banditsim-airport-oerk-riyadh",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "OERK",
+      "revision": 1
+    }
+  ]
+}

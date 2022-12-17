@@ -5,15 +5,16 @@
                 "tangent_space_convention" : "DirectX"
             }
         },
-        "generator" : "Extended Khronos glTF Blender I/O v1.0.0",
+        "generator" : "Khronos glTF Blender I/O v1.7.33 and Asobo Studio MSFS Blender I/O v1.1.6",
         "version" : "2.0"
     },
     "extensionsUsed" : [
         "ASOBO_normal_map_convention",
         "ASOBO_macro_light",
         "ASOBO_material_invisible",
-        "ASOBO_material_glass",
-        "ASOBO_material_clear_coat"
+        "ASOBO_material_shadow_options",
+        "ASOBO_material_day_night_switch",
+        "ASOBO_material_glass"
     ],
     "scene" : 0,
     "scenes" : [
@@ -36,39 +37,46 @@
                     ]
                 },
                 "xplane2blender_version" : "DEPRECATED",
-                "glTF2ExportSettings" : {
-                    "export_apply" : 1,
-                    "export_current_frame" : 1,
-                    "export_extras" : 1,
-                    "export_generate_guid" : 1,
-                    "export_texture_dir" : "../texture",
-                    "export_xml" : 0,
-                    "export_xml_file" : "OERKoldterminalmast",
-                    "use_selection" : 1
-                }
+                "msfs_extAsoboProperties" : {},
+                "msfs_exporter_properties" : {}
             },
             "name" : "Scene",
             "nodes" : [
-                0,
                 1,
-                2,
                 3,
-                4,
                 5,
-                6,
                 7,
-                8,
                 9,
-                10,
                 11,
-                12,
                 13,
-                14
+                15,
+                17,
+                19,
+                21,
+                23,
+                25,
+                27,
+                28,
+                29,
+                30,
+                31
             ]
         }
     ],
     "nodes" : [
         {
+            "name" : "Spot_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                0
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -78,7 +86,7 @@
                     ],
                     "intensity" : 1000,
                     "cone_angle" : 54.999999253784715,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -107,10 +115,10 @@
             },
             "name" : "Spot",
             "rotation" : [
-                0.284259170293808,
+                0.28425925970077515,
                 0,
                 0,
-                0.9587474465370178
+                0.9587476253509521
             ],
             "translation" : [
                 0.13826337456703186,
@@ -119,6 +127,18 @@
             ]
         },
         {
+            "name" : "Point_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                2
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -128,7 +148,7 @@
                     ],
                     "intensity" : 40,
                     "cone_angle" : 360,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -169,6 +189,18 @@
             ]
         },
         {
+            "name" : "Point.001_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                4
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -178,7 +210,7 @@
                     ],
                     "intensity" : 39,
                     "cone_angle" : 360,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -219,6 +251,18 @@
             ]
         },
         {
+            "name" : "Point.002_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                6
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -228,7 +272,7 @@
                     ],
                     "intensity" : 32,
                     "cone_angle" : 360,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -269,6 +313,18 @@
             ]
         },
         {
+            "name" : "Point.003_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                8
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -278,7 +334,7 @@
                     ],
                     "intensity" : 42,
                     "cone_angle" : 360,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -319,6 +375,18 @@
             ]
         },
         {
+            "name" : "Point.004_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                10
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -328,7 +396,7 @@
                     ],
                     "intensity" : 39,
                     "cone_angle" : 360,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -369,6 +437,18 @@
             ]
         },
         {
+            "name" : "Point.005_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                12
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -378,7 +458,7 @@
                     ],
                     "intensity" : 44,
                     "cone_angle" : 360,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -419,6 +499,18 @@
             ]
         },
         {
+            "name" : "Point.006_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                14
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -428,7 +520,7 @@
                     ],
                     "intensity" : 40,
                     "cone_angle" : 360,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -469,6 +561,18 @@
             ]
         },
         {
+            "name" : "Spot.001_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                16
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -478,7 +582,7 @@
                     ],
                     "intensity" : 1000,
                     "cone_angle" : 54.999999253784715,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -519,6 +623,18 @@
             ]
         },
         {
+            "name" : "Spot.002_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                18
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -528,7 +644,7 @@
                     ],
                     "intensity" : 1000,
                     "cone_angle" : 54.999999253784715,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -560,7 +676,7 @@
                 0.3873375654220581,
                 0,
                 0,
-                0.9219380021095276
+                0.9219380617141724
             ],
             "translation" : [
                 0.13826334476470947,
@@ -569,6 +685,18 @@
             ]
         },
         {
+            "name" : "Spot.003_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                20
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -578,7 +706,7 @@
                     ],
                     "intensity" : 1000,
                     "cone_angle" : 54.999999253784715,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -619,6 +747,18 @@
             ]
         },
         {
+            "name" : "Spot.004_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                22
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -628,7 +768,7 @@
                     ],
                     "intensity" : 1000,
                     "cone_angle" : 54.999999253784715,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -669,6 +809,18 @@
             ]
         },
         {
+            "name" : "Spot.005_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                24
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -678,7 +830,7 @@
                     ],
                     "intensity" : 1000,
                     "cone_angle" : 54.999999253784715,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -719,6 +871,18 @@
             ]
         },
         {
+            "name" : "Spot.006_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                26
+            ],
             "extensions" : {
                 "ASOBO_macro_light" : {
                     "color" : [
@@ -728,7 +892,7 @@
                     ],
                     "intensity" : 1000,
                     "cone_angle" : 54.999999253784715,
-                    "has_simmetry" : false,
+                    "has_symmetry" : false,
                     "flash_frequency" : 0,
                     "flash_duration" : 0,
                     "flash_phase" : 0,
@@ -771,29 +935,59 @@
         {
             "mesh" : 0,
             "name" : "Cube",
-            "scale" : [
-                30,
-                30,
-                30
-            ],
             "translation" : [
                 0,
                 16.6501522064209,
                 0
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "Cylinder.002",
+            "translation" : [
+                -2.179302453994751,
+                4.169561386108398,
+                0.1108173057436943
+            ]
+        },
+        {
+            "mesh" : 2,
+            "name" : "Cylinder",
+            "scale" : [
+                0.4926581382751465,
+                0.684145450592041,
+                0.4926581382751465
+            ],
+            "translation" : [
+                -2.179302453994751,
+                0.2477550506591797,
+                0.11081729829311371
+            ]
+        },
+        {
+            "name" : "Empty",
+            "rotation" : [
+                0,
+                -0.3826834261417389,
+                0,
+                0.9238795638084412
+            ],
+            "translation" : [
+                -2.179302453994751,
+                0.3681373596191406,
+                0.1108173057436943
             ]
         }
     ],
     "materials" : [
         {
             "alphaMode" : "BLEND",
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
             "extensions" : {
                 "ASOBO_material_invisible" : {
                     "enabled" : true
+                },
+                "ASOBO_material_shadow_options" : {
+                    "noCastShadow" : true
                 }
             },
             "extras" : {
@@ -827,7 +1021,14 @@
                 "msfs_show_ao_use_uv2" : 0,
                 "msfs_show_uv_clamp" : 1,
                 "msfs_show_alpha_cutoff" : 0,
-                "msfs_show_blend_threshold" : 0
+                "msfs_show_blend_threshold" : 0,
+                "msfs_material_type" : 12,
+                "msfs_no_cast_shadow" : 1,
+                "msfs_alpha_mode" : 2,
+                "msfs_blend_mask_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {}
             },
             "name" : "Material.Bounds",
             "pbrMetallicRoughness" : {
@@ -835,20 +1036,18 @@
                     0,
                     0,
                     0,
-                    0
+                    0.10000000149011612
                 ],
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
             }
         },
         {
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
             "extras" : {
-                "msfs_material_mode" : 1,
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_blend_mask_texture" : {},
                 "msfs_show_tint" : 1,
                 "msfs_show_sss_color" : 0,
                 "msfs_show_glass_parameters" : 0,
@@ -878,91 +1077,50 @@
                 "msfs_show_ao_use_uv2" : 1,
                 "msfs_show_uv_clamp" : 1,
                 "msfs_show_alpha_cutoff" : 1,
-                "msfs_show_blend_threshold" : 1
-            },
-            "name" : "lamp.body.001",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.008075909689068794,
-                    0.008075909689068794,
-                    0.008075909689068794,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "alphaMode" : "BLEND",
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extensions" : {
-                "ASOBO_material_glass" : {
-                    "glassReflectionMaskFactor" : 1,
-                    "glassDeformationFactor" : 0
-                }
-            },
-            "extras" : {
-                "msfs_material_mode" : 4,
-                "msfs_blend_mode" : 2,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 1,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 0,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 0,
                 "msfs_show_blend_threshold" : 1,
-                "msfs_color_alpha_mix" : 0.019999999552965164
+                "msfs_base_color_texture" : {},
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.6514058709144592,
+                    0.5088813900947571,
+                    0.3515326976776123,
+                    1.0
+                ],
+                "msfs_material_type" : 1,
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
             },
-            "name" : "lamp.glass.001",
+            "name" : "light.pillar.main",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.019999999552965164
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
+                    0.6514058709144592,
+                    0.5088813900947571,
+                    0.3515326976776123,
+                    1
+                ]
             }
         },
         {
             "emissiveFactor" : [
                 0.15292620658874512,
                 0.09758735448122025,
-                0.02732088789343834
+                0.02732088975608349
             ],
             "extensions" : {
-                "ASOBO_material_clear_coat" : {}
+                "ASOBO_material_day_night_switch" : {}
             },
             "extras" : {
-                "msfs_material_mode" : 6,
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_blend_mask_texture" : {},
                 "msfs_show_tint" : 1,
                 "msfs_show_sss_color" : 0,
                 "msfs_show_glass_parameters" : 0,
@@ -997,28 +1155,38 @@
                     0.15292620658874512,
                     0.09758735448122025,
                     0.02732088789343834
-                ]
+                ],
+                "msfs_base_color_texture" : {},
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_dirt_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.15292620658874512,
+                    0.09758735448122025,
+                    0.02732088975608349
+                ],
+                "msfs_material_type" : 1,
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_day_night_cycle" : 1
             },
             "name" : "lamp.inners",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.6266627311706543,
-                    0.5534595847129822,
-                    0.40300023555755615,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
+            "pbrMetallicRoughness" : {}
         },
         {
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
             "extras" : {
-                "msfs_material_mode" : 1,
+                "xplane" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_blend_mask_texture" : {},
                 "msfs_show_tint" : 1,
                 "msfs_show_sss_color" : 0,
                 "msfs_show_glass_parameters" : 0,
@@ -1048,35 +1216,55 @@
                 "msfs_show_ao_use_uv2" : 1,
                 "msfs_show_uv_clamp" : 1,
                 "msfs_show_alpha_cutoff" : 1,
-                "msfs_show_blend_threshold" : 1
+                "msfs_show_blend_threshold" : 1,
+                "msfs_base_color_texture" : {},
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.008023194037377834,
+                    0.008023192174732685,
+                    0.008023194037377834,
+                    1.0
+                ],
+                "msfs_material_type" : 1,
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
             },
-            "name" : "lamp.body.002",
+            "name" : "lamp.body",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.008075909689068794,
-                    0.008075909689068794,
-                    0.008075909689068794,
+                    0.008023194037377834,
+                    0.008023192174732685,
+                    0.008023194037377834,
                     1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
+                ]
             }
         },
         {
             "alphaMode" : "BLEND",
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
             "extensions" : {
                 "ASOBO_material_glass" : {
-                    "glassReflectionMaskFactor" : 1,
+                    "glassReflectionMaskFactor" : 0,
                     "glassDeformationFactor" : 0
                 }
             },
             "extras" : {
+                "xplane" : {},
                 "msfs_material_mode" : 4,
+                "msfs_albedo_texture" : {},
+                "msfs_metallic_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_albedo_texture" : {},
+                "msfs_detail_metallic_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_blend_mask_texture" : {},
                 "msfs_blend_mode" : 2,
                 "msfs_show_tint" : 1,
                 "msfs_show_sss_color" : 0,
@@ -1108,65 +1296,46 @@
                 "msfs_show_uv_clamp" : 1,
                 "msfs_show_alpha_cutoff" : 0,
                 "msfs_show_blend_threshold" : 1,
-                "msfs_color_alpha_mix" : 0.019999999552965164
-            },
-            "name" : "lamp.glass.002",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.019999999552965164
+                "msfs_color_alpha_mix" : 0.019999999552965164,
+                "msfs_material_type" : 6,
+                "msfs_base_color_texture" : {},
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
                 ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2
+            },
+            "name" : "lamp.glass",
+            "pbrMetallicRoughness" : {
+                "metallicFactor" : 0
             }
         },
         {
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
+            "doubleSided" : true,
             "extras" : {
-                "msfs_material_mode" : 1,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 0,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 1,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 1,
-                "msfs_show_blend_threshold" : 1
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_blend_mask_texture" : {}
             },
-            "name" : "lamp.body.003",
+            "name" : "concrete",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.008075909689068794,
-                    0.008075909689068794,
-                    0.008075909689068794,
+                    0.16264207661151886,
+                    0.16264207661151886,
+                    0.16264207661151886,
                     1
                 ],
                 "metallicFactor" : 0,
@@ -1174,559 +1343,32 @@
             }
         },
         {
-            "alphaMode" : "BLEND",
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extensions" : {
-                "ASOBO_material_glass" : {
-                    "glassReflectionMaskFactor" : 1,
-                    "glassDeformationFactor" : 0
-                }
-            },
             "extras" : {
-                "msfs_material_mode" : 4,
-                "msfs_blend_mode" : 2,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 1,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 0,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 0,
-                "msfs_show_blend_threshold" : 1,
-                "msfs_color_alpha_mix" : 0.019999999552965164
-            },
-            "name" : "lamp.glass.003",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.019999999552965164
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {},
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
                 ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extras" : {
-                "msfs_material_mode" : 1,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 0,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 1,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 1,
-                "msfs_show_blend_threshold" : 1
-            },
-            "name" : "lamp.body.005",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.008075909689068794,
-                    0.008075909689068794,
-                    0.008075909689068794,
-                    1
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
                 ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "alphaMode" : "BLEND",
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extensions" : {
-                "ASOBO_material_glass" : {
-                    "glassReflectionMaskFactor" : 1,
-                    "glassDeformationFactor" : 0
-                }
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
             },
-            "extras" : {
-                "msfs_material_mode" : 4,
-                "msfs_blend_mode" : 2,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 1,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 0,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 0,
-                "msfs_show_blend_threshold" : 1,
-                "msfs_color_alpha_mix" : 0.019999999552965164
-            },
-            "name" : "lamp.glass.005",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.019999999552965164
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extras" : {
-                "msfs_material_mode" : 1,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 0,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 1,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 1,
-                "msfs_show_blend_threshold" : 1
-            },
-            "name" : "lamp.body.004",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.008075909689068794,
-                    0.008075909689068794,
-                    0.008075909689068794,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "alphaMode" : "BLEND",
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extensions" : {
-                "ASOBO_material_glass" : {
-                    "glassReflectionMaskFactor" : 1,
-                    "glassDeformationFactor" : 0
-                }
-            },
-            "extras" : {
-                "msfs_material_mode" : 4,
-                "msfs_blend_mode" : 2,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 1,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 0,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 0,
-                "msfs_show_blend_threshold" : 1,
-                "msfs_color_alpha_mix" : 0.019999999552965164
-            },
-            "name" : "lamp.glass.004",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.019999999552965164
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extras" : {
-                "msfs_material_mode" : 1,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 0,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 1,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 1,
-                "msfs_show_blend_threshold" : 1
-            },
-            "name" : "lamp.body.009",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.008075909689068794,
-                    0.008075909689068794,
-                    0.008075909689068794,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "alphaMode" : "BLEND",
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extensions" : {
-                "ASOBO_material_glass" : {
-                    "glassReflectionMaskFactor" : 1,
-                    "glassDeformationFactor" : 0
-                }
-            },
-            "extras" : {
-                "msfs_material_mode" : 4,
-                "msfs_blend_mode" : 2,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 1,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 0,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 0,
-                "msfs_show_blend_threshold" : 1,
-                "msfs_color_alpha_mix" : 0.019999999552965164
-            },
-            "name" : "lamp.glass.009",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.019999999552965164
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extras" : {
-                "msfs_material_mode" : 1,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 0,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 1,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 1,
-                "msfs_show_blend_threshold" : 1
-            },
-            "name" : "lamp.body.008",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.008075909689068794,
-                    0.008075909689068794,
-                    0.008075909689068794,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "alphaMode" : "BLEND",
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extensions" : {
-                "ASOBO_material_glass" : {
-                    "glassReflectionMaskFactor" : 1,
-                    "glassDeformationFactor" : 0
-                }
-            },
-            "extras" : {
-                "msfs_material_mode" : 4,
-                "msfs_blend_mode" : 2,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 1,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 0,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 0,
-                "msfs_show_blend_threshold" : 1,
-                "msfs_color_alpha_mix" : 0.019999999552965164
-            },
-            "name" : "lamp.glass.008",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.019999999552965164
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "emissiveFactor" : [
-                0,
-                0,
-                0
-            ],
-            "extras" : {
-                "msfs_material_mode" : 1,
-                "msfs_show_tint" : 1,
-                "msfs_show_sss_color" : 0,
-                "msfs_show_glass_parameters" : 0,
-                "msfs_show_decal_parameters" : 0,
-                "msfs_show_fresnel_parameters" : 0,
-                "msfs_show_parallax_parameters" : 0,
-                "msfs_show_geo_decal_parameters" : 0,
-                "msfs_show_albedo" : 1,
-                "msfs_show_metallic" : 1,
-                "msfs_show_normal" : 1,
-                "msfs_show_emissive" : 1,
-                "msfs_show_detail_albedo" : 1,
-                "msfs_show_detail_metallic" : 1,
-                "msfs_show_detail_normal" : 1,
-                "msfs_show_blend_mask" : 1,
-                "msfs_show_anisotropic_direction" : 0,
-                "msfs_show_clearcoat" : 0,
-                "msfs_show_behind_glass" : 0,
-                "msfs_show_blend_mode" : 1,
-                "msfs_show_draworder" : 1,
-                "msfs_show_no_cast_shadow" : 1,
-                "msfs_show_double_sided" : 1,
-                "msfs_show_responsive_aa" : 0,
-                "msfs_show_day_night_cycle" : 1,
-                "msfs_show_collision_material" : 1,
-                "msfs_show_road_material" : 1,
-                "msfs_show_ao_use_uv2" : 1,
-                "msfs_show_uv_clamp" : 1,
-                "msfs_show_alpha_cutoff" : 1,
-                "msfs_show_blend_threshold" : 1
-            },
-            "name" : "light.pillar.main",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.6500054597854614,
-                    0.5063570737838745,
-                    0.3521570563316345,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
+            "name" : "screws",
+            "pbrMetallicRoughness" : {}
         }
     ],
     "meshes" : [
@@ -1777,114 +1419,52 @@
                     },
                     "indices" : 19,
                     "material" : 4
-                },
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder.002",
+            "primitives" : [
                 {
                     "attributes" : {
                         "POSITION" : 20,
                         "NORMAL" : 21,
                         "TEXCOORD_0" : 22
                     },
-                    "indices" : 11,
+                    "indices" : 23,
+                    "material" : 1
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 24,
+                        "NORMAL" : 25,
+                        "TEXCOORD_0" : 26
+                    },
+                    "indices" : 27,
+                    "material" : 1
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 28,
+                        "NORMAL" : 29,
+                        "TEXCOORD_0" : 30
+                    },
+                    "indices" : 31,
                     "material" : 5
                 },
                 {
                     "attributes" : {
-                        "POSITION" : 23,
-                        "NORMAL" : 24,
-                        "TEXCOORD_0" : 25
+                        "POSITION" : 32,
+                        "NORMAL" : 33,
+                        "TEXCOORD_0" : 34
                     },
-                    "indices" : 26,
+                    "indices" : 35,
                     "material" : 6
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 27,
-                        "NORMAL" : 28,
-                        "TEXCOORD_0" : 29
-                    },
-                    "indices" : 11,
-                    "material" : 7
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 30,
-                        "NORMAL" : 31,
-                        "TEXCOORD_0" : 32
-                    },
-                    "indices" : 33,
-                    "material" : 8
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 34,
-                        "NORMAL" : 35,
-                        "TEXCOORD_0" : 36
-                    },
-                    "indices" : 11,
-                    "material" : 9
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 37,
-                        "NORMAL" : 38,
-                        "TEXCOORD_0" : 39
-                    },
-                    "indices" : 26,
-                    "material" : 10
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 40,
-                        "NORMAL" : 41,
-                        "TEXCOORD_0" : 42
-                    },
-                    "indices" : 11,
-                    "material" : 11
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 43,
-                        "NORMAL" : 44,
-                        "TEXCOORD_0" : 45
-                    },
-                    "indices" : 46,
-                    "material" : 12
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 47,
-                        "NORMAL" : 48,
-                        "TEXCOORD_0" : 49
-                    },
-                    "indices" : 50,
-                    "material" : 13
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 51,
-                        "NORMAL" : 52,
-                        "TEXCOORD_0" : 53
-                    },
-                    "indices" : 54,
-                    "material" : 14
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 55,
-                        "NORMAL" : 56,
-                        "TEXCOORD_0" : 57
-                    },
-                    "indices" : 11,
-                    "material" : 15
-                },
-                {
-                    "attributes" : {
-                        "POSITION" : 58,
-                        "NORMAL" : 59,
-                        "TEXCOORD_0" : 60
-                    },
-                    "indices" : 61,
-                    "material" : 16
                 }
             ]
         }
@@ -1893,29 +1473,29 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 24,
+            "count" : 14,
             "max" : [
-                2.0314509868621826,
-                2.6039113998413086,
-                2.0314509868621826
+                60.94353103637695,
+                78.11734008789062,
+                60.94353103637695
             ],
             "min" : [
-                -2.0314509868621826,
-                -1.458990454673767,
-                -2.0314509868621826
+                -60.94353103637695,
+                -43.76971435546875,
+                -60.94353103637695
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 24,
+            "count" : 14,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 24,
+            "count" : 14,
             "type" : "VEC2"
         },
         {
@@ -1927,827 +1507,461 @@
         {
             "bufferView" : 4,
             "componentType" : 5126,
-            "count" : 389,
+            "count" : 1313,
             "max" : [
-                0.01926548406481743,
-                0.38697463274002075,
-                0.034320566803216934
+                2.8053956031799316,
+                18.14577293395996,
+                0.4675496518611908
             ],
             "min" : [
-                -0.010765474289655685,
-                0.35931187868118286,
-                0.010961302556097507
+                -2.5360348224639893,
+                -16.40239715576172,
+                -0.2459147870540619
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 5,
             "componentType" : 5126,
-            "count" : 389,
+            "count" : 1313,
             "type" : "VEC3"
         },
         {
             "bufferView" : 6,
             "componentType" : 5126,
-            "count" : 389,
+            "count" : 1313,
             "type" : "VEC2"
         },
         {
             "bufferView" : 7,
             "componentType" : 5123,
-            "count" : 1824,
+            "count" : 6384,
             "type" : "SCALAR"
         },
         {
             "bufferView" : 8,
             "componentType" : 5126,
-            "count" : 88,
+            "count" : 2009,
             "max" : [
-                0.01721791736781597,
-                0.3826329708099365,
-                0.03416132554411888
+                1.992269515991211,
+                14.855708122253418,
+                1.0117486715316772
             ],
             "min" : [
-                -0.008717908523976803,
-                0.36026859283447266,
-                0.01958319917321205
+                -1.768149733543396,
+                10.818180084228516,
+                0.2999524474143982
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 9,
             "componentType" : 5126,
-            "count" : 88,
+            "count" : 2009,
             "type" : "VEC3"
         },
         {
             "bufferView" : 10,
             "componentType" : 5126,
-            "count" : 88,
+            "count" : 2009,
             "type" : "VEC2"
         },
         {
             "bufferView" : 11,
             "componentType" : 5123,
-            "count" : 384,
+            "count" : 10080,
             "type" : "SCALAR"
         },
         {
             "bufferView" : 12,
             "componentType" : 5126,
-            "count" : 2009,
+            "count" : 2723,
             "max" : [
-                0.06640898436307907,
-                0.49519026279449463,
-                0.03372495621442795
+                2.0410735607147217,
+                14.932669639587402,
+                1.0296169519424438
             ],
             "min" : [
-                -0.05893832445144653,
-                0.36060601472854614,
-                0.009998414665460587
+                -1.8161649703979492,
+                10.779356002807617,
+                0.20953653752803802
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 13,
             "componentType" : 5126,
-            "count" : 2009,
+            "count" : 2723,
             "type" : "VEC3"
         },
         {
             "bufferView" : 14,
             "componentType" : 5126,
-            "count" : 2009,
+            "count" : 2723,
             "type" : "VEC2"
         },
         {
             "bufferView" : 15,
             "componentType" : 5123,
-            "count" : 10080,
+            "count" : 12768,
             "type" : "SCALAR"
         },
         {
             "bufferView" : 16,
             "componentType" : 5126,
-            "count" : 389,
+            "count" : 616,
             "max" : [
-                0.01926548406481743,
-                0.457478404045105,
-                0.027420880272984505
+                2.001262664794922,
+                14.83376407623291,
+                1.0248397588729858
             ],
             "min" : [
-                -0.010765474289655685,
-                0.42807042598724365,
-                0.007821922190487385
+                -1.777034044265747,
+                10.80805778503418,
+                0.48785078525543213
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 17,
             "componentType" : 5126,
-            "count" : 389,
+            "count" : 616,
             "type" : "VEC3"
         },
         {
             "bufferView" : 18,
             "componentType" : 5126,
-            "count" : 389,
+            "count" : 616,
             "type" : "VEC2"
         },
         {
             "bufferView" : 19,
             "componentType" : 5123,
-            "count" : 1824,
+            "count" : 2688,
             "type" : "SCALAR"
         },
         {
             "bufferView" : 20,
             "componentType" : 5126,
-            "count" : 88,
+            "count" : 4160,
             "max" : [
-                0.01721791736781597,
-                0.4549907445907593,
-                0.02815900929272175
+                0.014999999664723873,
+                18.61503028869629,
+                0.5598329305648804
             ],
             "min" : [
-                -0.008717908523976803,
-                0.42955732345581055,
-                0.020004108548164368
+                -0.014999999664723873,
+                -0.015000023879110813,
+                -0.5598329305648804
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 21,
             "componentType" : 5126,
-            "count" : 88,
+            "count" : 4160,
             "type" : "VEC3"
         },
         {
             "bufferView" : 22,
             "componentType" : 5126,
-            "count" : 88,
+            "count" : 4160,
             "type" : "VEC2"
         },
         {
             "bufferView" : 23,
-            "componentType" : 5126,
-            "count" : 389,
-            "max" : [
-                0.01926548406481743,
-                0.49775564670562744,
-                0.031113581731915474
-            ],
-            "min" : [
-                -0.01076547335833311,
-                0.4690413475036621,
-                0.009573040530085564
-            ],
-            "type" : "VEC3"
+            "componentType" : 5123,
+            "count" : 11904,
+            "type" : "SCALAR"
         },
         {
             "bufferView" : 24,
             "componentType" : 5126,
-            "count" : 389,
+            "count" : 260,
+            "max" : [
+                10.393868446350098,
+                0.014999999664723873,
+                1
+            ],
+            "min" : [
+                -1,
+                -0.014999999664723873,
+                -1
+            ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 25,
             "componentType" : 5126,
-            "count" : 389,
-            "type" : "VEC2"
+            "count" : 260,
+            "type" : "VEC3"
         },
         {
             "bufferView" : 26,
-            "componentType" : 5123,
-            "count" : 1824,
-            "type" : "SCALAR"
+            "componentType" : 5126,
+            "count" : 260,
+            "type" : "VEC2"
         },
         {
             "bufferView" : 27,
-            "componentType" : 5126,
-            "count" : 88,
-            "max" : [
-                0.01721791923046112,
-                0.49445879459381104,
-                0.03131483867764473
-            ],
-            "min" : [
-                -0.008717907592654228,
-                0.4703230857849121,
-                0.019973529502749443
-            ],
-            "type" : "VEC3"
+            "componentType" : 5123,
+            "count" : 744,
+            "type" : "SCALAR"
         },
         {
             "bufferView" : 28,
             "componentType" : 5126,
-            "count" : 88,
+            "count" : 552,
+            "max" : [
+                10.597159385681152,
+                -0.030797746032476425,
+                1.2032901048660278
+            ],
+            "min" : [
+                -1.2032896280288696,
+                -0.6131443977355957,
+                -1.2032898664474487
+            ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 29,
             "componentType" : 5126,
-            "count" : 88,
-            "type" : "VEC2"
+            "count" : 552,
+            "type" : "VEC3"
         },
         {
             "bufferView" : 30,
             "componentType" : 5126,
-            "count" : 389,
-            "max" : [
-                0.068035788834095,
-                0.4570333957672119,
-                0.029553350061178207
-            ],
-            "min" : [
-                0.03919461742043495,
-                0.427770733833313,
-                0.006984551437199116
-            ],
-            "type" : "VEC3"
+            "count" : 552,
+            "type" : "VEC2"
         },
         {
             "bufferView" : 31,
-            "componentType" : 5126,
-            "count" : 389,
-            "type" : "VEC3"
+            "componentType" : 5123,
+            "count" : 1716,
+            "type" : "SCALAR"
         },
         {
             "bufferView" : 32,
             "componentType" : 5126,
-            "count" : 389,
-            "type" : "VEC2"
+            "count" : 416,
+            "max" : [
+                10.291383743286133,
+                0.06655852496623993,
+                0.8975148797035217
+            ],
+            "min" : [
+                -0.8975144028663635,
+                -0.1553506702184677,
+                -0.8975148797035217
+            ],
+            "type" : "VEC3"
         },
         {
             "bufferView" : 33,
-            "componentType" : 5123,
-            "count" : 1824,
-            "type" : "SCALAR"
+            "componentType" : 5126,
+            "count" : 416,
+            "type" : "VEC3"
         },
         {
             "bufferView" : 34,
             "componentType" : 5126,
-            "count" : 88,
-            "max" : [
-                0.0667087584733963,
-                0.4543933868408203,
-                0.0295854564756155
-            ],
-            "min" : [
-                0.0422867126762867,
-                0.42921292781829834,
-                0.016261693090200424
-            ],
-            "type" : "VEC3"
+            "count" : 416,
+            "type" : "VEC2"
         },
         {
             "bufferView" : 35,
-            "componentType" : 5126,
-            "count" : 88,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 36,
-            "componentType" : 5126,
-            "count" : 88,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 37,
-            "componentType" : 5126,
-            "count" : 389,
-            "max" : [
-                0.06752388924360275,
-                0.49738550186157227,
-                0.03196830302476883
-            ],
-            "min" : [
-                0.03805486857891083,
-                0.46879327297210693,
-                0.009359486401081085
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 38,
-            "componentType" : 5126,
-            "count" : 389,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 39,
-            "componentType" : 5126,
-            "count" : 389,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 40,
-            "componentType" : 5126,
-            "count" : 88,
-            "max" : [
-                0.06599990278482437,
-                0.49398553371429443,
-                0.03193867579102516
-            ],
-            "min" : [
-                0.040423765778541565,
-                0.4700409173965454,
-                0.01860291324555874
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 41,
-            "componentType" : 5126,
-            "count" : 88,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 42,
-            "componentType" : 5126,
-            "count" : 88,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 43,
-            "componentType" : 5126,
-            "count" : 389,
-            "max" : [
-                -0.028793221339583397,
-                0.45666587352752686,
-                0.029680320993065834
-            ],
-            "min" : [
-                -0.0580725222826004,
-                0.427517294883728,
-                0.007855883799493313
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 44,
-            "componentType" : 5126,
-            "count" : 389,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 45,
-            "componentType" : 5126,
-            "count" : 389,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 46,
             "componentType" : 5123,
-            "count" : 1824,
-            "type" : "SCALAR"
-        },
-        {
-            "bufferView" : 47,
-            "componentType" : 5126,
-            "count" : 88,
-            "max" : [
-                -0.03133222460746765,
-                0.45385146141052246,
-                0.029721392318606377
-            ],
-            "min" : [
-                -0.05656099691987038,
-                0.42891907691955566,
-                0.017894934862852097
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 48,
-            "componentType" : 5126,
-            "count" : 88,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 49,
-            "componentType" : 5126,
-            "count" : 88,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 50,
-            "componentType" : 5123,
-            "count" : 384,
-            "type" : "SCALAR"
-        },
-        {
-            "bufferView" : 51,
-            "componentType" : 5126,
-            "count" : 389,
-            "max" : [
-                -0.031732816249132156,
-                0.497127890586853,
-                0.03242018446326256
-            ],
-            "min" : [
-                -0.06053883209824562,
-                0.46867430210113525,
-                0.008376047946512699
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 52,
-            "componentType" : 5126,
-            "count" : 389,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 53,
-            "componentType" : 5126,
-            "count" : 389,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 54,
-            "componentType" : 5123,
-            "count" : 1824,
-            "type" : "SCALAR"
-        },
-        {
-            "bufferView" : 55,
-            "componentType" : 5126,
-            "count" : 88,
-            "max" : [
-                -0.0349419079720974,
-                0.49362099170684814,
-                0.03215558081865311
-            ],
-            "min" : [
-                -0.05923446640372276,
-                0.46988093852996826,
-                0.01628679782152176
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 56,
-            "componentType" : 5126,
-            "count" : 88,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 57,
-            "componentType" : 5126,
-            "count" : 88,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 58,
-            "componentType" : 5126,
-            "count" : 1397,
-            "max" : [
-                0.09351318329572678,
-                0.6048591136932373,
-                0.01558498851954937
-            ],
-            "min" : [
-                -0.08453449606895447,
-                -0.611380398273468,
-                -0.008197159506380558
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 59,
-            "componentType" : 5126,
-            "count" : 1397,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 60,
-            "componentType" : 5126,
-            "count" : 1397,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 61,
-            "componentType" : 5123,
-            "count" : 6294,
+            "count" : 960,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 288,
+            "byteLength" : 168,
             "byteOffset" : 0
         },
         {
             "buffer" : 0,
-            "byteLength" : 288,
-            "byteOffset" : 288
+            "byteLength" : 168,
+            "byteOffset" : 168
         },
         {
             "buffer" : 0,
-            "byteLength" : 192,
-            "byteOffset" : 576
+            "byteLength" : 112,
+            "byteOffset" : 336
         },
         {
             "buffer" : 0,
             "byteLength" : 72,
-            "byteOffset" : 768
+            "byteOffset" : 448
         },
         {
             "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 840
+            "byteLength" : 15756,
+            "byteOffset" : 520
         },
         {
             "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 5508
+            "byteLength" : 15756,
+            "byteOffset" : 16276
         },
         {
             "buffer" : 0,
-            "byteLength" : 3112,
-            "byteOffset" : 10176
+            "byteLength" : 10504,
+            "byteOffset" : 32032
         },
         {
             "buffer" : 0,
-            "byteLength" : 3648,
-            "byteOffset" : 13288
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 16936
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 17992
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 704,
-            "byteOffset" : 19048
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 768,
-            "byteOffset" : 19752
+            "byteLength" : 12768,
+            "byteOffset" : 42536
         },
         {
             "buffer" : 0,
             "byteLength" : 24108,
-            "byteOffset" : 20520
+            "byteOffset" : 55304
         },
         {
             "buffer" : 0,
             "byteLength" : 24108,
-            "byteOffset" : 44628
+            "byteOffset" : 79412
         },
         {
             "buffer" : 0,
             "byteLength" : 16072,
-            "byteOffset" : 68736
+            "byteOffset" : 103520
         },
         {
             "buffer" : 0,
             "byteLength" : 20160,
-            "byteOffset" : 84808
+            "byteOffset" : 119592
         },
         {
             "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 104968
+            "byteLength" : 32676,
+            "byteOffset" : 139752
         },
         {
             "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 109636
+            "byteLength" : 32676,
+            "byteOffset" : 172428
         },
         {
             "buffer" : 0,
-            "byteLength" : 3112,
-            "byteOffset" : 114304
+            "byteLength" : 21784,
+            "byteOffset" : 205104
         },
         {
             "buffer" : 0,
-            "byteLength" : 3648,
-            "byteOffset" : 117416
+            "byteLength" : 25536,
+            "byteOffset" : 226888
         },
         {
             "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 121064
+            "byteLength" : 7392,
+            "byteOffset" : 252424
         },
         {
             "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 122120
+            "byteLength" : 7392,
+            "byteOffset" : 259816
         },
         {
             "buffer" : 0,
-            "byteLength" : 704,
-            "byteOffset" : 123176
+            "byteLength" : 4928,
+            "byteOffset" : 267208
         },
         {
             "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 123880
+            "byteLength" : 5376,
+            "byteOffset" : 272136
         },
         {
             "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 128548
+            "byteLength" : 49920,
+            "byteOffset" : 277512
         },
         {
             "buffer" : 0,
-            "byteLength" : 3112,
-            "byteOffset" : 133216
+            "byteLength" : 49920,
+            "byteOffset" : 327432
         },
         {
             "buffer" : 0,
-            "byteLength" : 3648,
-            "byteOffset" : 136328
+            "byteLength" : 33280,
+            "byteOffset" : 377352
         },
         {
             "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 139976
+            "byteLength" : 23808,
+            "byteOffset" : 410632
         },
         {
             "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 141032
+            "byteLength" : 3120,
+            "byteOffset" : 434440
         },
         {
             "buffer" : 0,
-            "byteLength" : 704,
-            "byteOffset" : 142088
+            "byteLength" : 3120,
+            "byteOffset" : 437560
         },
         {
             "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 142792
+            "byteLength" : 2080,
+            "byteOffset" : 440680
         },
         {
             "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 147460
+            "byteLength" : 1488,
+            "byteOffset" : 442760
         },
         {
             "buffer" : 0,
-            "byteLength" : 3112,
-            "byteOffset" : 152128
+            "byteLength" : 6624,
+            "byteOffset" : 444248
         },
         {
             "buffer" : 0,
-            "byteLength" : 3648,
-            "byteOffset" : 155240
+            "byteLength" : 6624,
+            "byteOffset" : 450872
         },
         {
             "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 158888
+            "byteLength" : 4416,
+            "byteOffset" : 457496
         },
         {
             "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 159944
+            "byteLength" : 3432,
+            "byteOffset" : 461912
         },
         {
             "buffer" : 0,
-            "byteLength" : 704,
-            "byteOffset" : 161000
+            "byteLength" : 4992,
+            "byteOffset" : 465344
         },
         {
             "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 161704
+            "byteLength" : 4992,
+            "byteOffset" : 470336
         },
         {
             "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 166372
+            "byteLength" : 3328,
+            "byteOffset" : 475328
         },
         {
             "buffer" : 0,
-            "byteLength" : 3112,
-            "byteOffset" : 171040
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 174152
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 175208
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 704,
-            "byteOffset" : 176264
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 176968
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 181636
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 3112,
-            "byteOffset" : 186304
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 3648,
-            "byteOffset" : 189416
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 193064
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 194120
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 704,
-            "byteOffset" : 195176
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 768,
-            "byteOffset" : 195880
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 196648
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 4668,
-            "byteOffset" : 201316
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 3112,
-            "byteOffset" : 205984
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 3648,
-            "byteOffset" : 209096
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 212744
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 213800
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 704,
-            "byteOffset" : 214856
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 16764,
-            "byteOffset" : 215560
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 16764,
-            "byteOffset" : 232324
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 11176,
-            "byteOffset" : 249088
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 12588,
-            "byteOffset" : 260264
+            "byteLength" : 1920,
+            "byteOffset" : 478656
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 272852,
+            "byteLength" : 480576,
             "uri" : "OERKoldterminalmast.bin"
         }
     ]
