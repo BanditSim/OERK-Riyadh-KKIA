@@ -1757,8 +1757,8 @@
     },
     {
       "path": "scenery/global/scenery/oerk-t2.BGL",
-      "size": 27623534,
-      "date": 133168106254619977
+      "size": 27789510,
+      "date": 133168671996155891
     },
     {
       "path": "scenery/global/scenery/oerk-tower.BGL",
@@ -1777,13 +1777,23 @@
     },
     {
       "path": "scenery/global/scenery/texture/BILLBOARDS.PNG.DDS",
-      "size": 2796344,
-      "date": 133158531514944108
+      "size": 5592560,
+      "date": 133168670611601147
     },
     {
       "path": "scenery/global/scenery/texture/BILLBOARDS.PNG.DDS.json",
-      "size": 102,
-      "date": 133158531514944108
+      "size": 119,
+      "date": 133168670611601147
+    },
+    {
+      "path": "scenery/global/scenery/texture/BILLBOARDS_E.PNG.DDS",
+      "size": 5592560,
+      "date": 133168670611601147
+    },
+    {
+      "path": "scenery/global/scenery/texture/BILLBOARDS_E.PNG.DDS.json",
+      "size": 119,
+      "date": 133168670611601147
     },
     {
       "path": "scenery/global/scenery/texture/CONNECTOR34.PNG.DDS",
