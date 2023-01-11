@@ -23,7 +23,8 @@
             "name" : "Scene",
             "nodes" : [
                 0,
-                1
+                1,
+                2
             ]
         }
     ],
@@ -44,6 +45,15 @@
                 0.00037547945976257324,
                 4.205559730529785,
                 -0.002869793213903904
+            ]
+        },
+        {
+            "mesh" : 2,
+            "name" : "Sphere",
+            "translation" : [
+                0.9959671497344971,
+                0.8817399144172668,
+                0.9205112457275391
             ]
         }
     ],
@@ -127,6 +137,41 @@
                     1
                 ]
             }
+        },
+        {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "yb.dds",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
+            },
+            "name" : "BOLLARD",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0
+                }
+            }
         }
     ],
     "meshes" : [
@@ -165,6 +210,33 @@
                     "indices" : 11
                 }
             ]
+        },
+        {
+            "name" : "Sphere",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 12,
+                        "NORMAL" : 13,
+                        "TEXCOORD_0" : 14
+                    },
+                    "indices" : 15,
+                    "material" : 2
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "yb",
+            "uri" : "../texture/yb.png"
         }
     ],
     "accessors" : [
@@ -269,6 +341,40 @@
             "componentType" : 5123,
             "count" : 282,
             "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 12,
+            "componentType" : 5126,
+            "count" : 340,
+            "max" : [
+                0.12150885909795761,
+                0.07903830707073212,
+                0.12150885909795761
+            ],
+            "min" : [
+                -2.11344313621521,
+                -0.8845263123512268,
+                -1.962531328201294
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 13,
+            "componentType" : 5126,
+            "count" : 340,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 14,
+            "componentType" : 5126,
+            "count" : 340,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 15,
+            "componentType" : 5123,
+            "count" : 1872,
+            "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
@@ -331,11 +437,37 @@
             "buffer" : 0,
             "byteLength" : 564,
             "byteOffset" : 4840
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4080,
+            "byteOffset" : 5404
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4080,
+            "byteOffset" : 9484
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2720,
+            "byteOffset" : 13564
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3744,
+            "byteOffset" : 16284
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 5404,
+            "byteLength" : 20028,
             "uri" : "oerk_gate_si.bin"
         }
     ]
