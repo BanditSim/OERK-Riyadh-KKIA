@@ -27,6 +27,14 @@
 			<AssetDir>PackageSources\data\</AssetDir>
 			<OutputDir>scenery/global/scenery\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="oerk-cargo">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\oerk-cargo\</AssetDir>
+			<OutputDir>scenery\global\scenery\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="oerk-gc">
 			<Type>ModelLib</Type>
 			<Flags>

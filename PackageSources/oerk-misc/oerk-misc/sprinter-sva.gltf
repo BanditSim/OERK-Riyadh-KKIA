@@ -1,0 +1,359 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Khronos glTF Blender I/O v1.7.33 and Asobo Studio MSFS Blender I/O v1.1.6",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention",
+        "KHR_materials_clearcoat"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "msfs_exporter_properties" : {}
+            },
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Body",
+            "translation" : [
+                0,
+                1.3442708253860474,
+                0
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "Wheel_F",
+            "rotation" : [
+                0,
+                0,
+                -0.7071068286895752,
+                0.7071068286895752
+            ],
+            "scale" : [
+                0.4053889811038971,
+                0.1038745790719986,
+                0.4053889811038971
+            ],
+            "translation" : [
+                0.9046373963356018,
+                0.410317063331604,
+                -2.7934210300445557
+            ]
+        },
+        {
+            "mesh" : 2,
+            "name" : "Wheel_R",
+            "rotation" : [
+                0,
+                0,
+                -0.7071068286895752,
+                0.7071068286895752
+            ],
+            "scale" : [
+                0.4053889811038971,
+                0.10206952691078186,
+                0.4053889811038971
+            ],
+            "translation" : [
+                0.9046373963356018,
+                0.410317063331604,
+                2.0292410850524902
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "extensions" : {
+                "KHR_materials_clearcoat" : {
+                    "clearcoatFactor" : 1,
+                    "clearcoatRoughnessFactor" : 0.05000000074505806
+                }
+            },
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "sprinter-sva.dds",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
+            },
+            "name" : "body",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0
+                },
+                "metallicFactor" : 4
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "sprinter-sva",
+            "uri" : "../texture/sprinter-sva.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 157,
+            "max" : [
+                1,
+                1.3550000190734863,
+                3.641216516494751
+            ],
+            "min" : [
+                -1,
+                -0.9820323586463928,
+                -3.683500051498413
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 157,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 157,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 480,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 896,
+            "max" : [
+                1.0000001192092896,
+                1,
+                1
+            ],
+            "min" : [
+                -1,
+                -18.417877197265625,
+                -1.0000004768371582
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 896,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 896,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 1512,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 1792,
+            "max" : [
+                1.0000003576278687,
+                1,
+                1
+            ],
+            "min" : [
+                -1,
+                -18.725906372070312,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 1792,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 1792,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5123,
+            "count" : 3024,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 1884,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1884,
+            "byteOffset" : 1884
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1256,
+            "byteOffset" : 3768
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 960,
+            "byteOffset" : 5024
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 10752,
+            "byteOffset" : 5984
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 10752,
+            "byteOffset" : 16736
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 7168,
+            "byteOffset" : 27488
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3024,
+            "byteOffset" : 34656
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 21504,
+            "byteOffset" : 37680
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 21504,
+            "byteOffset" : 59184
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 14336,
+            "byteOffset" : 80688
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 6048,
+            "byteOffset" : 95024
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 101072,
+            "uri" : "sprinter-sva.bin"
+        }
+    ]
+}
